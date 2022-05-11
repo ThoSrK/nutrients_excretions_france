@@ -1,0 +1,649 @@
+﻿NOM;ANNREF;FRANCE;FRDOM;REGION;DEP;SAANR_8_DIM1;SAANR_8_MOD_DIM1;SAANR_8_LIB_DIM1;SAANR_8_DIM3;SAANR_8_MOD_DIM3;SAANR_8_LIB_DIM3;SAANR_8_DIM4;SAANR_8_MOD_DIM4;SAANR_8_LIB_DIM4;VALEUR;QUALITE
+SAANR_8;2017;FR;DOM;NR01;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;NR01;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);304;OUI
+SAANR_8;2017;FR;DOM;NR01;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);67;OUI
+SAANR_8;2017;FR;DOM;NR01;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);111;OUI
+SAANR_8;2017;FR;DOM;NR01;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);482;OUI
+SAANR_8;2017;FR;DOM;NR01;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;NR01;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);3;OUI
+SAANR_8;2017;FR;DOM;NR01;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);8;OUI
+SAANR_8;2017;FR;DOM;NR01;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;DOM;NR01;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);26;OUI
+SAANR_8;2017;FR;DOM;NR01;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;NR01;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);3;OUI
+SAANR_8;2017;FR;DOM;NR02;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;NR02;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);159;OUI
+SAANR_8;2017;FR;DOM;NR02;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;NR02;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);220;OUI
+SAANR_8;2017;FR;DOM;NR02;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);379;OUI
+SAANR_8;2017;FR;DOM;NR02;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;NR02;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;NR02;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);7;OUI
+SAANR_8;2017;FR;DOM;NR02;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;NR02;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;DOM;NR02;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;NR02;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;DOM;NR03;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;NR03;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);72;OUI
+SAANR_8;2017;FR;DOM;NR03;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);10;OUI
+SAANR_8;2017;FR;DOM;NR03;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);25;OUI
+SAANR_8;2017;FR;DOM;NR03;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);107;OUI
+SAANR_8;2017;FR;DOM;NR03;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;DOM;NR03;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;DOM;NR03;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;NR03;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;NR03;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;DOM;NR03;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);3;OUI
+SAANR_8;2017;FR;DOM;NR03;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;DOM;NR04;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);75;OUI
+SAANR_8;2017;FR;DOM;NR04;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);433;OUI
+SAANR_8;2017;FR;DOM;NR04;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);173;OUI
+SAANR_8;2017;FR;DOM;NR04;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);1976;OUI
+SAANR_8;2017;FR;DOM;NR04;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);2657;OUI
+SAANR_8;2017;FR;DOM;NR04;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;NR04;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);124;OUI
+SAANR_8;2017;FR;DOM;NR04;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);93;OUI
+SAANR_8;2017;FR;DOM;NR04;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;DOM;NR04;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);79;OUI
+SAANR_8;2017;FR;DOM;NR04;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);10;OUI
+SAANR_8;2017;FR;DOM;NR04;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);6;OUI
+SAANR_8;2017;FR;DOM;NR06;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;NR06;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);80;OUI
+SAANR_8;2017;FR;DOM;NR06;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);40;OUI
+SAANR_8;2017;FR;DOM;NR06;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);90;OUI
+SAANR_8;2017;FR;DOM;NR06;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);210;OUI
+SAANR_8;2017;FR;DOM;NR06;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;NR06;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);8;OUI
+SAANR_8;2017;FR;DOM;NR06;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;DOM;NR06;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;DOM;NR06;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;DOM;NR06;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;NR06;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;METRO;NR11;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);78;OUI
+SAANR_8;2017;FR;METRO;NR11;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);781;OUI
+SAANR_8;2017;FR;METRO;NR11;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);52;OUI
+SAANR_8;2017;FR;METRO;NR11;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);662;OUI
+SAANR_8;2017;FR;METRO;NR11;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);1573;OUI
+SAANR_8;2017;FR;METRO;NR11;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;METRO;NR11;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);8;OUI
+SAANR_8;2017;FR;METRO;NR11;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;METRO;NR11;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;METRO;NR11;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);15;OUI
+SAANR_8;2017;FR;METRO;NR11;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;METRO;NR11;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;METRO;NR24;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);513;OUI
+SAANR_8;2017;FR;METRO;NR24;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);1680;OUI
+SAANR_8;2017;FR;METRO;NR24;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);412;OUI
+SAANR_8;2017;FR;METRO;NR24;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);5320;OUI
+SAANR_8;2017;FR;METRO;NR24;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);7925;OUI
+SAANR_8;2017;FR;METRO;NR24;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);55;OUI
+SAANR_8;2017;FR;METRO;NR24;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);117;OUI
+SAANR_8;2017;FR;METRO;NR24;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);600;OUI
+SAANR_8;2017;FR;METRO;NR24;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);6;OUI
+SAANR_8;2017;FR;METRO;NR24;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);450;OUI
+SAANR_8;2017;FR;METRO;NR24;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);193;OUI
+SAANR_8;2017;FR;METRO;NR24;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);13;OUI
+SAANR_8;2017;FR;METRO;NR27;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);245;OUI
+SAANR_8;2017;FR;METRO;NR27;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);752;OUI
+SAANR_8;2017;FR;METRO;NR27;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);102;OUI
+SAANR_8;2017;FR;METRO;NR27;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);7688;OUI
+SAANR_8;2017;FR;METRO;NR27;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);8787;OUI
+SAANR_8;2017;FR;METRO;NR27;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);15;OUI
+SAANR_8;2017;FR;METRO;NR27;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);447;OUI
+SAANR_8;2017;FR;METRO;NR27;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);229;OUI
+SAANR_8;2017;FR;METRO;NR27;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);5;OUI
+SAANR_8;2017;FR;METRO;NR27;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);240;OUI
+SAANR_8;2017;FR;METRO;NR27;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);117;OUI
+SAANR_8;2017;FR;METRO;NR27;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);19;OUI
+SAANR_8;2017;FR;METRO;NR28;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);178;OUI
+SAANR_8;2017;FR;METRO;NR28;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);2209;OUI
+SAANR_8;2017;FR;METRO;NR28;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);1426;OUI
+SAANR_8;2017;FR;METRO;NR28;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);5587;OUI
+SAANR_8;2017;FR;METRO;NR28;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);9400;OUI
+SAANR_8;2017;FR;METRO;NR28;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);30;OUI
+SAANR_8;2017;FR;METRO;NR28;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);129;OUI
+SAANR_8;2017;FR;METRO;NR28;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);686;OUI
+SAANR_8;2017;FR;METRO;NR28;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);9;OUI
+SAANR_8;2017;FR;METRO;NR28;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);520;OUI
+SAANR_8;2017;FR;METRO;NR28;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);8;OUI
+SAANR_8;2017;FR;METRO;NR28;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);44;OUI
+SAANR_8;2017;FR;METRO;NR32;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);524;OUI
+SAANR_8;2017;FR;METRO;NR32;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);4680;OUI
+SAANR_8;2017;FR;METRO;NR32;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);1038;OUI
+SAANR_8;2017;FR;METRO;NR32;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);9223;OUI
+SAANR_8;2017;FR;METRO;NR32;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);15465;OUI
+SAANR_8;2017;FR;METRO;NR32;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);12;OUI
+SAANR_8;2017;FR;METRO;NR32;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);15;OUI
+SAANR_8;2017;FR;METRO;NR32;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);409;OUI
+SAANR_8;2017;FR;METRO;NR32;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;METRO;NR32;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);155;OUI
+SAANR_8;2017;FR;METRO;NR32;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);34;OUI
+SAANR_8;2017;FR;METRO;NR32;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);36;OUI
+SAANR_8;2017;FR;METRO;NR44;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);116;OUI
+SAANR_8;2017;FR;METRO;NR44;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);1886;OUI
+SAANR_8;2017;FR;METRO;NR44;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);1437;OUI
+SAANR_8;2017;FR;METRO;NR44;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);5725;OUI
+SAANR_8;2017;FR;METRO;NR44;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);9164;OUI
+SAANR_8;2017;FR;METRO;NR44;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);43;OUI
+SAANR_8;2017;FR;METRO;NR44;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);41;OUI
+SAANR_8;2017;FR;METRO;NR44;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);162;OUI
+SAANR_8;2017;FR;METRO;NR44;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);10;OUI
+SAANR_8;2017;FR;METRO;NR44;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);33;OUI
+SAANR_8;2017;FR;METRO;NR44;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);402;OUI
+SAANR_8;2017;FR;METRO;NR44;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);33;OUI
+SAANR_8;2017;FR;METRO;NR52;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);3437;OUI
+SAANR_8;2017;FR;METRO;NR52;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);5623;OUI
+SAANR_8;2017;FR;METRO;NR52;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);3517;OUI
+SAANR_8;2017;FR;METRO;NR52;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);36567;OUI
+SAANR_8;2017;FR;METRO;NR52;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);49144;OUI
+SAANR_8;2017;FR;METRO;NR52;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);1843;OUI
+SAANR_8;2017;FR;METRO;NR52;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);7832;OUI
+SAANR_8;2017;FR;METRO;NR52;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);5481;OUI
+SAANR_8;2017;FR;METRO;NR52;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);91;OUI
+SAANR_8;2017;FR;METRO;NR52;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);4345;OUI
+SAANR_8;2017;FR;METRO;NR52;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);3902;OUI
+SAANR_8;2017;FR;METRO;NR52;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);227;OUI
+SAANR_8;2017;FR;METRO;NR53;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);4230;OUI
+SAANR_8;2017;FR;METRO;NR53;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);20630;OUI
+SAANR_8;2017;FR;METRO;NR53;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);13265;OUI
+SAANR_8;2017;FR;METRO;NR53;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);51205;OUI
+SAANR_8;2017;FR;METRO;NR53;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);89330;OUI
+SAANR_8;2017;FR;METRO;NR53;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);860;OUI
+SAANR_8;2017;FR;METRO;NR53;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);2700;OUI
+SAANR_8;2017;FR;METRO;NR53;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);9320;OUI
+SAANR_8;2017;FR;METRO;NR53;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);31;OUI
+SAANR_8;2017;FR;METRO;NR53;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);1480;OUI
+SAANR_8;2017;FR;METRO;NR53;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);257;OUI
+SAANR_8;2017;FR;METRO;NR53;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);111;OUI
+SAANR_8;2017;FR;METRO;NR75;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);674;OUI
+SAANR_8;2017;FR;METRO;NR75;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);3488;OUI
+SAANR_8;2017;FR;METRO;NR75;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);1086;OUI
+SAANR_8;2017;FR;METRO;NR75;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);16305;OUI
+SAANR_8;2017;FR;METRO;NR75;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);21553;OUI
+SAANR_8;2017;FR;METRO;NR75;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);5718;OUI
+SAANR_8;2017;FR;METRO;NR75;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);1245;OUI
+SAANR_8;2017;FR;METRO;NR75;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);1512;OUI
+SAANR_8;2017;FR;METRO;NR75;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);142;OUI
+SAANR_8;2017;FR;METRO;NR75;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);1562;OUI
+SAANR_8;2017;FR;METRO;NR75;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);2568;OUI
+SAANR_8;2017;FR;METRO;NR75;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);109;OUI
+SAANR_8;2017;FR;METRO;NR76;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);106;OUI
+SAANR_8;2017;FR;METRO;NR76;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);1555;OUI
+SAANR_8;2017;FR;METRO;NR76;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);423;OUI
+SAANR_8;2017;FR;METRO;NR76;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);5378;OUI
+SAANR_8;2017;FR;METRO;NR76;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);7462;OUI
+SAANR_8;2017;FR;METRO;NR76;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);1546;OUI
+SAANR_8;2017;FR;METRO;NR76;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);84;OUI
+SAANR_8;2017;FR;METRO;NR76;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);184;OUI
+SAANR_8;2017;FR;METRO;NR76;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);21;OUI
+SAANR_8;2017;FR;METRO;NR76;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);368;OUI
+SAANR_8;2017;FR;METRO;NR76;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);761;OUI
+SAANR_8;2017;FR;METRO;NR76;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);53;OUI
+SAANR_8;2017;FR;METRO;NR84;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);452;OUI
+SAANR_8;2017;FR;METRO;NR84;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);5531;OUI
+SAANR_8;2017;FR;METRO;NR84;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);2288;OUI
+SAANR_8;2017;FR;METRO;NR84;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);11342;OUI
+SAANR_8;2017;FR;METRO;NR84;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);19613;OUI
+SAANR_8;2017;FR;METRO;NR84;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);93;OUI
+SAANR_8;2017;FR;METRO;NR84;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);473;OUI
+SAANR_8;2017;FR;METRO;NR84;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);1439;OUI
+SAANR_8;2017;FR;METRO;NR84;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);12;OUI
+SAANR_8;2017;FR;METRO;NR84;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);708;OUI
+SAANR_8;2017;FR;METRO;NR84;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);134;OUI
+SAANR_8;2017;FR;METRO;NR84;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);69;OUI
+SAANR_8;2017;FR;METRO;NR93;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;METRO;NR93;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);544;OUI
+SAANR_8;2017;FR;METRO;NR93;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);79;OUI
+SAANR_8;2017;FR;METRO;NR93;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);690;OUI
+SAANR_8;2017;FR;METRO;NR93;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);1315;OUI
+SAANR_8;2017;FR;METRO;NR93;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;METRO;NR93;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;METRO;NR93;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;METRO;NR93;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;METRO;NR93;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);28;OUI
+SAANR_8;2017;FR;METRO;NR93;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);31;OUI
+SAANR_8;2017;FR;METRO;NR93;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;METRO;NR94;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;METRO;NR94;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);97;OUI
+SAANR_8;2017;FR;METRO;NR94;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;METRO;NR94;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);109;OUI
+SAANR_8;2017;FR;METRO;NR94;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);208;OUI
+SAANR_8;2017;FR;METRO;NR94;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;METRO;NR94;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;METRO;NR94;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;METRO;NR94;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;METRO;NR94;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;METRO;NR94;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;METRO;NR94;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);304;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);67;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);111;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);482;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);3;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);8;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);26;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);3;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);159;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);220;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);379;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);7;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);72;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);10;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);25;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);107;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);3;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);75;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);433;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);173;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);1976;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);2657;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);124;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);93;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);79;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);10;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);6;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);80;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);40;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);90;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);210;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);8;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;DOM;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);78;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);781;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);52;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);662;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);1573;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);8;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);15;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);513;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);1680;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);412;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);5320;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);7925;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);55;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);117;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);600;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);6;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);450;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);193;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);13;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);245;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);752;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);102;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);7688;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);8787;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);15;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);447;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);229;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);5;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);240;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);117;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);19;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);178;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);2209;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);1426;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);5587;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);9400;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);30;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);129;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);686;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);9;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);520;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);8;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);44;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);524;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);4680;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);1038;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);9223;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);15465;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);12;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);15;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);409;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);155;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);34;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);36;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);116;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);1886;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);1437;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);5725;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);9164;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);43;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);41;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);162;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);10;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);33;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);402;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);33;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);3437;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);5623;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);3517;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);36567;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);49144;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);1843;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);7832;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);5481;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);91;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);4345;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);3902;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);227;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);4230;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);20630;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);13265;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);51205;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);89330;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);860;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);2700;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);9320;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);31;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);1480;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);257;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);111;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);674;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);3488;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);1086;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);16305;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);21553;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);5718;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);1245;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);1512;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);142;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);1562;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);2568;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);109;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);106;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);1555;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);423;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);5378;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);7462;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);1546;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);84;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);184;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);21;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);368;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);761;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);53;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);452;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);5531;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);2288;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);11342;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);19613;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);93;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);473;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);1439;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);12;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);708;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);134;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);69;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);544;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);79;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);690;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);1315;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);28;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);31;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);97;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);109;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);208;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;METRO;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);304;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);67;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);111;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);482;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);3;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);8;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);26;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);3;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);159;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);220;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);379;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);7;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);72;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);10;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);25;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);107;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);3;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);75;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);433;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);173;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);1976;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);2657;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);124;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);93;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);79;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);10;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);6;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);80;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);40;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);90;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);210;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);8;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);78;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);781;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);52;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);662;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);1573;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);8;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);15;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);513;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);1680;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);412;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);5320;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);7925;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);55;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);117;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);600;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);6;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);450;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);193;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);13;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);245;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);752;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);102;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);7688;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);8787;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);15;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);447;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);229;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);5;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);240;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);117;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);19;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);178;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);2209;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);1426;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);5587;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);9400;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);30;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);129;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);686;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);9;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);520;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);8;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);44;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);524;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);4680;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);1038;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);9223;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);15465;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);12;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);15;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);409;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);155;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);34;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);36;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);116;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);1886;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);1437;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);5725;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);9164;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);43;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);41;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);162;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);10;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);33;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);402;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);33;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);3437;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);5623;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);3517;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);36567;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);49144;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);1843;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);7832;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);5481;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);91;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);4345;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);3902;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);227;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);4230;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);20630;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);13265;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);51205;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);89330;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);860;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);2700;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);9320;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);31;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);1480;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);257;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);111;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);674;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);3488;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);1086;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);16305;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);21553;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);5718;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);1245;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);1512;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);142;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);1562;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);2568;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);109;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);106;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);1555;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);423;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);5378;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);7462;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);1546;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);84;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);184;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);21;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);368;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);761;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);53;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);452;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);5531;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);2288;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);11342;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);19613;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);93;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);473;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);1439;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);12;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);708;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);134;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);69;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);544;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);79;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);690;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);1315;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);4;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);28;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);31;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;001;Poules pondeuses d'oeufs à couver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;002;Poules pondeuses d'oeufs de consommation;Indicateur;001;Effectif dans les exploitations (1000 têtes);97;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;003;Poulettes;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;004;Poulets de chair (y compris coqs et coquelets);Indicateur;001;Effectif dans les exploitations (1000 têtes);109;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;005;Ensemble gallus;Indicateur;001;Effectif dans les exploitations (1000 têtes);208;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;006;Canards à gaver;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;007;Canards à rôtir;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;008;Dindes et dindons (au 1er octobre);Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;009;Oies au 1er octobre (à rôtir, à gaver);Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;010;Pintades;Indicateur;001;Effectif dans les exploitations (1000 têtes);1;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;011;Cailles d'élevage;Indicateur;001;Effectif dans les exploitations (1000 têtes);0;OUI
+SAANR_8;2017;FR;...;...;...;Thème;001;Volailles et lapins;Produit;012;Lapines reproductrices;Indicateur;001;Effectif dans les exploitations (1000 têtes);2;OUI

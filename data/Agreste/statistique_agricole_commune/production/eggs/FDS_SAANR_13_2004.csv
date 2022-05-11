@@ -1,0 +1,111 @@
+﻿NOM;ANNREF;FRANCE;FRDOM;REGION;DEP;SAANR_13_DIM1;SAANR_13_MOD_DIM1;SAANR_13_LIB_DIM1;SAANR_13_DIM3;SAANR_13_MOD_DIM3;SAANR_13_LIB_DIM3;SAANR_13_DIM4;SAANR_13_MOD_DIM4;SAANR_13_LIB_DIM4;VALEUR;QUALITE
+SAANR_13;2004;FR;METRO;;NR01;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);206;OUI
+SAANR_13;2004;FR;METRO;;NR02;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);292;OUI
+SAANR_13;2004;FR;METRO;;NR03;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);29;OUI
+SAANR_13;2004;FR;METRO;;NR04;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);560;OUI
+SAANR_13;2004;FR;METRO;;NR11;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);897;OUI
+SAANR_13;2004;FR;METRO;;NR24;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);1473;OUI
+SAANR_13;2004;FR;METRO;;NR27;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);852;OUI
+SAANR_13;2004;FR;METRO;;NR28;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);1960;OUI
+SAANR_13;2004;FR;METRO;;NR32;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);4482;OUI
+SAANR_13;2004;FR;METRO;;NR44;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);2048;OUI
+SAANR_13;2004;FR;METRO;;NR52;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);4146;OUI
+SAANR_13;2004;FR;METRO;;NR53;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);19284;OUI
+SAANR_13;2004;FR;METRO;;NR75;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);3220;OUI
+SAANR_13;2004;FR;METRO;;NR76;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);1579;OUI
+SAANR_13;2004;FR;METRO;;NR84;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);5468;OUI
+SAANR_13;2004;FR;METRO;;NR93;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);650;OUI
+SAANR_13;2004;FR;METRO;;NR94;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);78;OUI
+SAANR_13;2004;FR;METRO;;NR11;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;002;Production moyenne (?uf/an);303;OUI
+SAANR_13;2004;FR;METRO;;NR24;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;002;Production moyenne (?uf/an);290;OUI
+SAANR_13;2004;FR;METRO;;NR27;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;002;Production moyenne (?uf/an);248.37;OUI
+SAANR_13;2004;FR;METRO;;NR28;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;002;Production moyenne (?uf/an);251.63;OUI
+SAANR_13;2004;FR;METRO;;NR32;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;002;Production moyenne (?uf/an);252.88;OUI
+SAANR_13;2004;FR;METRO;;NR44;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;002;Production moyenne (?uf/an);250.03;OUI
+SAANR_13;2004;FR;METRO;;NR52;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;002;Production moyenne (?uf/an);284;OUI
+SAANR_13;2004;FR;METRO;;NR53;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;002;Production moyenne (?uf/an);312;OUI
+SAANR_13;2004;FR;METRO;;NR75;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;002;Production moyenne (?uf/an);244.56;OUI
+SAANR_13;2004;FR;METRO;;NR76;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;002;Production moyenne (?uf/an);277.5;OUI
+SAANR_13;2004;FR;METRO;;NR84;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;002;Production moyenne (?uf/an);267.47;OUI
+SAANR_13;2004;FR;METRO;;NR93;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;002;Production moyenne (?uf/an);352;OUI
+SAANR_13;2004;FR;METRO;;NR94;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;002;Production moyenne (?uf/an);328;OUI
+SAANR_13;2004;FR;METRO;;NR11;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;003;Production totale (1000 ?ufs);271791;OUI
+SAANR_13;2004;FR;METRO;;NR24;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;003;Production totale (1000 ?ufs);427170;OUI
+SAANR_13;2004;FR;METRO;;NR27;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;003;Production totale (1000 ?ufs);211610;OUI
+SAANR_13;2004;FR;METRO;;NR28;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;003;Production totale (1000 ?ufs);493202;OUI
+SAANR_13;2004;FR;METRO;;NR32;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;003;Production totale (1000 ?ufs);1133412;OUI
+SAANR_13;2004;FR;METRO;;NR44;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;003;Production totale (1000 ?ufs);512057;OUI
+SAANR_13;2004;FR;METRO;;NR52;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;003;Production totale (1000 ?ufs);1177464;OUI
+SAANR_13;2004;FR;METRO;;NR53;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;003;Production totale (1000 ?ufs);6016608;OUI
+SAANR_13;2004;FR;METRO;;NR75;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;003;Production totale (1000 ?ufs);787498;OUI
+SAANR_13;2004;FR;METRO;;NR76;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;003;Production totale (1000 ?ufs);438180;OUI
+SAANR_13;2004;FR;METRO;;NR84;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;003;Production totale (1000 ?ufs);1462552;OUI
+SAANR_13;2004;FR;METRO;;NR93;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;003;Production totale (1000 ?ufs);228800;OUI
+SAANR_13;2004;FR;METRO;;NR94;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;003;Production totale (1000 ?ufs);25584;OUI
+SAANR_13;2004;FR;METRO;;NR01;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);0;OUI
+SAANR_13;2004;FR;METRO;;NR02;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);0;OUI
+SAANR_13;2004;FR;METRO;;NR03;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);3;OUI
+SAANR_13;2004;FR;METRO;;NR04;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);0;OUI
+SAANR_13;2004;FR;METRO;;NR11;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);59;OUI
+SAANR_13;2004;FR;METRO;;NR24;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);501;OUI
+SAANR_13;2004;FR;METRO;;NR27;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);235;OUI
+SAANR_13;2004;FR;METRO;;NR28;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);150;OUI
+SAANR_13;2004;FR;METRO;;NR32;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);403;OUI
+SAANR_13;2004;FR;METRO;;NR44;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);112;OUI
+SAANR_13;2004;FR;METRO;;NR52;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);2060;OUI
+SAANR_13;2004;FR;METRO;;NR53;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);3466;OUI
+SAANR_13;2004;FR;METRO;;NR75;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);512;OUI
+SAANR_13;2004;FR;METRO;;NR76;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);163;OUI
+SAANR_13;2004;FR;METRO;;NR84;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);277;OUI
+SAANR_13;2004;FR;METRO;;NR93;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);2;OUI
+SAANR_13;2004;FR;METRO;;NR94;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);0;OUI
+SAANR_13;2004;FR;METRO;;NR01;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);;OUI
+SAANR_13;2004;FR;METRO;;NR02;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);;OUI
+SAANR_13;2004;FR;METRO;;NR04;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);;OUI
+SAANR_13;2004;FR;METRO;;NR11;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);295;OUI
+SAANR_13;2004;FR;METRO;;NR24;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);166;OUI
+SAANR_13;2004;FR;METRO;;NR27;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);166;OUI
+SAANR_13;2004;FR;METRO;;NR28;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);370.29;OUI
+SAANR_13;2004;FR;METRO;;NR32;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);174.64;OUI
+SAANR_13;2004;FR;METRO;;NR44;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);95.18;OUI
+SAANR_13;2004;FR;METRO;;NR52;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);166;OUI
+SAANR_13;2004;FR;METRO;;NR53;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);212;OUI
+SAANR_13;2004;FR;METRO;;NR75;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);210.25;OUI
+SAANR_13;2004;FR;METRO;;NR76;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);162.94;OUI
+SAANR_13;2004;FR;METRO;;NR84;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);161.35;OUI
+SAANR_13;2004;FR;METRO;;NR93;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);166;OUI
+SAANR_13;2004;FR;METRO;;NR94;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);;OUI
+SAANR_13;2004;FR;METRO;;NR01;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);0;OUI
+SAANR_13;2004;FR;METRO;;NR02;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);0;OUI
+SAANR_13;2004;FR;METRO;;NR04;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);0;OUI
+SAANR_13;2004;FR;METRO;;NR11;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);17405;OUI
+SAANR_13;2004;FR;METRO;;NR24;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);83166;OUI
+SAANR_13;2004;FR;METRO;;NR27;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);39010;OUI
+SAANR_13;2004;FR;METRO;;NR28;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);55544;OUI
+SAANR_13;2004;FR;METRO;;NR32;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);70381;OUI
+SAANR_13;2004;FR;METRO;;NR44;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);10660;OUI
+SAANR_13;2004;FR;METRO;;NR52;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);341960;OUI
+SAANR_13;2004;FR;METRO;;NR53;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);734792;OUI
+SAANR_13;2004;FR;METRO;;NR75;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);107646;OUI
+SAANR_13;2004;FR;METRO;;NR76;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);26559;OUI
+SAANR_13;2004;FR;METRO;;NR84;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);44694;OUI
+SAANR_13;2004;FR;METRO;;NR93;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);332;OUI
+SAANR_13;2004;FR;METRO;;NR94;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);0;OUI
+SAANR_13;2004;FR;METRO;;...;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);47224;OUI
+SAANR_13;2004;FR;METRO;;...;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;002;Production moyenne (?uf/an);285.8;OUI
+SAANR_13;2004;FR;METRO;;...;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;003;Production totale (1000 ?ufs);13185928;OUI
+SAANR_13;2004;FR;METRO;;...;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);7943;OUI
+SAANR_13;2004;FR;METRO;;...;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);192.97;OUI
+SAANR_13;2004;FR;METRO;;...;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);1532149;OUI
+SAANR_13;2004;FR;METRO;...;...;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);47224;OUI
+SAANR_13;2004;FR;METRO;...;...;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;002;Production moyenne (?uf/an);285.8;OUI
+SAANR_13;2004;FR;METRO;...;...;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;003;Production totale (1000 ?ufs);13185928;OUI
+SAANR_13;2004;FR;METRO;...;...;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);7943;OUI
+SAANR_13;2004;FR;METRO;...;...;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);192.97;OUI
+SAANR_13;2004;FR;METRO;...;...;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);1532149;OUI
+SAANR_13;2004;FR;...;...;...;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);47224;OUI
+SAANR_13;2004;FR;...;...;...;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;002;Production moyenne (?uf/an);285.8;OUI
+SAANR_13;2004;FR;...;...;...;Thème;001;Production d'?ufs;Produit;001;?ufs de consommation;Indicateur;003;Production totale (1000 ?ufs);13185928;OUI
+SAANR_13;2004;FR;...;...;...;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;001;Nombre moyen de pondeuses (1000 têtes);7943;OUI
+SAANR_13;2004;FR;...;...;...;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;002;Production moyenne (?uf/an);192.97;OUI
+SAANR_13;2004;FR;...;...;...;Thème;001;Production d'?ufs;Produit;002;?ufs à couver;Indicateur;003;Production totale (1000 ?ufs);1532149;OUI

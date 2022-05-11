@@ -1,0 +1,283 @@
+﻿NOM;ANNREF;FRANCE;FRDOM;REGION;DEP;SAANR_7_DIM1;SAANR_7_MOD_DIM1;SAANR_7_LIB_DIM1;SAANR_7_DIM3;SAANR_7_MOD_DIM3;SAANR_7_LIB_DIM3;SAANR_7_DIM4;SAANR_7_MOD_DIM4;SAANR_7_LIB_DIM4;VALEUR;QUALITE
+SAANR_7;2000;FR;METRO;;NR01;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);100;OUI
+SAANR_7;2000;FR;METRO;;NR02;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);400;OUI
+SAANR_7;2000;FR;METRO;;NR03;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);288;OUI
+SAANR_7;2000;FR;METRO;;NR04;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);179;OUI
+SAANR_7;2000;FR;METRO;;NR11;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);7440;OUI
+SAANR_7;2000;FR;METRO;;NR24;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);16920;OUI
+SAANR_7;2000;FR;METRO;;NR27;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);22121;OUI
+SAANR_7;2000;FR;METRO;;NR28;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);68930;OUI
+SAANR_7;2000;FR;METRO;;NR32;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);21860;OUI
+SAANR_7;2000;FR;METRO;;NR44;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);25490;OUI
+SAANR_7;2000;FR;METRO;;NR52;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);34200;OUI
+SAANR_7;2000;FR;METRO;;NR53;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);19440;OUI
+SAANR_7;2000;FR;METRO;;NR75;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);40058;OUI
+SAANR_7;2000;FR;METRO;;NR76;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);37370;OUI
+SAANR_7;2000;FR;METRO;;NR84;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);42345;OUI
+SAANR_7;2000;FR;METRO;;NR93;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);10980;OUI
+SAANR_7;2000;FR;METRO;;NR94;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);2275;OUI
+SAANR_7;2000;FR;METRO;;NR01;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;002;Effectif hors exploitations (tête);0;OUI
+SAANR_7;2000;FR;METRO;;NR11;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;002;Effectif hors exploitations (tête);15200;OUI
+SAANR_7;2000;FR;METRO;;NR24;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;002;Effectif hors exploitations (tête);4350;OUI
+SAANR_7;2000;FR;METRO;;NR27;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;002;Effectif hors exploitations (tête);6120;OUI
+SAANR_7;2000;FR;METRO;;NR28;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;002;Effectif hors exploitations (tête);10530;OUI
+SAANR_7;2000;FR;METRO;;NR32;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;002;Effectif hors exploitations (tête);8675;OUI
+SAANR_7;2000;FR;METRO;;NR44;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;002;Effectif hors exploitations (tête);14325;OUI
+SAANR_7;2000;FR;METRO;;NR52;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;002;Effectif hors exploitations (tête);5200;OUI
+SAANR_7;2000;FR;METRO;;NR53;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;002;Effectif hors exploitations (tête);4090;OUI
+SAANR_7;2000;FR;METRO;;NR75;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;002;Effectif hors exploitations (tête);16300;OUI
+SAANR_7;2000;FR;METRO;;NR76;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;002;Effectif hors exploitations (tête);15400;OUI
+SAANR_7;2000;FR;METRO;;NR84;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;002;Effectif hors exploitations (tête);14415;OUI
+SAANR_7;2000;FR;METRO;;NR93;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;002;Effectif hors exploitations (tête);5030;OUI
+SAANR_7;2000;FR;METRO;;NR94;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;002;Effectif hors exploitations (tête);500;OUI
+SAANR_7;2000;FR;METRO;;NR01;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;003;Effectif total (tête);100;OUI
+SAANR_7;2000;FR;METRO;;NR11;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;003;Effectif total (tête);22640;OUI
+SAANR_7;2000;FR;METRO;;NR24;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;003;Effectif total (tête);21270;OUI
+SAANR_7;2000;FR;METRO;;NR27;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;003;Effectif total (tête);28241;OUI
+SAANR_7;2000;FR;METRO;;NR28;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;003;Effectif total (tête);79460;OUI
+SAANR_7;2000;FR;METRO;;NR32;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;003;Effectif total (tête);30535;OUI
+SAANR_7;2000;FR;METRO;;NR44;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;003;Effectif total (tête);39815;OUI
+SAANR_7;2000;FR;METRO;;NR52;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;003;Effectif total (tête);39400;OUI
+SAANR_7;2000;FR;METRO;;NR53;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;003;Effectif total (tête);23530;OUI
+SAANR_7;2000;FR;METRO;;NR75;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;003;Effectif total (tête);56358;OUI
+SAANR_7;2000;FR;METRO;;NR76;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;003;Effectif total (tête);52770;OUI
+SAANR_7;2000;FR;METRO;;NR84;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;003;Effectif total (tête);56760;OUI
+SAANR_7;2000;FR;METRO;;NR93;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;003;Effectif total (tête);16010;OUI
+SAANR_7;2000;FR;METRO;;NR94;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;003;Effectif total (tête);2775;OUI
+SAANR_7;2000;FR;METRO;;NR01;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);0;OUI
+SAANR_7;2000;FR;METRO;;NR02;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);0;OUI
+SAANR_7;2000;FR;METRO;;NR03;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);0;OUI
+SAANR_7;2000;FR;METRO;;NR04;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);0;OUI
+SAANR_7;2000;FR;METRO;;NR11;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);166;OUI
+SAANR_7;2000;FR;METRO;;NR24;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);2460;OUI
+SAANR_7;2000;FR;METRO;;NR27;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);7685;OUI
+SAANR_7;2000;FR;METRO;;NR28;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);3940;OUI
+SAANR_7;2000;FR;METRO;;NR32;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);2470;OUI
+SAANR_7;2000;FR;METRO;;NR44;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);4930;OUI
+SAANR_7;2000;FR;METRO;;NR52;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);3700;OUI
+SAANR_7;2000;FR;METRO;;NR53;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);4790;OUI
+SAANR_7;2000;FR;METRO;;NR75;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);13279;OUI
+SAANR_7;2000;FR;METRO;;NR76;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);13130;OUI
+SAANR_7;2000;FR;METRO;;NR84;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);17200;OUI
+SAANR_7;2000;FR;METRO;;NR93;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);860;OUI
+SAANR_7;2000;FR;METRO;;NR94;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);55;OUI
+SAANR_7;2000;FR;METRO;;NR01;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;002;Effectif hors exploitations (tête);0;OUI
+SAANR_7;2000;FR;METRO;;NR11;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;002;Effectif hors exploitations (tête);260;OUI
+SAANR_7;2000;FR;METRO;;NR24;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;002;Effectif hors exploitations (tête);120;OUI
+SAANR_7;2000;FR;METRO;;NR27;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;002;Effectif hors exploitations (tête);412;OUI
+SAANR_7;2000;FR;METRO;;NR28;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;002;Effectif hors exploitations (tête);380;OUI
+SAANR_7;2000;FR;METRO;;NR32;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;002;Effectif hors exploitations (tête);10;OUI
+SAANR_7;2000;FR;METRO;;NR44;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;002;Effectif hors exploitations (tête);185;OUI
+SAANR_7;2000;FR;METRO;;NR52;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;002;Effectif hors exploitations (tête);220;OUI
+SAANR_7;2000;FR;METRO;;NR53;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;002;Effectif hors exploitations (tête);200;OUI
+SAANR_7;2000;FR;METRO;;NR75;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;002;Effectif hors exploitations (tête);630;OUI
+SAANR_7;2000;FR;METRO;;NR76;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;002;Effectif hors exploitations (tête);320;OUI
+SAANR_7;2000;FR;METRO;;NR84;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;002;Effectif hors exploitations (tête);550;OUI
+SAANR_7;2000;FR;METRO;;NR93;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;002;Effectif hors exploitations (tête);170;OUI
+SAANR_7;2000;FR;METRO;;NR94;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;002;Effectif hors exploitations (tête);0;OUI
+SAANR_7;2000;FR;METRO;;NR01;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;003;Effectif total (tête);0;OUI
+SAANR_7;2000;FR;METRO;;NR11;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;003;Effectif total (tête);426;OUI
+SAANR_7;2000;FR;METRO;;NR24;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;003;Effectif total (tête);2580;OUI
+SAANR_7;2000;FR;METRO;;NR27;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;003;Effectif total (tête);8097;OUI
+SAANR_7;2000;FR;METRO;;NR28;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;003;Effectif total (tête);4320;OUI
+SAANR_7;2000;FR;METRO;;NR32;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;003;Effectif total (tête);2480;OUI
+SAANR_7;2000;FR;METRO;;NR44;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;003;Effectif total (tête);5115;OUI
+SAANR_7;2000;FR;METRO;;NR52;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;003;Effectif total (tête);3920;OUI
+SAANR_7;2000;FR;METRO;;NR53;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;003;Effectif total (tête);4990;OUI
+SAANR_7;2000;FR;METRO;;NR75;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;003;Effectif total (tête);13909;OUI
+SAANR_7;2000;FR;METRO;;NR76;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;003;Effectif total (tête);13450;OUI
+SAANR_7;2000;FR;METRO;;NR84;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;003;Effectif total (tête);17750;OUI
+SAANR_7;2000;FR;METRO;;NR93;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;003;Effectif total (tête);1030;OUI
+SAANR_7;2000;FR;METRO;;NR94;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;003;Effectif total (tête);55;OUI
+SAANR_7;2000;FR;METRO;;NR01;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);100;OUI
+SAANR_7;2000;FR;METRO;;NR02;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);400;OUI
+SAANR_7;2000;FR;METRO;;NR03;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);288;OUI
+SAANR_7;2000;FR;METRO;;NR04;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);179;OUI
+SAANR_7;2000;FR;METRO;;NR11;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);7606;OUI
+SAANR_7;2000;FR;METRO;;NR24;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);19380;OUI
+SAANR_7;2000;FR;METRO;;NR27;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);29806;OUI
+SAANR_7;2000;FR;METRO;;NR28;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);72870;OUI
+SAANR_7;2000;FR;METRO;;NR32;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);24330;OUI
+SAANR_7;2000;FR;METRO;;NR44;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);30420;OUI
+SAANR_7;2000;FR;METRO;;NR52;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);37900;OUI
+SAANR_7;2000;FR;METRO;;NR53;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);24230;OUI
+SAANR_7;2000;FR;METRO;;NR75;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);53337;OUI
+SAANR_7;2000;FR;METRO;;NR76;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);50500;OUI
+SAANR_7;2000;FR;METRO;;NR84;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);59545;OUI
+SAANR_7;2000;FR;METRO;;NR93;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);11840;OUI
+SAANR_7;2000;FR;METRO;;NR94;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);2330;OUI
+SAANR_7;2000;FR;METRO;;NR01;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);0;OUI
+SAANR_7;2000;FR;METRO;;NR02;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);0;OUI
+SAANR_7;2000;FR;METRO;;NR03;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);0;OUI
+SAANR_7;2000;FR;METRO;;NR04;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);0;OUI
+SAANR_7;2000;FR;METRO;;NR11;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);15460;OUI
+SAANR_7;2000;FR;METRO;;NR24;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);4470;OUI
+SAANR_7;2000;FR;METRO;;NR27;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);6532;OUI
+SAANR_7;2000;FR;METRO;;NR28;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);10910;OUI
+SAANR_7;2000;FR;METRO;;NR32;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);8685;OUI
+SAANR_7;2000;FR;METRO;;NR44;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);14510;OUI
+SAANR_7;2000;FR;METRO;;NR52;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);5420;OUI
+SAANR_7;2000;FR;METRO;;NR53;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);4290;OUI
+SAANR_7;2000;FR;METRO;;NR75;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);16930;OUI
+SAANR_7;2000;FR;METRO;;NR76;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);15720;OUI
+SAANR_7;2000;FR;METRO;;NR84;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);14965;OUI
+SAANR_7;2000;FR;METRO;;NR93;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);5200;OUI
+SAANR_7;2000;FR;METRO;;NR94;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);500;OUI
+SAANR_7;2000;FR;METRO;;NR01;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);100;OUI
+SAANR_7;2000;FR;METRO;;NR02;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);400;OUI
+SAANR_7;2000;FR;METRO;;NR03;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);288;OUI
+SAANR_7;2000;FR;METRO;;NR04;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);179;OUI
+SAANR_7;2000;FR;METRO;;NR11;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);23066;OUI
+SAANR_7;2000;FR;METRO;;NR24;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);23850;OUI
+SAANR_7;2000;FR;METRO;;NR27;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);36338;OUI
+SAANR_7;2000;FR;METRO;;NR28;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);83780;OUI
+SAANR_7;2000;FR;METRO;;NR32;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);33015;OUI
+SAANR_7;2000;FR;METRO;;NR44;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);44930;OUI
+SAANR_7;2000;FR;METRO;;NR52;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);43320;OUI
+SAANR_7;2000;FR;METRO;;NR53;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);28520;OUI
+SAANR_7;2000;FR;METRO;;NR75;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);70267;OUI
+SAANR_7;2000;FR;METRO;;NR76;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);66220;OUI
+SAANR_7;2000;FR;METRO;;NR84;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);74510;OUI
+SAANR_7;2000;FR;METRO;;NR93;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);17040;OUI
+SAANR_7;2000;FR;METRO;;NR94;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);2830;OUI
+SAANR_7;2000;FR;METRO;;NR01;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);230;OUI
+SAANR_7;2000;FR;METRO;;NR02;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);309;OUI
+SAANR_7;2000;FR;METRO;;NR03;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);218;OUI
+SAANR_7;2000;FR;METRO;;NR04;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);277;OUI
+SAANR_7;2000;FR;METRO;;NR11;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);136;OUI
+SAANR_7;2000;FR;METRO;;NR24;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);1650;OUI
+SAANR_7;2000;FR;METRO;;NR27;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);1743;OUI
+SAANR_7;2000;FR;METRO;;NR28;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);3610;OUI
+SAANR_7;2000;FR;METRO;;NR32;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);895;OUI
+SAANR_7;2000;FR;METRO;;NR44;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);1040;OUI
+SAANR_7;2000;FR;METRO;;NR52;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);1900;OUI
+SAANR_7;2000;FR;METRO;;NR53;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);1440;OUI
+SAANR_7;2000;FR;METRO;;NR75;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);4958;OUI
+SAANR_7;2000;FR;METRO;;NR76;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);4374;OUI
+SAANR_7;2000;FR;METRO;;NR84;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);6485;OUI
+SAANR_7;2000;FR;METRO;;NR93;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);1245;OUI
+SAANR_7;2000;FR;METRO;;NR94;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);770;OUI
+SAANR_7;2000;FR;METRO;;NR01;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;002;Effectif hors exploitations (tête);0;OUI
+SAANR_7;2000;FR;METRO;;NR11;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;002;Effectif hors exploitations (tête);100;OUI
+SAANR_7;2000;FR;METRO;;NR24;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;002;Effectif hors exploitations (tête);370;OUI
+SAANR_7;2000;FR;METRO;;NR27;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;002;Effectif hors exploitations (tête);678;OUI
+SAANR_7;2000;FR;METRO;;NR28;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;002;Effectif hors exploitations (tête);3900;OUI
+SAANR_7;2000;FR;METRO;;NR32;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;002;Effectif hors exploitations (tête);225;OUI
+SAANR_7;2000;FR;METRO;;NR44;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;002;Effectif hors exploitations (tête);405;OUI
+SAANR_7;2000;FR;METRO;;NR52;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;002;Effectif hors exploitations (tête);552;OUI
+SAANR_7;2000;FR;METRO;;NR53;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;002;Effectif hors exploitations (tête);260;OUI
+SAANR_7;2000;FR;METRO;;NR75;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;002;Effectif hors exploitations (tête);1760;OUI
+SAANR_7;2000;FR;METRO;;NR76;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;002;Effectif hors exploitations (tête);1336;OUI
+SAANR_7;2000;FR;METRO;;NR84;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;002;Effectif hors exploitations (tête);2525;OUI
+SAANR_7;2000;FR;METRO;;NR93;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;002;Effectif hors exploitations (tête);265;OUI
+SAANR_7;2000;FR;METRO;;NR94;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;002;Effectif hors exploitations (tête);350;OUI
+SAANR_7;2000;FR;METRO;;NR01;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;003;Effectif total (tête);230;OUI
+SAANR_7;2000;FR;METRO;;NR11;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;003;Effectif total (tête);236;OUI
+SAANR_7;2000;FR;METRO;;NR24;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;003;Effectif total (tête);2020;OUI
+SAANR_7;2000;FR;METRO;;NR27;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;003;Effectif total (tête);2421;OUI
+SAANR_7;2000;FR;METRO;;NR28;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;003;Effectif total (tête);7510;OUI
+SAANR_7;2000;FR;METRO;;NR32;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;003;Effectif total (tête);1120;OUI
+SAANR_7;2000;FR;METRO;;NR44;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;003;Effectif total (tête);1445;OUI
+SAANR_7;2000;FR;METRO;;NR52;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;003;Effectif total (tête);2452;OUI
+SAANR_7;2000;FR;METRO;;NR53;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;003;Effectif total (tête);1700;OUI
+SAANR_7;2000;FR;METRO;;NR75;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;003;Effectif total (tête);6718;OUI
+SAANR_7;2000;FR;METRO;;NR76;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;003;Effectif total (tête);5710;OUI
+SAANR_7;2000;FR;METRO;;NR84;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;003;Effectif total (tête);9010;OUI
+SAANR_7;2000;FR;METRO;;NR93;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;003;Effectif total (tête);1510;OUI
+SAANR_7;2000;FR;METRO;;NR94;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;003;Effectif total (tête);1120;OUI
+SAANR_7;2000;FR;METRO;;NR01;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);330;OUI
+SAANR_7;2000;FR;METRO;;NR02;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);709;OUI
+SAANR_7;2000;FR;METRO;;NR03;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);506;OUI
+SAANR_7;2000;FR;METRO;;NR04;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);456;OUI
+SAANR_7;2000;FR;METRO;;NR11;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);7742;OUI
+SAANR_7;2000;FR;METRO;;NR24;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);21030;OUI
+SAANR_7;2000;FR;METRO;;NR27;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);31549;OUI
+SAANR_7;2000;FR;METRO;;NR28;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);76480;OUI
+SAANR_7;2000;FR;METRO;;NR32;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);25225;OUI
+SAANR_7;2000;FR;METRO;;NR44;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);31460;OUI
+SAANR_7;2000;FR;METRO;;NR52;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);39800;OUI
+SAANR_7;2000;FR;METRO;;NR53;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);25670;OUI
+SAANR_7;2000;FR;METRO;;NR75;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);58295;OUI
+SAANR_7;2000;FR;METRO;;NR76;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);54874;OUI
+SAANR_7;2000;FR;METRO;;NR84;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);66030;OUI
+SAANR_7;2000;FR;METRO;;NR93;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);13085;OUI
+SAANR_7;2000;FR;METRO;;NR94;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);3100;OUI
+SAANR_7;2000;FR;METRO;;NR01;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);0;OUI
+SAANR_7;2000;FR;METRO;;NR02;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);0;OUI
+SAANR_7;2000;FR;METRO;;NR03;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);0;OUI
+SAANR_7;2000;FR;METRO;;NR04;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);0;OUI
+SAANR_7;2000;FR;METRO;;NR11;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);15560;OUI
+SAANR_7;2000;FR;METRO;;NR24;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);4840;OUI
+SAANR_7;2000;FR;METRO;;NR27;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);7210;OUI
+SAANR_7;2000;FR;METRO;;NR28;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);14810;OUI
+SAANR_7;2000;FR;METRO;;NR32;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);8910;OUI
+SAANR_7;2000;FR;METRO;;NR44;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);14915;OUI
+SAANR_7;2000;FR;METRO;;NR52;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);5972;OUI
+SAANR_7;2000;FR;METRO;;NR53;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);4550;OUI
+SAANR_7;2000;FR;METRO;;NR75;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);18690;OUI
+SAANR_7;2000;FR;METRO;;NR76;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);17056;OUI
+SAANR_7;2000;FR;METRO;;NR84;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);17490;OUI
+SAANR_7;2000;FR;METRO;;NR93;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);5465;OUI
+SAANR_7;2000;FR;METRO;;NR94;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);850;OUI
+SAANR_7;2000;FR;METRO;;NR01;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);330;OUI
+SAANR_7;2000;FR;METRO;;NR02;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);709;OUI
+SAANR_7;2000;FR;METRO;;NR03;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);506;OUI
+SAANR_7;2000;FR;METRO;;NR04;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);456;OUI
+SAANR_7;2000;FR;METRO;;NR11;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);23302;OUI
+SAANR_7;2000;FR;METRO;;NR24;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);25870;OUI
+SAANR_7;2000;FR;METRO;;NR27;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);38759;OUI
+SAANR_7;2000;FR;METRO;;NR28;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);91290;OUI
+SAANR_7;2000;FR;METRO;;NR32;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);34135;OUI
+SAANR_7;2000;FR;METRO;;NR44;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);46375;OUI
+SAANR_7;2000;FR;METRO;;NR52;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);45772;OUI
+SAANR_7;2000;FR;METRO;;NR53;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);30220;OUI
+SAANR_7;2000;FR;METRO;;NR75;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);76985;OUI
+SAANR_7;2000;FR;METRO;;NR76;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);71930;OUI
+SAANR_7;2000;FR;METRO;;NR84;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);83520;OUI
+SAANR_7;2000;FR;METRO;;NR93;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);18550;OUI
+SAANR_7;2000;FR;METRO;;NR94;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);3950;OUI
+SAANR_7;2000;FR;METRO;;...;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);350396;OUI
+SAANR_7;2000;FR;METRO;;...;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;002;Effectif hors exploitations (tête);120135;OUI
+SAANR_7;2000;FR;METRO;;...;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;003;Effectif total (tête);469664;OUI
+SAANR_7;2000;FR;METRO;;...;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);74665;OUI
+SAANR_7;2000;FR;METRO;;...;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;002;Effectif hors exploitations (tête);3457;OUI
+SAANR_7;2000;FR;METRO;;...;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;003;Effectif total (tête);78122;OUI
+SAANR_7;2000;FR;METRO;;...;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);425061;OUI
+SAANR_7;2000;FR;METRO;;...;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);123592;OUI
+SAANR_7;2000;FR;METRO;;...;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);548653;OUI
+SAANR_7;2000;FR;METRO;;...;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);31280;OUI
+SAANR_7;2000;FR;METRO;;...;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;002;Effectif hors exploitations (tête);12726;OUI
+SAANR_7;2000;FR;METRO;;...;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;003;Effectif total (tête);43202;OUI
+SAANR_7;2000;FR;METRO;;...;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);456341;OUI
+SAANR_7;2000;FR;METRO;;...;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);136318;OUI
+SAANR_7;2000;FR;METRO;;...;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);592659;OUI
+SAANR_7;2000;FR;METRO;...;...;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);350396;OUI
+SAANR_7;2000;FR;METRO;...;...;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;002;Effectif hors exploitations (tête);120135;OUI
+SAANR_7;2000;FR;METRO;...;...;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;003;Effectif total (tête);469664;OUI
+SAANR_7;2000;FR;METRO;...;...;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);74665;OUI
+SAANR_7;2000;FR;METRO;...;...;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;002;Effectif hors exploitations (tête);3457;OUI
+SAANR_7;2000;FR;METRO;...;...;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;003;Effectif total (tête);78122;OUI
+SAANR_7;2000;FR;METRO;...;...;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);425061;OUI
+SAANR_7;2000;FR;METRO;...;...;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);123592;OUI
+SAANR_7;2000;FR;METRO;...;...;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);548653;OUI
+SAANR_7;2000;FR;METRO;...;...;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);31280;OUI
+SAANR_7;2000;FR;METRO;...;...;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;002;Effectif hors exploitations (tête);12726;OUI
+SAANR_7;2000;FR;METRO;...;...;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;003;Effectif total (tête);43202;OUI
+SAANR_7;2000;FR;METRO;...;...;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);456341;OUI
+SAANR_7;2000;FR;METRO;...;...;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);136318;OUI
+SAANR_7;2000;FR;METRO;...;...;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);592659;OUI
+SAANR_7;2000;FR;...;...;...;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;001;Effectif dans les exploitations (tête);350396;OUI
+SAANR_7;2000;FR;...;...;...;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;002;Effectif hors exploitations (tête);120135;OUI
+SAANR_7;2000;FR;...;...;...;Thème;001;Espèce équine;Produit;001;Chevaux de selle, sport, loisirs et course;Indicateur;003;Effectif total (tête);469664;OUI
+SAANR_7;2000;FR;...;...;...;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;001;Effectif dans les exploitations (tête);74665;OUI
+SAANR_7;2000;FR;...;...;...;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;002;Effectif hors exploitations (tête);3457;OUI
+SAANR_7;2000;FR;...;...;...;Thème;001;Espèce équine;Produit;002;Chevaux lourds;Indicateur;003;Effectif total (tête);78122;OUI
+SAANR_7;2000;FR;...;...;...;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;001;Effectif dans les exploitations (tête);425061;OUI
+SAANR_7;2000;FR;...;...;...;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;002;Effectif hors exploitations (tête);123592;OUI
+SAANR_7;2000;FR;...;...;...;Thème;001;Espèce équine;Produit;003;Ensemble espèce chevaline;Indicateur;003;Effectif total (tête);548653;OUI
+SAANR_7;2000;FR;...;...;...;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;001;Effectif dans les exploitations (tête);31280;OUI
+SAANR_7;2000;FR;...;...;...;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;002;Effectif hors exploitations (tête);12726;OUI
+SAANR_7;2000;FR;...;...;...;Thème;001;Espèce équine;Produit;004;Anes, mulets, bardots;Indicateur;003;Effectif total (tête);43202;OUI
+SAANR_7;2000;FR;...;...;...;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;001;Effectif dans les exploitations (tête);456341;OUI
+SAANR_7;2000;FR;...;...;...;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;002;Effectif hors exploitations (tête);136318;OUI
+SAANR_7;2000;FR;...;...;...;Thème;001;Espèce équine;Produit;005;Ensemble équidés;Indicateur;003;Effectif total (tête);592659;OUI
