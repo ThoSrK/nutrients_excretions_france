@@ -1,0 +1,71 @@
+NOM;ANNREF;GEOGRAPHIE;GEOGRAPHIE_LIB;N027;N027_LIB;N027_MOD;N053;N053_LIB;N053_MOD;N405;N405_LIB;N405_MOD;VALEUR;QUALITE
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;77554;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;152754;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Février;0.02;Conjoncture animale;Volailles;7;75200;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;3169;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;3169;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Mise en place de poussins (y.c. poules reproductrices);010.17.02;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;74385;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Mise en place de poussins (y.c. poules reproductrices);010.17.02;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;74385;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;66438;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;1712;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;1712;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Mise en place de poussins (y.c. poules reproductrices);010.17.02;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;64725;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Février;0.02;Conjoncture animale;Gallus;7.11;65082;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;131520;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Mise en place de poussins (y.c. poules reproductrices);010.17.02;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;64725;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Février;0.02;Conjoncture animale;Poulets de chair;7.11.1;61292;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;1738;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Mise en place de poussins (y.c. poules reproductrices);010.17.02;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;61006;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;62744;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;1738;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;124036;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Mise en place de poussins (y.c. poules reproductrices);010.17.02;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;61006;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Janvier;0.01;Conjoncture animale;Poules de ponte;7.11.5;-26;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Total annuel;0;Conjoncture animale;Poules de ponte;7.11.5;7483;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Janvier;0.01;Conjoncture animale;Poules de ponte;7.11.5;3693;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Mise en place de poussins (y.c. poules reproductrices);010.17.02;Périodicité;Total annuel;0;Conjoncture animale;Poules de ponte;7.11.5;3719;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Février;0.02;Conjoncture animale;Poules de ponte;7.11.5;3790;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Total annuel;0;Conjoncture animale;Poules de ponte;7.11.5;-26;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Mise en place de poussins (y.c. poules reproductrices);010.17.02;Périodicité;Janvier;0.01;Conjoncture animale;Poules de ponte;7.11.5;3719;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Mise en place de poussins (y.c. poules reproductrices);010.17.02;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;2903;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;3682;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;7161;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Février;0.02;Conjoncture animale;Dindes;7.12;3480;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;778;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;778;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Mise en place de poussins (y.c. poules reproductrices);010.17.02;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;2903;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Mise en place de poussins (y.c. poules reproductrices);010.17.02;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;4787;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;10179;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;436;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;436;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Février;0.02;Conjoncture animale;Canards;7.13;4955;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;5224;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Mise en place de poussins (y.c. poules reproductrices);010.17.02;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;4787;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Total annuel;0;Conjoncture animale;Canards à rôtir;7.13.1;6467;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Janvier;0.01;Conjoncture animale;Canards à rôtir;7.13.1;0;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards à rôtir;7.13.1;3278;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Février;0.02;Conjoncture animale;Canards à rôtir;7.13.1;3190;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Total annuel;0;Conjoncture animale;Canards à rôtir;7.13.1;0;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards gras;7.13.2;1946;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Total annuel;0;Conjoncture animale;Canards gras;7.13.2;3711;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Février;0.02;Conjoncture animale;Canards gras;7.13.2;1765;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;3876;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Mise en place de poussins (y.c. poules reproductrices);010.17.02;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1960;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;241;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Mise en place de poussins (y.c. poules reproductrices);010.17.02;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;1960;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Février;0.02;Conjoncture animale;Pintades;7.14;1676;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;2200;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;241;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Mise en place de poussins (y.c. poules reproductrices);010.17.02;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;10;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Février;0.02;Conjoncture animale;Oies;7.15;8;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;1;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;11;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges de poussins (nombre d'animaux);010.15.03.04;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;1;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Mise en place de poussins (y.c. poules reproductrices);010.17.02;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;10;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;19;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Février;0.02;Conjoncture animale;Oies à rôtir;7.15.1;1;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Total annuel;0;Conjoncture animale;Oies à rôtir;7.15.1;1;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Janvier;0.01;Conjoncture animale;Oies à rôtir;7.15.1;0;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Février;0.02;Conjoncture animale;Oies grasses;7.15.2;7;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Total annuel;0;Conjoncture animale;Oies grasses;7.15.2;18;OUI
+VOLAILLES_ECLOS;2022;FR;FR - France entière;Groupe d'indicateurs;Éclosions de poussins (nombre d'animaux);010.17.01;Périodicité;Janvier;0.01;Conjoncture animale;Oies grasses;7.15.2;11;OUI

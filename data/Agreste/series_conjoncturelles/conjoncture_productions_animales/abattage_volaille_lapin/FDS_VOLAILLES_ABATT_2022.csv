@@ -1,0 +1,525 @@
+NOM;ANNREF;GEOGRAPHIE;GEOGRAPHIE_LIB;N027;N027_LIB;N027_MOD;N053;N053_LIB;N053_MOD;N405;N405_LIB;N405_MOD;VALEUR;QUALITE
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;137116;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;138.92;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Volailles;7;66425;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;73775;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;75833;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;4.07;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;258.57;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;142.82;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;4.07;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;75833;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;70691;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;72749;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;142.82;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;138.92;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;272.74;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;138.75;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;137116;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;75833;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Volailles;7;66425;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;3084;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;4.07;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Volailles;7;133.99;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Volailles;7;71913;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;70691;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;144662;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;75833;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;3084;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Volailles;7;71913;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;138.75;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;73775;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;258.57;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;138.92;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;3084;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;134.85;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;138.92;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;3084;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;73775;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;4.07;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;272.74;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;142.82;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Volailles;7;123.72;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Volailles;7;123.72;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;142.82;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;134.85;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;144662;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Volailles;7;133.99;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Volailles;7;72749;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Total annuel;0;Conjoncture animale;Volailles;7;73775;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Gallus;7.11;58578;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Gallus;7.11;95.83;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;67312;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;195.88;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;64426;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;2886;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;65426;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;1.55;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;97.12;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;127947;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;103.21;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;100.28;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;67312;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;64426;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;100.28;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;62540;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;1.53;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Gallus;7.11;1.51;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;127947;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;121118;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;100.28;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Gallus;7.11;1.51;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;65426;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;103.21;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;3.16;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Gallus;7.11;88.37;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;67312;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;65426;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;100.28;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Gallus;7.11;95.83;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;195.88;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;62540;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;2886;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;3.16;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;103.21;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;3.16;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Gallus;7.11;63521;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;103.21;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;65426;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;1.55;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Gallus;7.11;58578;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;121118;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;185.49;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;1.53;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;97.12;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;2886;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;100.05;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;2886;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Gallus;7.11;63521;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;185.49;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Gallus;7.11;100.05;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Gallus;7.11;88.37;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;67312;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Total annuel;0;Conjoncture animale;Gallus;7.11;3.16;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Poulets de chair;7.11.1;56172;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;188.96;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;115987;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;178.94;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;3.16;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Poulets de chair;7.11.1;60912;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;62701;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;93.64;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;99.63;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;115987;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Poulets de chair;7.11.1;1.52;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;96.81;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Poulets de chair;7.11.1;60912;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;64505;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;1.54;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;3.16;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Poulets de chair;7.11.1;1.52;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;178.94;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;96.81;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;188.96;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;59815;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;96.81;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;62701;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;3.16;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;99.63;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;2886;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;2886;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;122531;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Poulets de chair;7.11.1;92.49;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Poulets de chair;7.11.1;56172;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;96.81;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;96.47;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;2886;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;1.54;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;99.63;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Poulets de chair;7.11.1;85.29;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;62701;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;2886;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Poulets de chair;7.11.1;92.49;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;96.47;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;61619;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;93.64;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Poulets de chair;7.11.1;85.29;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;61619;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;3.16;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;59815;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;122531;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;64505;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;64505;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;1.57;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;99.63;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;1.57;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Total annuel;0;Conjoncture animale;Poulets de chair;7.11.1;62701;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Poulets de chair;7.11.1;64505;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Chapons;7.11.2;2;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Chapons;7.11.2;2;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Chapons;7.11.2;0;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Chapons;7.11.2;0;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Chapons;7.11.2;0;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Chapons;7.11.2;0;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Chapons;7.11.2;1;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Chapons;7.11.2;0;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Chapons;7.11.2;1;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Chapons;7.11.2;0;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Chapons;7.11.2;0;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Chapons;7.11.2;1;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Chapons;7.11.2;2;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Chapons;7.11.2;2;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Chapons;7.11.2;0;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Chapons;7.11.2;0;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Chapons;7.11.2;0;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Chapons;7.11.2;1;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Chapons;7.11.2;1;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Chapons;7.11.2;1;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Chapons;7.11.2;1;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Chapons;7.11.2;1;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Chapons;7.11.2;0;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Chapons;7.11.2;0;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;2608;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;6.55;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;3.58;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;3.08;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;6.92;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;3.08;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;1.27;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;5129;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;3.47;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;2724;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;1.28;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;2724;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;3.58;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;1.28;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;1.28;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;5414;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;2405;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;1.27;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;5414;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;2405;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;2806;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;3.34;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;6.92;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;2608;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;1.28;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;5129;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;6.55;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;3.47;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;2806;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Poules de réforme (ponte, reproductrice chair et ponte);7.11.4;3.34;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;118;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;2820;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;2820;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;2743;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Dindes;7.12;23.75;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Dindes;7.12;8.62;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;2625;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;47.99;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;118;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;0.74;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;118;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;2743;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;5168;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;0.74;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;45.47;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;47.99;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;8.8;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;2702;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;0.74;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;24.3;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;24.99;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Dindes;7.12;2543;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;2743;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;24.24;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;23.55;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;0.74;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;118;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;24.3;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;24.3;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Dindes;7.12;21.92;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;24.3;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Dindes;7.12;2755;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Dindes;7.12;21.92;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;24.24;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;2743;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;2820;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;24.99;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;8.97;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Dindes;7.12;2543;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;45.47;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;5168;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;24.99;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;5457;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Dindes;7.12;8.62;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Dindes;7.12;23.75;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;2820;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;24.99;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Dindes;7.12;2755;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;2625;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;8.97;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;2702;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;8.8;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Dindes;7.12;23.55;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Dindes;7.12;5457;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;12.74;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;12.46;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;8097;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;4321;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;23.91;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;12.74;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;4146;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;8525;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Canards;7.13;12.59;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;12.58;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;25.17;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;12.58;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;0.17;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;12.46;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;25.17;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;80;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;4226;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;0.17;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Canards;7.13;3951;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;80;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;4146;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Canards;7.13;11.61;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Canards;7.13;12.59;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;12.74;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;4241;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;4226;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;2.95;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Canards;7.13;11.61;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;2.97;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;80;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;8525;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;23.91;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;12.46;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;0.17;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;12.3;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;8097;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;4226;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Canards;7.13;4284;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;12.3;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (nombre d'animaux);010.15.03.03;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;80;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;12.46;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;4321;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;4241;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Canards;7.13;2.94;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;4226;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Solde des échanges d'animaux vivants (volume);020.01.08.04.03;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;0.17;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Canards;7.13;2.94;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;12.74;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;2.97;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;4321;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards;7.13;4321;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Canards;7.13;4284;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Canards;7.13;2.95;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Canards;7.13;3951;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Canards à rôtir;7.13.1;13.43;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Canards à rôtir;7.13.1;14.14;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Canards à rôtir;7.13.1;2.52;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards à rôtir;7.13.1;2706;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Canards à rôtir;7.13.1;2.53;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards à rôtir;7.13.1;6.85;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Canards à rôtir;7.13.1;2.52;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Canards à rôtir;7.13.1;7.01;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Canards à rôtir;7.13.1;2768;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Canards à rôtir;7.13.1;5310;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Canards à rôtir;7.13.1;14.14;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards à rôtir;7.13.1;2706;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Canards à rôtir;7.13.1;5310;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Canards à rôtir;7.13.1;5592;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Canards à rôtir;7.13.1;2824;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Canards à rôtir;7.13.1;7.01;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Canards à rôtir;7.13.1;2.53;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Canards à rôtir;7.13.1;2604;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Canards à rôtir;7.13.1;13.43;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Canards à rôtir;7.13.1;6.57;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Canards à rôtir;7.13.1;2768;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Canards à rôtir;7.13.1;5592;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards à rôtir;7.13.1;6.85;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Canards à rôtir;7.13.1;2604;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Canards à rôtir;7.13.1;2.53;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Canards à rôtir;7.13.1;7.13;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Canards à rôtir;7.13.1;6.57;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Canards à rôtir;7.13.1;7.13;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Canards à rôtir;7.13.1;2.53;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Canards à rôtir;7.13.1;2824;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Canards gras;7.13.2;3.76;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Canards gras;7.13.2;10.48;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Canards gras;7.13.2;2934;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Canards gras;7.13.2;11.03;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Canards gras;7.13.2;3.74;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Canards gras;7.13.2;1461;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Canards gras;7.13.2;2787;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Canards gras;7.13.2;3.78;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Canards gras;7.13.2;1461;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Canards gras;7.13.2;5.47;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Canards gras;7.13.2;5.47;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Canards gras;7.13.2;3.76;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Canards gras;7.13.2;3.78;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Canards gras;7.13.2;11.03;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards gras;7.13.2;1440;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Canards gras;7.13.2;2787;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards gras;7.13.2;1440;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards gras;7.13.2;5.44;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Canards gras;7.13.2;2934;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Canards gras;7.13.2;5.04;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Canards gras;7.13.2;1473;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Canards gras;7.13.2;1473;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Canards gras;7.13.2;1347;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Canards gras;7.13.2;5.04;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Canards gras;7.13.2;5.57;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Canards gras;7.13.2;5.57;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Canards gras;7.13.2;10.48;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Canards gras;7.13.2;5.44;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Canards gras;7.13.2;3.74;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Canards gras;7.13.2;1347;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;1.85;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Pintades;7.14;1350;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1.85;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1374;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;1.34;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1374;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;1.85;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Pintades;7.14;1.33;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;2724;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1.85;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Pintades;7.14;1350;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;2724;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1374;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;1374;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1.85;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1374;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;3.64;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1.35;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Pintades;7.14;1.79;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;3.64;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1374;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;1.34;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;1374;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Pintades;7.14;1.79;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1.85;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1.85;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;3.64;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Pintades;7.14;1350;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;1374;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;1.85;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;2724;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Pintades;7.14;1.79;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1.35;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1.85;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;1.85;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1374;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1374;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1374;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;3.64;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Pintades;7.14;1350;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;1374;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Pintades;7.14;1.33;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1.85;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Janvier;0.01;Conjoncture animale;Pintades;7.14;1.85;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Pintades;7.14;2724;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Pintades;7.14;1.79;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;0.04;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Oies;7.15;0.02;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;9;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;6;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;0.04;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;0.04;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;9;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;6;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Oies;7.15;0.02;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;6;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;6;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Oies;7.15;3;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;6;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;6;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;0.04;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;9;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (nombre d'animaux);010.15.05;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;6;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Oies;7.15;3;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Oies;7.15;0.02;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;0.06;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;0.06;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;0.04;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;0.04;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;0.04;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Oies;7.15;3;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;6;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;6;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;6;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;0.04;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;0.04;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Oies;7.15;3;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (volume);020.01.08.05.01;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;0.04;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;0.06;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;0.06;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;6;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée CVJA (PIC) (nombre d'animaux);010.15.05.01;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;6;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;9;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Oies;7.15;0.04;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Oies;7.15;0.02;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Production indigène contrôlée totale (PIC) (volume);020.01.08.05;Périodicité;Total annuel;0;Conjoncture animale;Oies;7.15;0.04;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Rongeurs;8;2.57;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Rongeurs;8;3755;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Rongeurs;8;2.64;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Rongeurs;8;2.57;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Rongeurs;8;1.39;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Rongeurs;8;3755;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Rongeurs;8;2.57;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Rongeurs;8;3563;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Rongeurs;8;1718;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Rongeurs;8;2.57;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Rongeurs;8;1863;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Rongeurs;8;2.37;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Rongeurs;8;4.95;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Rongeurs;8;1845;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Rongeurs;8;2.37;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Rongeurs;8;2.64;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Rongeurs;8;1.38;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Rongeurs;8;3563;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Rongeurs;8;1892;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Rongeurs;8;4.95;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Rongeurs;8;1892;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Rongeurs;8;1.39;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Rongeurs;8;1.39;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Rongeurs;8;1.39;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Rongeurs;8;5.21;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Rongeurs;8;1863;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Rongeurs;8;1845;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Rongeurs;8;1718;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Rongeurs;8;1.38;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Rongeurs;8;5.21;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Lapins;8.11;1845;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Lapins;8.11;2.37;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Lapins;8.11;1718;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Lapins;8.11;3755;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Lapins;8.11;2.57;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Lapins;8.11;3563;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Lapins;8.11;1.39;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Total annuel;0;Conjoncture animale;Lapins;8.11;3563;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Lapins;8.11;1.38;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Lapins;8.11;1.39;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Lapins;8.11;1892;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Lapins;8.11;4.95;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Total annuel;0;Conjoncture animale;Lapins;8.11;1.39;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Janvier;0.01;Conjoncture animale;Lapins;8.11;1845;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Total annuel;0;Conjoncture animale;Lapins;8.11;4.95;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus bruts;010.15.01;Périodicité;Février;0.02;Conjoncture animale;Lapins;8.11;1718;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Lapins;8.11;2.64;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Total annuel;0;Conjoncture animale;Lapins;8.11;3755;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Février;0.02;Conjoncture animale;Lapins;8.11;1.38;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Février;0.02;Conjoncture animale;Lapins;8.11;2.37;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Lapins;8.11;5.21;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Lapins;8.11;2.57;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages bruts (volume);020.01.08.01;Périodicité;Janvier;0.01;Conjoncture animale;Lapins;8.11;2.57;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Total annuel;0;Conjoncture animale;Lapins;8.11;5.21;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Lapins;8.11;1863;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Février;0.02;Conjoncture animale;Lapins;8.11;2.57;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Poids moyen;070.05;Périodicité;Janvier;0.01;Conjoncture animale;Lapins;8.11;1.39;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Février;0.02;Conjoncture animale;Lapins;8.11;1863;OUI
+VOLAILLES_ABATT;2022;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Nombre d'animaux abattus CVJA;010.15.02;Périodicité;Janvier;0.01;Conjoncture animale;Lapins;8.11;1892;OUI
+VOLAILLES_ABATT;2022;FR;FR - France entière;Groupe d'indicateurs;Abattages CVJA (volume);020.01.08.02;Périodicité;Janvier;0.01;Conjoncture animale;Lapins;8.11;2.64;OUI
