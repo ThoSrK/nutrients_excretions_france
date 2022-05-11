@@ -1,0 +1,113 @@
+﻿lovKey,lovName,lovValue
+UWWCASA,Ztype,Urban Waste Water Treatment Directive coast area Sensitive area
+UWWCLSA,Ztype,Urban Waste Water Treatment Directive coast line Sensitive area
+UWWCMSA,Ztype,Urban Waste Water Treatment Directive Catchment of Sensitive area defined in the sense of Article 5.5 of the UWWTD
+UWWLKSA,Ztype,Urban Waste Water Treatment Directive lake Sensitive area
+UWWRISA,Ztype,Urban Waste Water Treatment Directive river Sensitive area
+UWWTDLSA,Ztype,Urban Waste Water Treatment Directive Less sensitive area
+UWWTWSA,Ztype,Urban Waste Water Treatment Directive Transitional water Sensitive area
+CW,WaterBodyType,discharge into coastal water
+ES,WaterBodyType,discharge into estuary
+FW,WaterBodyType,discharge into freshwater
+LC,WaterBodyType,discharge on land (catchment of coastal water)
+LF,WaterBodyType,discharge on land (catchment of freshwater and / or estuary)
+A54,TypeOfReceivingArea,Art. 5(4) area
+A58,TypeOfReceivingArea,Art. 5(8) area (entire Member State)
+CSA,TypeOfReceivingArea,Catchment in the sense of Art. 5(5)
+LSA,TypeOfReceivingArea,Less sensitive area
+NA,TypeOfReceivingArea,Normal area
+SA,TypeOfReceivingArea,Sensitive area
+0,State,inactive
+1,State,active
+2,State,temporary inactive
+A523,SpZTyp,"Art 5.(2,3) area"
+A54,SpZTyp,Art. 5(4) area (only possible if Article 5.4 applies before or at the reference year of the report)
+A54523,SpZTyp,"Art. 5(4) and 5 (2,3) area"
+A58523,SpZTyp,"Art. 5(8) and 5 (2,3) area"
+A5854,SpZTyp,Art. 5(8) and 5(4) area (entire Member State) (only possible if Article 5.4 applies before or at the reference year of the report)
+A5854523,SpZTyp,"Art. 5(8), 5(4) and 5 (2,3) area (only possible if Article 5.4 applies before or at the reference year of the report)"
+B,SewageNetwork,both combined & sepa
+C,SewageNetwork,combined
+S,SewageNetwork,separated
+F,Perf,Fail
+NA,Perf,Data not available
+NR,Perf,Not relevant
+P,Perf,Pass
+aN,Parameter,Nitrogen eutrophication (nitrogen have to be removed from the Urban Waste Water Treatement plants belonging to agglomeration of more than 10 000 p.e.)
+aP,Parameter,Phosphorus eutrophication  (nitrogen have to be removed from the Urban Waste Water Treatement plants belonging to agglomeration of more than 10 000 p.e.)
+b,Parameter,Nitrogen drinking water (nitrogen have to be removed from the Urban Waste Water Treatement plants belonging to agglomeration of more than 10 000 p.e.)
+c,Parameter,Areas where further treatment than that prescribed in Article 4 of the UWWTD is necessary to fulfil Council Directives
+C,Method54,Calculated
+E,Method54,Estimated
+M,Method54,Measured
+C,Method2,calculated
+E,Method2,estimated
+C,Method1,Calculated
+E,Method1,Estimated
+M,Method1,Measured
+IN,Irrigation,Infiltration
+IR,Irrigation,Irrigation
+OT,Irrigation,Other
+Agregation,EvolutionType,results from the aggregation of previously reported SA or LSA
+ChangeBothAggregatio,EvolutionType,complex operation involving both the splitting and aggregation of previously reported SA or LSA
+ChangeCode,EvolutionType,the identifiers used at national level have changed  (the real-world entities have not changed)
+ChangeGeometry,EvolutionType,results from the change of the geometry of a previously reported SA or LSA
+Deletion,EvolutionType,a SA or LSA that no longer exists and has no successor (in this case put also 'Deletion' in the rcaCode cell)
+Other,EvolutionType,other reason
+Splitting,EvolutionType,results from the splitting of a previously reported SA or LSA
+AL,Country,Albania
+AT,Country,Austria
+BA,Country,Bosnia and Herzegovina
+BE,Country,Belgium
+BG,Country,Bulgaria
+BY,Country,Belarus
+CH,Country,Switzerland
+CY,Country,Cyprus
+CZ,Country,Czechia
+DE,Country,Germany
+DK,Country,Denmark
+EE,Country,Estonia
+ES,Country,Spain
+FI,Country,Finland
+FR,Country,France
+GB,Country,United Kingdom
+GE,Country,Georgia
+GR,Country,Greece
+HR,Country,Croatia
+HU,Country,Hungary
+IE,Country,Ireland
+IS,Country,Iceland
+IT,Country,Italy
+LI,Country,Liechtenstein
+LT,Country,Lithuania
+LU,Country,Luxembourg
+LV,Country,Latvia
+MC,Country,Monaco
+MD,Country,"Moldova, Republic of"
+ME,Country,Montenegro
+MK,Country,"Macedonia, the Former Yugoslav Republic of"
+MT,Country,Malta
+NL,Country,Netherlands
+NO,Country,Norway
+PL,Country,Poland
+PT,Country,Portugal
+RO,Country,Romania
+RS,Country,Serbia
+SE,Country,Sweden
+SI,Country,Slovenia
+SK,Country,Slovakia
+SM,Country,San Marino
+TR,Country,Turkey
+ISCON,CollectingSystem,Collecting system is connected to UWWTP
+NOTCON,CollectingSystem,Collecting system is not connected to UWWTP
+ALC,Branch,Production of alcohol and alcoholic beverages
+BREW,Branch,Breweries
+DRINK,Branch,Manufacture and bottling of soft drinks
+FEED,Branch,Manufacture of aninmal feed from plant products
+FISH,Branch,Fish-processing industry
+FRUIT,Branch,Manufacture of fruit and vegetable products
+GELA,Branch,"Manufacture of gelatine and glue from hides, skin and bones"
+MALT,Branch,Malt-houses
+MEAT,Branch,Meat industry
+MILK,Branch,Milk-processing
+POTA,Branch,Potato-processing

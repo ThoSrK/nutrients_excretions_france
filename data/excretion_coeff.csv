@@ -1,0 +1,40 @@
+﻿Species_name_FR;Species_name_EN;RA_denomination;SAA_denomination_FR;SAA_denomination_EN;Bovine_class;kgN_per_head;C_N_ratio_excr;LU_head;remark
+Espèce bovine;Bovines;Vaches laitières;Vaches laitières;Milking cows ;Dairy;113;10.3;1.33;
+Espèce bovine;Bovines;Vaches allaitantes;Vaches nourrices;Suckler cows ;Meat;100;10.3;1.18;
+Espèce bovine;Bovines;;Génisses laitières de renouvellement de plus de 2 ans;Heifer for milking herd renewal over 2 yrs old ;;60;10.3;0.71;
+Espèce bovine;Bovines;;Génisses nourrices de renouvellement de plus de 2 ans;Heifer for suckler cows renewal over 2 yrs old ;;60;10.3;0.71;
+Espèce bovine;Bovines;;Génisses de boucherie de plus de 2 ans;Heifer for slaughter over 2 yrs old ;;60;10.3;0.71;
+Espèce bovine;Bovines;;Mâles de type laitier de plus de 2 ans;Males of milking type over 2 yrs old ;;91;10.3;1.07;
+Espèce bovine;Bovines;;Mâles de type viande de plus de 2 ans;Males of butcher type over 2 yrs old ;;91;10.3;1.07;
+Espèce bovine;Bovines;;Génisses laitières de renouvellement de 1 à 2 ans;Heifer for milking herd renewal betw 1 and 2 yrs old ;;52;10.3;0.61;
+Espèce bovine;Bovines;;Génisses nourrices de renouvellement de 1 à 2 ans;Heifer for suckler cows renewal betw 1 and 2 yrs old ;;52;10.3;0.61;
+Espèce bovine;Bovines;;Génisses de boucherie de 1 à 2 ans;Heifer for slaughter between 1 and 2 yrs old ;;52;10.3;0.61;
+Espèce bovine;Bovines;;Mâles de type laitier de 1 à 2 ans;Males of milking type between 1 and 2 yrs old ;;74;10.3;0.87;
+Espèce bovine;Bovines;;Mâles de type viande de 1 à 2 ans;Males of butcher type between 1 and 2 yrs old ;;74;10.3;0.87;
+Espèce bovine;Bovines;;Veaux de boucherie;Veal calves ;;6;10.3;0.07;
+Espèce bovine;Bovines;;Autres femelles de moins de 1 an;Other females under 1 yr ;;20;10.3;0.24;
+Espèce bovine;Bovines;;Autres mâles de moins de 1 an;Other males under 1 yr ;;12;10.3;0.14;
+Espèce porcine;Porcines;;Porcelets;Piglets ;NA;3.8;4.5;0.05;
+Espèce porcine;Porcines;;Jeunes porcs de 20 à 50 kg;young pigs between 20 and 50 kg ;NA;3.8;4.5;0.05;
+Espèce porcine;Porcines;Truies reproductrices de 50 kg ou plus;Truies de 50 kg et plus;Sows over 50 kg ;NA;22;4.5;0.26;
+Espèce porcine;Porcines;;Verrats de 50 kg et plus;Boars over 50 kg ;NA;22;4.5;0.26;
+Espèce porcine;Porcines;;Porcs à l'engrais de 50 kg et plus;fattening pigs over 50 kg ;NA;12;4.5;0.15;
+Espèce caprine;Caprines;;Chevrettes;kid goats ;NA;7;6.7;0.08;
+Espèce caprine;Caprines;Chèvres;Chèvres (femelles ayant mis bas);female goats ;NA;14;6.7;0.17;
+Espèce caprine;Caprines;;Autres caprins (y compris boucs);Other caprines (including male goats) ;NA;14;6.7;0.16;
+Espèce ovine;Ovines;;Agnelles;ewe lambs ;NA;6.5;6.7;0.08;
+Espèce ovine;Ovines;;Brebis-mères (y c. réforme);Sheep ;NA;14;6.7;0.17;"Attention sous catégorie ""dont brebis mere laitière"" aussi"
+Espèce ovine;Ovines;;Autres ovins (y compris béliers);other ovines (incl. rams) ;NA;5.8;6.7;0.07;2 sous catégories à supprimer
+Espèce équine;Equines;Total Equidés;Ensemble espèce chevaline;Horses ;NA;120;10.3;1.42;
+Espèce équine;Equines;;Anes, mulets, bardots;Donkey & Mules ;NA;40;10.3;0.47;
+Volailles et lapins;Poultry;;Poules pondeuses d'oeufs à couver;Laying hens for hatching eggs ;NA;0.7;5.8;0.008;
+Volailles et lapins;Poultry;;Poules pondeuses d'oeufs de consommation;Laying hens for consumption eggs ;NA;0.7;5.8;0.008;
+Volailles et lapins;Poultry;;Poulettes;young hens ;NA;0.3;5.8;0.004;
+Volailles et lapins;Poultry;;Poulets de chair (y compris coqs et coquelets);Chickens ;NA;0.3;5.8;0.004;
+Volailles et lapins;Poultry;;Canards à gaver;Duck for 'foie gras' ;NA;0.6;5.8;0.007;
+Volailles et lapins;Poultry;;Canards à rôtir;Ducks for roasting ;NA;0.6;5.8;0.007;
+Volailles et lapins;Poultry;;Dindes et dindons (au 1er octobre);Turkeys ;NA;1;5.8;0.012;
+Volailles et lapins;Poultry;;Oies au 1er octobre (à rôtir, à gaver);Gooses ;NA;1.5;5.8;0.017;
+Volailles et lapins;Poultry;;Pintades;Guinea fowls ;NA;0.3;5.8;0.004;
+Volailles et lapins;Poultry;;Cailles d'élevage;Quails ;NA;0.2;5.8;0.002;
+Volailles et lapins;Poultry;;Lapines reproductrices;mother rabbits ;NA;1;5.8;0.011;
