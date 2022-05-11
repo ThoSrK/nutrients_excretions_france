@@ -1,0 +1,628 @@
+NOM;ANNREF;GEOGRAPHIE;GEOGRAPHIE_LIB;N027;N027_LIB;N027_MOD;N613;N613_LIB;N613_MOD;VALEUR;QUALITE
+W0021;2000;44;44 - Loire-Atlantique;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;695651;OUI
+W0021;2000;01;01 - Ain;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;578505;OUI
+W0021;2000;45;45 - Loiret;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;681318;OUI
+W0021;2000;75;75 - Ville de Paris;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;76262;OUI
+W0021;2000;02;02 - Aisne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;741954;OUI
+W0021;2000;NR27;27 - Bourgogne-Franche-Comté;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;4806078;OUI
+W0021;2000;46;46 - Lot;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;522505;OUI
+W0021;2000;26;26 - Drôme;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;656009;OUI
+W0021;2000;03;03 - Allier;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;737776;OUI
+W0021;2000;27;27 - Eure;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;602963;OUI
+W0021;2000;47;47 - Lot-et-Garonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;538457;OUI
+W0021;2000;69;69 - Rhône;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;325940;OUI
+W0021;2000;04;04 - Alpes-de-Haute-Provence;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;695851;OUI
+W0021;2000;05;05 - Hautes-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;568987;OUI
+W0021;2000;48;48 - Lozère;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;517650;OUI
+W0021;2000;78;78 - Yvelines;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;230695;OUI
+W0021;2000;49;49 - Maine-et-Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;723272;OUI
+W0021;2000;29;29 - Finistère;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;678680;OUI
+W0021;2000;42;42 - Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;480559;OUI
+W0021;2000;06;06 - Alpes-Maritimes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;429256;OUI
+W0021;2000;50;50 - Manche;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;599143;OUI
+W0021;2000;2A;2A - Corse-du-Sud;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;402843;OUI
+W0021;2000;07;07 - Ardèche;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;556545;OUI
+W0021;2000;51;51 - Marne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;819583;OUI
+W0021;2000;08;08 - Ardennes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;524613;OUI
+W0021;2000;60;60 - Oise;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;589025;OUI
+W0021;2000;52;52 - Haute-Marne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;625026;OUI
+W0021;2000;09;09 - Ariège;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;490963;OUI
+W0021;2000;38;38 - Isère;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;788213;OUI
+W0021;2000;17;17 - Charente-Maritime;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;689285;OUI
+W0021;2000;31;31 - Haute-Garonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;635742;OUI
+W0021;2000;53;53 - Mayenne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;521344;OUI
+W0021;2000;10;10 - Aube;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;602766;OUI
+W0021;2000;76;76 - Seine-Maritime;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;630391;OUI
+W0021;2000;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;54919252;OUI
+W0021;2000;32;32 - Gers;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;630081;OUI
+W0021;2000;22;22 - Côtes-d'Armor;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;699604;OUI
+W0021;2000;35;35 - Ille-et-Vilaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;685222;OUI
+W0021;2000;11;11 - Aude;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;634432;OUI
+W0021;2000;33;33 - Gironde;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;1020177;OUI
+W0021;2000;56;56 - Morbihan;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;687135;OUI
+W0021;2000;12;12 - Aveyron;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;877131;OUI
+W0021;2000;15;15 - Cantal;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;577757;OUI
+W0021;2000;34;34 - Hérault;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;622664;OUI
+W0021;2000;13;13 - Bouches-du-Rhône;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;525540;OUI
+W0021;2000;64;64 - Pyrénées-Atlantiques;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;767581;OUI
+W0021;2000;18;18 - Cher;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;731010;OUI
+W0021;2000;79;79 - Deux-Sèvres;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;603695;OUI
+W0021;2000;57;57 - Moselle;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;625104;OUI
+W0021;2000;89;58 - Nièvre;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;746183;OUI
+W0021;2000;14;14 - Calvados;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;560443;OUI
+W0021;2000;66;66 - Pyrénées-Orientales;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;414119;OUI
+W0021;2000;58;25 - Doubs;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;687280;OUI
+W0021;2000;23;23 - Creuse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;560102;OUI
+W0021;2000;73;73 - Savoie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;627046;OUI
+W0021;2000;88;88 - Vosges;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;589925;OUI
+W0021;2000;24;24 - Dordogne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;922527;OUI
+W0021;2000;40;40 - Landes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;934691;OUI
+W0021;2000;16;16 - Charente;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;597437;OUI
+W0021;2000;NR76;76 - Occitanie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;7335828;OUI
+W0021;2000;NR94;94 - Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;871669;OUI
+W0021;2000;68;68 - Haut-Rhin;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;353293;OUI
+W0021;2000;71;39 - Jura;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;861414;OUI
+W0021;2000;41;41 - Loir-et-Cher;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;642342;OUI
+W0021;2000;61;61 - Orne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;614374;OUI
+W0021;2000;39;71 - Saône-et-Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;504870;OUI
+W0021;2000;30;30 - Gard;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;587254;OUI
+W0021;2000;65;65 - Hautes-Pyrénées;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;452088;OUI
+W0021;2000;84;84 - Vaucluse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;357471;OUI
+W0021;2000;85;85 - Vendée;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;675651;OUI
+W0021;2000;NR93;93 - Provence-Alpes-Côte d'Azur;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;3180358;OUI
+W0021;2000;19;19 - Corrèze;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;589908;OUI
+W0021;2000;43;43 - Haute-Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;500189;OUI
+W0021;2000;21;21 - Côte-d'Or;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;880362;OUI
+W0021;2000;63;63 - Puy-de-Dôme;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;801184;OUI
+W0021;2000;NR52;52 - Pays de la Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;3240386;OUI
+W0021;2000;81;81 - Tarn;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;578089;OUI
+W0021;2000;86;86 - Vienne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;704174;OUI
+W0021;2000;NR24;24 - Centre-Val de Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;3953556;OUI
+W0021;2000;67;67 - Bas-Rhin;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;479893;OUI
+W0021;2000;NR32;32 - Hauts-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;3196864;OUI
+W0021;2000;NR44;44 - Grand Est;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;5772099;OUI
+W0021;2000;80;80 - Somme;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;620790;OUI
+W0021;2000;FR;FR - France entière;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;-2;OUI
+W0021;2000;NR11;11 - Île-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;1206999;OUI
+W0021;2000;91;91 - Essonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;181952;OUI
+W0021;2000;37;37 - Indre-et-Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;615388;OUI
+W0021;2000;NR53;53 - Bretagne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;2750641;OUI
+W0021;2000;59;59 - Nord;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;574446;OUI
+W0021;2000;72;72 - Sarthe;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;624468;OUI
+W0021;2000;70;89 - Yonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;539006;OUI
+W0021;2000;77;77 - Seine-et-Marne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;592827;OUI
+W0021;2000;25;70 - Haute-Saône;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;525901;OUI
+W0021;2000;95;95 - Val-d'Oise;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;125263;OUI
+W0021;2000;36;36 - Indre;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;690312;OUI
+W0021;2000;83;83 - Var;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;603253;OUI
+W0021;2000;28;28 - Eure-et-Loir;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;593186;OUI
+W0021;2000;54;54 - Meurthe-et-Moselle;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;530577;OUI
+W0021;2000;55;55 - Meuse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;621319;OUI
+W0021;2000;2B;2B - Haute-Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;468826;OUI
+W0021;2000;90;90 - Territoire-de-Belfort;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;61062;OUI
+W0021;2000;74;74 - Haute-Savoie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;483872;OUI
+W0021;2000;87;87 - Haute-Vienne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;555831;OUI
+W0021;2000;NR84;84 - Auvergne-Rhône-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;7113595;OUI
+W0021;2000;NR28;28 - Normandie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;3007314;OUI
+W0021;2000;62;62 - Pas-de-Calais;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;670649;OUI
+W0021;2000;82;82 - Tarn-et-Garonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;373110;OUI
+W0021;2000;NR75;75 - Nouvelle-Aquitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Tous sols;1;8483865;OUI
+W0021;2000;59;59 - Nord;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;95656;OUI
+W0021;2000;26;26 - Drôme;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;32830;OUI
+W0021;2000;12;12 - Aveyron;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;38727;OUI
+W0021;2000;47;47 - Lot-et-Garonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;39203;OUI
+W0021;2000;19;19 - Corrèze;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;31700;OUI
+W0021;2000;32;32 - Gers;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;34341;OUI
+W0021;2000;11;11 - Aude;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;24244;OUI
+W0021;2000;03;03 - Allier;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;49028;OUI
+W0021;2000;86;86 - Vienne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;40885;OUI
+W0021;2000;56;56 - Morbihan;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;65922;OUI
+W0021;2000;48;48 - Lozère;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;13429;OUI
+W0021;2000;65;65 - Hautes-Pyrénées;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;20775;OUI
+W0021;2000;44;44 - Loire-Atlantique;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;76724;OUI
+W0021;2000;46;46 - Lot;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;30260;OUI
+W0021;2000;40;40 - Landes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;55676;OUI
+W0021;2000;63;63 - Puy-de-Dôme;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;37348;OUI
+W0021;2000;90;90 - Territoire-de-Belfort;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;8136;OUI
+W0021;2000;2A;2A - Corse-du-Sud;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;9680;OUI
+W0021;2000;38;38 - Isère;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;69240;OUI
+W0021;2000;68;68 - Haut-Rhin;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;35195;OUI
+W0021;2000;67;67 - Bas-Rhin;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;48602;OUI
+W0021;2000;01;01 - Ain;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;46100;OUI
+W0021;2000;15;15 - Cantal;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;22046;OUI
+W0021;2000;62;62 - Pas-de-Calais;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;75184;OUI
+W0021;2000;05;05 - Hautes-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;14691;OUI
+W0021;2000;21;21 - Côte-d'Or;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;46813;OUI
+W0021;2000;41;41 - Loir-et-Cher;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;49021;OUI
+W0021;2000;36;36 - Indre;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;33120;OUI
+W0021;2000;NR11;11 - Île-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;227061;OUI
+W0021;2000;13;13 - Bouches-du-Rhône;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;67212;OUI
+W0021;2000;NR93;93 - Provence-Alpes-Côte d'Azur;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;203490;OUI
+W0021;2000;27;27 - Eure;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;49131;OUI
+W0021;2000;50;50 - Manche;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;44270;OUI
+W0021;2000;57;57 - Moselle;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;54845;OUI
+W0021;2000;43;43 - Haute-Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;24606;OUI
+W0021;2000;80;80 - Somme;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;38834;OUI
+W0021;2000;53;53 - Mayenne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;32467;OUI
+W0021;2000;34;34 - Hérault;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;50019;OUI
+W0021;2000;76;76 - Seine-Maritime;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;66465;OUI
+W0021;2000;69;69 - Rhône;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;63142;OUI
+W0021;2000;24;24 - Dordogne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;61787;OUI
+W0021;2000;29;29 - Finistère;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;77498;OUI
+W0021;2000;60;60 - Oise;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;50454;OUI
+W0021;2000;52;52 - Haute-Marne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;23082;OUI
+W0021;2000;45;45 - Loiret;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;60545;OUI
+W0021;2000;75;75 - Ville de Paris;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;57313;OUI
+W0021;2000;FR;FR - France entière;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;-2;OUI
+W0021;2000;02;02 - Aisne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;41699;OUI
+W0021;2000;17;17 - Charente-Maritime;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;65147;OUI
+W0021;2000;07;07 - Ardèche;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;33548;OUI
+W0021;2000;10;10 - Aube;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;29832;OUI
+W0021;2000;49;49 - Maine-et-Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;60649;OUI
+W0021;2000;72;72 - Sarthe;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;47467;OUI
+W0021;2000;55;55 - Meuse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;16799;OUI
+W0021;2000;04;04 - Alpes-de-Haute-Provence;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;16992;OUI
+W0021;2000;70;89 - Yonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;23242;OUI
+W0021;2000;78;78 - Yvelines;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;41732;OUI
+W0021;2000;42;42 - Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;43498;OUI
+W0021;2000;22;22 - Côtes-d'Armor;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;57525;OUI
+W0021;2000;14;14 - Calvados;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;47632;OUI
+W0021;2000;73;73 - Savoie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;29293;OUI
+W0021;2000;NR28;28 - Normandie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;245208;OUI
+W0021;2000;51;51 - Marne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;38904;OUI
+W0021;2000;61;61 - Orne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;37711;OUI
+W0021;2000;NR75;75 - Nouvelle-Aquitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;599761;OUI
+W0021;2000;2B;2B - Haute-Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;6049;OUI
+W0021;2000;NR53;53 - Bretagne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;256456;OUI
+W0021;2000;37;37 - Indre-et-Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;48900;OUI
+W0021;2000;81;81 - Tarn;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;35954;OUI
+W0021;2000;30;30 - Gard;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;44576;OUI
+W0021;2000;09;09 - Ariège;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;16297;OUI
+W0021;2000;16;16 - Charente;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;40595;OUI
+W0021;2000;NR27;27 - Bourgogne-Franche-Comté;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;252969;OUI
+W0021;2000;77;77 - Seine-et-Marne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;63058;OUI
+W0021;2000;NR94;94 - Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;15730;OUI
+W0021;2000;NR52;52 - Pays de la Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;270535;OUI
+W0021;2000;28;28 - Eure-et-Loir;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;40819;OUI
+W0021;2000;39;71 - Saône-et-Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;25300;OUI
+W0021;2000;NR24;24 - Centre-Val de Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;269854;OUI
+W0021;2000;83;83 - Var;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;39161;OUI
+W0021;2000;54;54 - Meurthe-et-Moselle;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;36889;OUI
+W0021;2000;74;74 - Haute-Savoie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;41940;OUI
+W0021;2000;95;95 - Val-d'Oise;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;30288;OUI
+W0021;2000;33;33 - Gironde;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;105583;OUI
+W0021;2000;NR84;84 - Auvergne-Rhône-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;492617;OUI
+W0021;2000;58;25 - Doubs;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;24687;OUI
+W0021;2000;91;91 - Essonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;34669;OUI
+W0021;2000;NR32;32 - Hauts-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;301827;OUI
+W0021;2000;08;08 - Ardennes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;24302;OUI
+W0021;2000;89;58 - Nièvre;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;42017;OUI
+W0021;2000;84;84 - Vaucluse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;34355;OUI
+W0021;2000;66;66 - Pyrénées-Orientales;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;21580;OUI
+W0021;2000;79;79 - Deux-Sèvres;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;46905;OUI
+W0021;2000;31;31 - Haute-Garonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;76189;OUI
+W0021;2000;71;39 - Jura;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;57109;OUI
+W0021;2000;18;18 - Cher;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;37449;OUI
+W0021;2000;82;82 - Tarn-et-Garonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;26150;OUI
+W0021;2000;35;35 - Ille-et-Vilaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;55510;OUI
+W0021;2000;25;70 - Haute-Saône;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;25666;OUI
+W0021;2000;64;64 - Pyrénées-Atlantiques;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;44802;OUI
+W0021;2000;85;85 - Vendée;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;53227;OUI
+W0021;2000;NR44;44 - Grand Est;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;340134;OUI
+W0021;2000;NR76;76 - Occitanie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;432542;OUI
+W0021;2000;06;06 - Alpes-Maritimes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;31079;OUI
+W0021;2000;88;88 - Vosges;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;31684;OUI
+W0021;2000;87;87 - Haute-Vienne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;40152;OUI
+W0021;2000;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;3908184;OUI
+W0021;2000;23;23 - Creuse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols artificiels;1.1;27327;OUI
+W0021;2000;NR84;84 - Auvergne-Rhône-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols bâtis;1.1.1;65990;OUI
+W0021;2000;NR94;94 - Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols bâtis;1.1.1;1873;OUI
+W0021;2000;NR24;24 - Centre-Val de Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols bâtis;1.1.1;29099;OUI
+W0021;2000;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols bâtis;1.1.1;585998;OUI
+W0021;2000;NR93;93 - Provence-Alpes-Côte d'Azur;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols bâtis;1.1.1;41961;OUI
+W0021;2000;NR53;53 - Bretagne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols bâtis;1.1.1;38916;OUI
+W0021;2000;NR11;11 - Île-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols bâtis;1.1.1;44858;OUI
+W0021;2000;FR;FR - France entière;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols bâtis;1.1.1;-2;OUI
+W0021;2000;NR32;32 - Hauts-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols bâtis;1.1.1;44446;OUI
+W0021;2000;NR52;52 - Pays de la Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols bâtis;1.1.1;44374;OUI
+W0021;2000;NR76;76 - Occitanie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols bâtis;1.1.1;60702;OUI
+W0021;2000;NR75;75 - Nouvelle-Aquitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols bâtis;1.1.1;86184;OUI
+W0021;2000;NR44;44 - Grand Est;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols bâtis;1.1.1;56806;OUI
+W0021;2000;NR27;27 - Bourgogne-Franche-Comté;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols bâtis;1.1.1;35063;OUI
+W0021;2000;NR28;28 - Normandie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols bâtis;1.1.1;35727;OUI
+W0021;2000;NR75;75 - Nouvelle-Aquitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols revêtus ou stabilisés;1.1.2;235995;OUI
+W0021;2000;NR94;94 - Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols revêtus ou stabilisés;1.1.2;9777;OUI
+W0021;2000;NR52;52 - Pays de la Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols revêtus ou stabilisés;1.1.2;121420;OUI
+W0021;2000;NR84;84 - Auvergne-Rhône-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols revêtus ou stabilisés;1.1.2;226260;OUI
+W0021;2000;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols revêtus ou stabilisés;1.1.2;1768117;OUI
+W0021;2000;NR24;24 - Centre-Val de Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols revêtus ou stabilisés;1.1.2;103868;OUI
+W0021;2000;NR93;93 - Provence-Alpes-Côte d'Azur;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols revêtus ou stabilisés;1.1.2;105332;OUI
+W0021;2000;FR;FR - France entière;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols revêtus ou stabilisés;1.1.2;-2;OUI
+W0021;2000;NR28;28 - Normandie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols revêtus ou stabilisés;1.1.2;109746;OUI
+W0021;2000;NR76;76 - Occitanie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols revêtus ou stabilisés;1.1.2;213523;OUI
+W0021;2000;NR27;27 - Bourgogne-Franche-Comté;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols revêtus ou stabilisés;1.1.2;131710;OUI
+W0021;2000;NR32;32 - Hauts-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols revêtus ou stabilisés;1.1.2;128566;OUI
+W0021;2000;NR53;53 - Bretagne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols revêtus ou stabilisés;1.1.2;107682;OUI
+W0021;2000;NR44;44 - Grand Est;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols revêtus ou stabilisés;1.1.2;180959;OUI
+W0021;2000;NR11;11 - Île-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols revêtus ou stabilisés;1.1.2;93280;OUI
+W0021;2000;NR24;24 - Centre-Val de Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols artificialisés;1.1.3b;136886;OUI
+W0021;2000;NR28;28 - Normandie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols artificialisés;1.1.3b;99735;OUI
+W0021;2000;NR44;44 - Grand Est;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols artificialisés;1.1.3b;102370;OUI
+W0021;2000;NR84;84 - Auvergne-Rhône-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols artificialisés;1.1.3b;200368;OUI
+W0021;2000;NR94;94 - Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols artificialisés;1.1.3b;4080;OUI
+W0021;2000;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols artificialisés;1.1.3b;1554069;OUI
+W0021;2000;NR53;53 - Bretagne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols artificialisés;1.1.3b;109858;OUI
+W0021;2000;NR76;76 - Occitanie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols artificialisés;1.1.3b;158317;OUI
+W0021;2000;FR;FR - France entière;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols artificialisés;1.1.3b;-2;OUI
+W0021;2000;NR27;27 - Bourgogne-Franche-Comté;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols artificialisés;1.1.3b;86196;OUI
+W0021;2000;NR93;93 - Provence-Alpes-Côte d'Azur;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols artificialisés;1.1.3b;56198;OUI
+W0021;2000;NR75;75 - Nouvelle-Aquitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols artificialisés;1.1.3b;277581;OUI
+W0021;2000;NR32;32 - Hauts-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols artificialisés;1.1.3b;128816;OUI
+W0021;2000;NR11;11 - Île-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols artificialisés;1.1.3b;88923;OUI
+W0021;2000;NR52;52 - Pays de la Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols artificialisés;1.1.3b;104742;OUI
+W0021;2000;18;18 - Cher;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;461465;OUI
+W0021;2000;02;02 - Aisne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;517006;OUI
+W0021;2000;08;08 - Ardennes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;316852;OUI
+W0021;2000;17;17 - Charente-Maritime;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;465300;OUI
+W0021;2000;72;72 - Sarthe;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;417674;OUI
+W0021;2000;66;66 - Pyrénées-Orientales;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;113286;OUI
+W0021;2000;68;68 - Haut-Rhin;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;153111;OUI
+W0021;2000;41;41 - Loir-et-Cher;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;327682;OUI
+W0021;2000;21;21 - Côte-d'Or;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;464759;OUI
+W0021;2000;76;76 - Seine-Maritime;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;427854;OUI
+W0021;2000;63;63 - Puy-de-Dôme;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;425901;OUI
+W0021;2000;36;36 - Indre;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;475124;OUI
+W0021;2000;13;13 - Bouches-du-Rhône;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;160151;OUI
+W0021;2000;26;26 - Drôme;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;238678;OUI
+W0021;2000;31;31 - Haute-Garonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;380961;OUI
+W0021;2000;28;28 - Eure-et-Loir;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;468248;OUI
+W0021;2000;39;71 - Saône-et-Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;196312;OUI
+W0021;2000;46;46 - Lot;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;190265;OUI
+W0021;2000;53;53 - Mayenne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;411187;OUI
+W0021;2000;32;32 - Gers;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;488219;OUI
+W0021;2000;40;40 - Landes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;244912;OUI
+W0021;2000;52;52 - Haute-Marne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;322336;OUI
+W0021;2000;14;14 - Calvados;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;422517;OUI
+W0021;2000;04;04 - Alpes-de-Haute-Provence;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;172513;OUI
+W0021;2000;38;38 - Isère;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;305062;OUI
+W0021;2000;12;12 - Aveyron;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;498957;OUI
+W0021;2000;34;34 - Hérault;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;194643;OUI
+W0021;2000;10;10 - Aube;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;397538;OUI
+W0021;2000;49;49 - Maine-et-Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;509695;OUI
+W0021;2000;64;64 - Pyrénées-Atlantiques;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;403147;OUI
+W0021;2000;71;39 - Jura;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;540749;OUI
+W0021;2000;27;27 - Eure;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;397818;OUI
+W0021;2000;42;42 - Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;249796;OUI
+W0021;2000;85;85 - Vendée;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;503144;OUI
+W0021;2000;2A;2A - Corse-du-Sud;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;22424;OUI
+W0021;2000;50;50 - Manche;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;463493;OUI
+W0021;2000;23;23 - Creuse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;308389;OUI
+W0021;2000;44;44 - Loire-Atlantique;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;453094;OUI
+W0021;2000;01;01 - Ain;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;274583;OUI
+W0021;2000;22;22 - Côtes-d'Armor;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;479096;OUI
+W0021;2000;60;60 - Oise;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;388164;OUI
+W0021;2000;25;70 - Haute-Saône;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;234628;OUI
+W0021;2000;82;82 - Tarn-et-Garonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;241861;OUI
+W0021;2000;73;73 - Savoie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;184884;OUI
+W0021;2000;80;80 - Somme;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;489883;OUI
+W0021;2000;NR53;53 - Bretagne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;1848509;OUI
+W0021;2000;83;83 - Var;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;80004;OUI
+W0021;2000;NR76;76 - Occitanie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;3500063;OUI
+W0021;2000;59;59 - Nord;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;389290;OUI
+W0021;2000;03;03 - Allier;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;498518;OUI
+W0021;2000;19;19 - Corrèze;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;228996;OUI
+W0021;2000;70;89 - Yonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;246602;OUI
+W0021;2000;75;75 - Ville de Paris;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;2855;OUI
+W0021;2000;95;95 - Val-d'Oise;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;61258;OUI
+W0021;2000;56;56 - Morbihan;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;424400;OUI
+W0021;2000;2B;2B - Haute-Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;84910;OUI
+W0021;2000;05;05 - Hautes-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;227301;OUI
+W0021;2000;NR32;32 - Hauts-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;2283667;OUI
+W0021;2000;88;88 - Vosges;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;230950;OUI
+W0021;2000;86;86 - Vienne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;503044;OUI
+W0021;2000;24;24 - Dordogne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;370823;OUI
+W0021;2000;29;29 - Finistère;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;438522;OUI
+W0021;2000;57;57 - Moselle;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;329855;OUI
+W0021;2000;35;35 - Ille-et-Vilaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;506490;OUI
+W0021;2000;NR52;52 - Pays de la Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;2294793;OUI
+W0021;2000;NR11;11 - Île-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;608945;OUI
+W0021;2000;89;58 - Nièvre;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;439854;OUI
+W0021;2000;74;74 - Haute-Savoie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;154372;OUI
+W0021;2000;81;81 - Tarn;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;313899;OUI
+W0021;2000;11;11 - Aude;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;247793;OUI
+W0021;2000;16;16 - Charente;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;382225;OUI
+W0021;2000;09;09 - Ariège;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;190684;OUI
+W0021;2000;NR94;94 - Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;107333;OUI
+W0021;2000;51;51 - Marne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;587334;OUI
+W0021;2000;54;54 - Meurthe-et-Moselle;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;285315;OUI
+W0021;2000;NR28;28 - Normandie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;2152345;OUI
+W0021;2000;84;84 - Vaucluse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;144590;OUI
+W0021;2000;78;78 - Yvelines;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;98287;OUI
+W0021;2000;45;45 - Loiret;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;378100;OUI
+W0021;2000;62;62 - Pas-de-Calais;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;499323;OUI
+W0021;2000;77;77 - Seine-et-Marne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;353720;OUI
+W0021;2000;91;91 - Essonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;92825;OUI
+W0021;2000;NR84;84 - Auvergne-Rhône-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;3222206;OUI
+W0021;2000;NR75;75 - Nouvelle-Aquitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;4310395;OUI
+W0021;2000;33;33 - Gironde;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;312625;OUI
+W0021;2000;79;79 - Deux-Sèvres;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;463616;OUI
+W0021;2000;37;37 - Indre-et-Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;366828;OUI
+W0021;2000;87;87 - Haute-Vienne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;301452;OUI
+W0021;2000;61;61 - Orne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;440663;OUI
+W0021;2000;47;47 - Lot-et-Garonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;325866;OUI
+W0021;2000;NR93;93 - Provence-Alpes-Côte d'Azur;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;866514;OUI
+W0021;2000;30;30 - Gard;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;194210;OUI
+W0021;2000;65;65 - Hautes-Pyrénées;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;230251;OUI
+W0021;2000;FR;FR - France entière;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;-2;OUI
+W0021;2000;58;25 - Doubs;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;373507;OUI
+W0021;2000;07;07 - Ardèche;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;155022;OUI
+W0021;2000;90;90 - Territoire-de-Belfort;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;21061;OUI
+W0021;2000;69;69 - Rhône;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;158863;OUI
+W0021;2000;15;15 - Cantal;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;342606;OUI
+W0021;2000;48;48 - Lozère;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;215032;OUI
+W0021;2000;NR24;24 - Centre-Val de Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;2477446;OUI
+W0021;2000;67;67 - Bas-Rhin;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;223850;OUI
+W0021;2000;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;29382654;OUI
+W0021;2000;55;55 - Meuse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;345825;OUI
+W0021;2000;NR44;44 - Grand Est;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;3192966;OUI
+W0021;2000;43;43 - Haute-Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;233923;OUI
+W0021;2000;NR27;27 - Bourgogne-Franche-Comté;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;2517472;OUI
+W0021;2000;06;06 - Alpes-Maritimes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols agricoles;1.2;81955;OUI
+W0021;2000;NR75;75 - Nouvelle-Aquitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures annuelles, légumes;1.2.1;1872250;OUI
+W0021;2000;NR84;84 - Auvergne-Rhône-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures annuelles, légumes;1.2.1;717517;OUI
+W0021;2000;NR28;28 - Normandie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures annuelles, légumes;1.2.1;1017130;OUI
+W0021;2000;NR94;94 - Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures annuelles, légumes;1.2.1;5588;OUI
+W0021;2000;NR93;93 - Provence-Alpes-Côte d'Azur;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures annuelles, légumes;1.2.1;171785;OUI
+W0021;2000;FR;FR - France entière;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures annuelles, légumes;1.2.1;-2;OUI
+W0021;2000;NR53;53 - Bretagne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures annuelles, légumes;1.2.1;933622;OUI
+W0021;2000;NR24;24 - Centre-Val de Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures annuelles, légumes;1.2.1;1781255;OUI
+W0021;2000;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures annuelles, légumes;1.2.1;13908130;OUI
+W0021;2000;NR27;27 - Bourgogne-Franche-Comté;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures annuelles, légumes;1.2.1;1021136;OUI
+W0021;2000;NR76;76 - Occitanie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures annuelles, légumes;1.2.1;1235187;OUI
+W0021;2000;NR11;11 - Île-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures annuelles, légumes;1.2.1;531499;OUI
+W0021;2000;NR32;32 - Hauts-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures annuelles, légumes;1.2.1;1771552;OUI
+W0021;2000;NR52;52 - Pays de la Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures annuelles, légumes;1.2.1;919221;OUI
+W0021;2000;NR44;44 - Grand Est;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures annuelles, légumes;1.2.1;1930389;OUI
+W0021;2000;NR93;93 - Provence-Alpes-Côte d'Azur;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures permanentes;1.2.2;194678;OUI
+W0021;2000;NR75;75 - Nouvelle-Aquitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures permanentes;1.2.2;281402;OUI
+W0021;2000;NR24;24 - Centre-Val de Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures permanentes;1.2.2;38864;OUI
+W0021;2000;NR11;11 - Île-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures permanentes;1.2.2;5711;OUI
+W0021;2000;NR28;28 - Normandie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures permanentes;1.2.2;38414;OUI
+W0021;2000;NR53;53 - Bretagne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures permanentes;1.2.2;7556;OUI
+W0021;2000;NR94;94 - Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures permanentes;1.2.2;16697;OUI
+W0021;2000;NR52;52 - Pays de la Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures permanentes;1.2.2;61519;OUI
+W0021;2000;NR32;32 - Hauts-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures permanentes;1.2.2;10142;OUI
+W0021;2000;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures permanentes;1.2.2;1383897;OUI
+W0021;2000;NR44;44 - Grand Est;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures permanentes;1.2.2;85044;OUI
+W0021;2000;NR84;84 - Auvergne-Rhône-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures permanentes;1.2.2;157798;OUI
+W0021;2000;NR27;27 - Bourgogne-Franche-Comté;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures permanentes;1.2.2;44086;OUI
+W0021;2000;FR;FR - France entière;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures permanentes;1.2.2;-2;OUI
+W0021;2000;NR76;76 - Occitanie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Cultures permanentes;1.2.2;441986;OUI
+W0021;2000;NR76;76 - Occitanie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols agricoles;1.2.3;23168;OUI
+W0021;2000;NR53;53 - Bretagne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols agricoles;1.2.3;13406;OUI
+W0021;2000;NR24;24 - Centre-Val de Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols agricoles;1.2.3;25460;OUI
+W0021;2000;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols agricoles;1.2.3;280748;OUI
+W0021;2000;NR27;27 - Bourgogne-Franche-Comté;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols agricoles;1.2.3;11243;OUI
+W0021;2000;NR28;28 - Normandie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols agricoles;1.2.3;16901;OUI
+W0021;2000;FR;FR - France entière;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols agricoles;1.2.3;-2;OUI
+W0021;2000;NR93;93 - Provence-Alpes-Côte d'Azur;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols agricoles;1.2.3;14824;OUI
+W0021;2000;NR94;94 - Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols agricoles;1.2.3;2885;OUI
+W0021;2000;NR75;75 - Nouvelle-Aquitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols agricoles;1.2.3;52197;OUI
+W0021;2000;NR44;44 - Grand Est;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols agricoles;1.2.3;36851;OUI
+W0021;2000;NR52;52 - Pays de la Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols agricoles;1.2.3;39234;OUI
+W0021;2000;NR84;84 - Auvergne-Rhône-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols agricoles;1.2.3;26465;OUI
+W0021;2000;NR32;32 - Hauts-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols agricoles;1.2.3;13337;OUI
+W0021;2000;NR11;11 - Île-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols agricoles;1.2.3;4778;OUI
+W0021;2000;NR75;75 - Nouvelle-Aquitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Jachères et prairies temporaires;1.2.4;881793;OUI
+W0021;2000;FR;FR - France entière;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Jachères et prairies temporaires;1.2.4;-2;OUI
+W0021;2000;NR94;94 - Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Jachères et prairies temporaires;1.2.4;13394;OUI
+W0021;2000;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Jachères et prairies temporaires;1.2.4;4176980;OUI
+W0021;2000;NR53;53 - Bretagne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Jachères et prairies temporaires;1.2.4;613005;OUI
+W0021;2000;NR27;27 - Bourgogne-Franche-Comté;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Jachères et prairies temporaires;1.2.4;141642;OUI
+W0021;2000;NR24;24 - Centre-Val de Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Jachères et prairies temporaires;1.2.4;221200;OUI
+W0021;2000;NR11;11 - Île-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Jachères et prairies temporaires;1.2.4;20622;OUI
+W0021;2000;NR93;93 - Provence-Alpes-Côte d'Azur;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Jachères et prairies temporaires;1.2.4;47689;OUI
+W0021;2000;NR32;32 - Hauts-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Jachères et prairies temporaires;1.2.4;75539;OUI
+W0021;2000;NR44;44 - Grand Est;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Jachères et prairies temporaires;1.2.4;165248;OUI
+W0021;2000;NR84;84 - Auvergne-Rhône-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Jachères et prairies temporaires;1.2.4;489901;OUI
+W0021;2000;NR76;76 - Occitanie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Jachères et prairies temporaires;1.2.4;632883;OUI
+W0021;2000;NR52;52 - Pays de la Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Jachères et prairies temporaires;1.2.4;722015;OUI
+W0021;2000;NR28;28 - Normandie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Jachères et prairies temporaires;1.2.4;152050;OUI
+W0021;2000;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Surfaces toujours en herbe;1.2.50;9632898;OUI
+W0021;2000;FR;FR - France entière;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Surfaces toujours en herbe;1.2.50;-2;OUI
+W0021;2000;NR53;53 - Bretagne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Surfaces toujours en herbe;1.2.50;280919;OUI
+W0021;2000;NR76;76 - Occitanie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Surfaces toujours en herbe;1.2.50;1166838;OUI
+W0021;2000;NR93;93 - Provence-Alpes-Côte d'Azur;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Surfaces toujours en herbe;1.2.50;437539;OUI
+W0021;2000;NR11;11 - Île-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Surfaces toujours en herbe;1.2.50;46334;OUI
+W0021;2000;NR84;84 - Auvergne-Rhône-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Surfaces toujours en herbe;1.2.50;1830525;OUI
+W0021;2000;NR94;94 - Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Surfaces toujours en herbe;1.2.50;68770;OUI
+W0021;2000;NR24;24 - Centre-Val de Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Surfaces toujours en herbe;1.2.50;410667;OUI
+W0021;2000;NR52;52 - Pays de la Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Surfaces toujours en herbe;1.2.50;552804;OUI
+W0021;2000;NR27;27 - Bourgogne-Franche-Comté;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Surfaces toujours en herbe;1.2.50;1299366;OUI
+W0021;2000;NR75;75 - Nouvelle-Aquitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Surfaces toujours en herbe;1.2.50;1222753;OUI
+W0021;2000;NR28;28 - Normandie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Surfaces toujours en herbe;1.2.50;927850;OUI
+W0021;2000;NR32;32 - Hauts-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Surfaces toujours en herbe;1.2.50;413097;OUI
+W0021;2000;NR44;44 - Grand Est;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Surfaces toujours en herbe;1.2.50;975433;OUI
+W0021;2000;11;11 - Aude;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;362395;OUI
+W0021;2000;08;08 - Ardennes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;183460;OUI
+W0021;2000;29;29 - Finistère;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;162659;OUI
+W0021;2000;17;17 - Charente-Maritime;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;158838;OUI
+W0021;2000;12;12 - Aveyron;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;339447;OUI
+W0021;2000;07;07 - Ardèche;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;367975;OUI
+W0021;2000;57;57 - Moselle;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;240404;OUI
+W0021;2000;66;66 - Pyrénées-Orientales;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;279252;OUI
+W0021;2000;15;15 - Cantal;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;213106;OUI
+W0021;2000;13;13 - Bouches-du-Rhône;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;298177;OUI
+W0021;2000;16;16 - Charente;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;174618;OUI
+W0021;2000;19;19 - Corrèze;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;329211;OUI
+W0021;2000;38;38 - Isère;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;413911;OUI
+W0021;2000;86;86 - Vienne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;160245;OUI
+W0021;2000;58;25 - Doubs;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;289086;OUI
+W0021;2000;39;71 - Saône-et-Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;283258;OUI
+W0021;2000;52;52 - Haute-Marne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;279608;OUI
+W0021;2000;37;37 - Indre-et-Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;199661;OUI
+W0021;2000;49;49 - Maine-et-Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;152929;OUI
+W0021;2000;04;04 - Alpes-de-Haute-Provence;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;506346;OUI
+W0021;2000;54;54 - Meurthe-et-Moselle;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;208373;OUI
+W0021;2000;10;10 - Aube;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;175396;OUI
+W0021;2000;21;21 - Côte-d'Or;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;368790;OUI
+W0021;2000;46;46 - Lot;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;301980;OUI
+W0021;2000;01;01 - Ain;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;257823;OUI
+W0021;2000;34;34 - Hérault;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;378002;OUI
+W0021;2000;42;42 - Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;187265;OUI
+W0021;2000;22;22 - Côtes-d'Armor;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;162982;OUI
+W0021;2000;35;35 - Ille-et-Vilaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;123222;OUI
+W0021;2000;40;40 - Landes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;634103;OUI
+W0021;2000;14;14 - Calvados;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;90294;OUI
+W0021;2000;73;73 - Savoie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;412869;OUI
+W0021;2000;44;44 - Loire-Atlantique;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;165833;OUI
+W0021;2000;81;81 - Tarn;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;228236;OUI
+W0021;2000;24;24 - Dordogne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;489917;OUI
+W0021;2000;FR;FR - France entière;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;-2;OUI
+W0021;2000;30;30 - Gard;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;348467;OUI
+W0021;2000;60;60 - Oise;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;150407;OUI
+W0021;2000;82;82 - Tarn-et-Garonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;105099;OUI
+W0021;2000;02;02 - Aisne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;183249;OUI
+W0021;2000;75;75 - Ville de Paris;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;16094;OUI
+W0021;2000;78;78 - Yvelines;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;90675;OUI
+W0021;2000;83;83 - Var;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;484087;OUI
+W0021;2000;32;32 - Gers;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;107521;OUI
+W0021;2000;18;18 - Cher;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;232096;OUI
+W0021;2000;55;55 - Meuse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;258695;OUI
+W0021;2000;25;70 - Haute-Saône;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;265608;OUI
+W0021;2000;67;67 - Bas-Rhin;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;207441;OUI
+W0021;2000;95;95 - Val-d'Oise;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;33717;OUI
+W0021;2000;63;63 - Puy-de-Dôme;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;337936;OUI
+W0021;2000;26;26 - Drôme;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;384501;OUI
+W0021;2000;71;39 - Jura;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;263556;OUI
+W0021;2000;03;03 - Allier;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;190230;OUI
+W0021;2000;06;06 - Alpes-Maritimes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;316222;OUI
+W0021;2000;50;50 - Manche;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;91379;OUI
+W0021;2000;65;65 - Hautes-Pyrénées;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;201062;OUI
+W0021;2000;43;43 - Haute-Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;241660;OUI
+W0021;2000;NR52;52 - Pays de la Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;675057;OUI
+W0021;2000;80;80 - Somme;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;92073;OUI
+W0021;2000;23;23 - Creuse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;224386;OUI
+W0021;2000;36;36 - Indre;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;182068;OUI
+W0021;2000;51;51 - Marne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;193345;OUI
+W0021;2000;74;74 - Haute-Savoie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;287560;OUI
+W0021;2000;79;79 - Deux-Sèvres;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;93174;OUI
+W0021;2000;45;45 - Loiret;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;242673;OUI
+W0021;2000;90;90 - Territoire-de-Belfort;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;31865;OUI
+W0021;2000;68;68 - Haut-Rhin;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;164987;OUI
+W0021;2000;48;48 - Lozère;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;289189;OUI
+W0021;2000;53;53 - Mayenne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;77690;OUI
+W0021;2000;31;31 - Haute-Garonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;178592;OUI
+W0021;2000;NR94;94 - Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;748606;OUI
+W0021;2000;41;41 - Loir-et-Cher;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;265639;OUI
+W0021;2000;76;76 - Seine-Maritime;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;136072;OUI
+W0021;2000;91;91 - Essonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;54457;OUI
+W0021;2000;NR76;76 - Occitanie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;3403223;OUI
+W0021;2000;69;69 - Rhône;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;103936;OUI
+W0021;2000;84;84 - Vaucluse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;178526;OUI
+W0021;2000;89;58 - Nièvre;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;264312;OUI
+W0021;2000;70;89 - Yonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;269163;OUI
+W0021;2000;64;64 - Pyrénées-Atlantiques;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;319633;OUI
+W0021;2000;28;28 - Eure-et-Loir;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;84119;OUI
+W0021;2000;2A;2A - Corse-du-Sud;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;370739;OUI
+W0021;2000;2B;2B - Haute-Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;377867;OUI
+W0021;2000;77;77 - Seine-et-Marne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;176049;OUI
+W0021;2000;NR84;84 - Auvergne-Rhône-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;3398772;OUI
+W0021;2000;NR24;24 - Centre-Val de Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;1206256;OUI
+W0021;2000;88;88 - Vosges;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;327291;OUI
+W0021;2000;NR75;75 - Nouvelle-Aquitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;3573710;OUI
+W0021;2000;NR27;27 - Bourgogne-Franche-Comté;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;2035637;OUI
+W0021;2000;09;09 - Ariège;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;283982;OUI
+W0021;2000;59;59 - Nord;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;89500;OUI
+W0021;2000;62;62 - Pas-de-Calais;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;96141;OUI
+W0021;2000;NR44;44 - Grand Est;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;2238999;OUI
+W0021;2000;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;21628414;OUI
+W0021;2000;NR28;28 - Normandie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;609761;OUI
+W0021;2000;NR32;32 - Hauts-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;611370;OUI
+W0021;2000;05;05 - Hautes-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;326995;OUI
+W0021;2000;56;56 - Morbihan;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;196813;OUI
+W0021;2000;61;61 - Orne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;136000;OUI
+W0021;2000;47;47 - Lot-et-Garonne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;173388;OUI
+W0021;2000;27;27 - Eure;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;156014;OUI
+W0021;2000;33;33 - Gironde;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;601970;OUI
+W0021;2000;85;85 - Vendée;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;119280;OUI
+W0021;2000;NR53;53 - Bretagne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;645676;OUI
+W0021;2000;72;72 - Sarthe;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;159326;OUI
+W0021;2000;NR93;93 - Provence-Alpes-Côte d'Azur;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;2110353;OUI
+W0021;2000;NR11;11 - Île-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;370993;OUI
+W0021;2000;87;87 - Haute-Vienne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols naturels;1.3;214227;OUI
+W0021;2000;NR32;32 - Hauts-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Forêts;1.3.1;448358;OUI
+W0021;2000;NR11;11 - Île-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Forêts;1.3.1;286332;OUI
+W0021;2000;NR75;75 - Nouvelle-Aquitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Forêts;1.3.1;2829014;OUI
+W0021;2000;NR93;93 - Provence-Alpes-Côte d'Azur;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Forêts;1.3.1;1478392;OUI
+W0021;2000;NR44;44 - Grand Est;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Forêts;1.3.1;1980713;OUI
+W0021;2000;NR24;24 - Centre-Val de Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Forêts;1.3.1;963956;OUI
+W0021;2000;NR52;52 - Pays de la Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Forêts;1.3.1;368580;OUI
+W0021;2000;NR53;53 - Bretagne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Forêts;1.3.1;386473;OUI
+W0021;2000;NR94;94 - Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Forêts;1.3.1;475042;OUI
+W0021;2000;NR76;76 - Occitanie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Forêts;1.3.1;2453672;OUI
+W0021;2000;NR27;27 - Bourgogne-Franche-Comté;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Forêts;1.3.1;1750504;OUI
+W0021;2000;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Forêts;1.3.1;16348585;OUI
+W0021;2000;NR28;28 - Normandie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Forêts;1.3.1;392146;OUI
+W0021;2000;FR;FR - France entière;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Forêts;1.3.1;-2;OUI
+W0021;2000;NR84;84 - Auvergne-Rhône-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Forêts;1.3.1;2535405;OUI
+W0021;2000;NR76;76 - Occitanie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols boisés;1.3.2;235634;OUI
+W0021;2000;NR11;11 - Île-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols boisés;1.3.2;30773;OUI
+W0021;2000;NR44;44 - Grand Est;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols boisés;1.3.2;111114;OUI
+W0021;2000;NR53;53 - Bretagne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols boisés;1.3.2;141228;OUI
+W0021;2000;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols boisés;1.3.2;1891697;OUI
+W0021;2000;NR32;32 - Hauts-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols boisés;1.3.2;77360;OUI
+W0021;2000;FR;FR - France entière;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols boisés;1.3.2;-2;OUI
+W0021;2000;NR27;27 - Bourgogne-Franche-Comté;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols boisés;1.3.2;151745;OUI
+W0021;2000;NR75;75 - Nouvelle-Aquitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols boisés;1.3.2;340555;OUI
+W0021;2000;NR52;52 - Pays de la Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols boisés;1.3.2;171370;OUI
+W0021;2000;NR93;93 - Provence-Alpes-Côte d'Azur;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols boisés;1.3.2;106304;OUI
+W0021;2000;NR84;84 - Auvergne-Rhône-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols boisés;1.3.2;252318;OUI
+W0021;2000;NR24;24 - Centre-Val de Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols boisés;1.3.2;94926;OUI
+W0021;2000;NR94;94 - Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols boisés;1.3.2;31286;OUI
+W0021;2000;NR28;28 - Normandie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Autres sols boisés;1.3.2;147085;OUI
+W0021;2000;NR75;75 - Nouvelle-Aquitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Landes, friches, maquis, garrigues, savanes;1.3.40;245387;OUI
+W0021;2000;NR94;94 - Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Landes, friches, maquis, garrigues, savanes;1.3.40;179902;OUI
+W0021;2000;NR28;28 - Normandie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Landes, friches, maquis, garrigues, savanes;1.3.40;42146;OUI
+W0021;2000;NR44;44 - Grand Est;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Landes, friches, maquis, garrigues, savanes;1.3.40;66876;OUI
+W0021;2000;NR84;84 - Auvergne-Rhône-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Landes, friches, maquis, garrigues, savanes;1.3.40;258028;OUI
+W0021;2000;NR32;32 - Hauts-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Landes, friches, maquis, garrigues, savanes;1.3.40;48096;OUI
+W0021;2000;FR;FR - France entière;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Landes, friches, maquis, garrigues, savanes;1.3.40;-2;OUI
+W0021;2000;NR52;52 - Pays de la Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Landes, friches, maquis, garrigues, savanes;1.3.40;52611;OUI
+W0021;2000;NR24;24 - Centre-Val de Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Landes, friches, maquis, garrigues, savanes;1.3.40;75380;OUI
+W0021;2000;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Landes, friches, maquis, garrigues, savanes;1.3.40;1956440;OUI
+W0021;2000;NR27;27 - Bourgogne-Franche-Comté;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Landes, friches, maquis, garrigues, savanes;1.3.40;76172;OUI
+W0021;2000;NR76;76 - Occitanie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Landes, friches, maquis, garrigues, savanes;1.3.40;520970;OUI
+W0021;2000;NR11;11 - Île-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Landes, friches, maquis, garrigues, savanes;1.3.40;32220;OUI
+W0021;2000;NR93;93 - Provence-Alpes-Côte d'Azur;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Landes, friches, maquis, garrigues, savanes;1.3.40;278341;OUI
+W0021;2000;NR53;53 - Bretagne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Landes, friches, maquis, garrigues, savanes;1.3.40;80311;OUI
+W0021;2000;NR44;44 - Grand Est;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols nus naturels;1.3.60;2242;OUI
+W0021;2000;FR;FR - France entière;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols nus naturels;1.3.60;-2;OUI
+W0021;2000;NR76;76 - Occitanie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols nus naturels;1.3.60;63566;OUI
+W0021;2000;NR75;75 - Nouvelle-Aquitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols nus naturels;1.3.60;19779;OUI
+W0021;2000;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols nus naturels;1.3.60;503126;OUI
+W0021;2000;NR28;28 - Normandie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols nus naturels;1.3.60;3205;OUI
+W0021;2000;NR52;52 - Pays de la Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols nus naturels;1.3.60;1777;OUI
+W0021;2000;NR24;24 - Centre-Val de Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols nus naturels;1.3.60;578;OUI
+W0021;2000;NR32;32 - Hauts-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols nus naturels;1.3.60;5190;OUI
+W0021;2000;NR11;11 - Île-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols nus naturels;1.3.60;3805;OUI
+W0021;2000;NR53;53 - Bretagne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols nus naturels;1.3.60;6265;OUI
+W0021;2000;NR27;27 - Bourgogne-Franche-Comté;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols nus naturels;1.3.60;2539;OUI
+W0021;2000;NR94;94 - Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols nus naturels;1.3.60;45416;OUI
+W0021;2000;NR93;93 - Provence-Alpes-Côte d'Azur;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols nus naturels;1.3.60;144145;OUI
+W0021;2000;NR84;84 - Auvergne-Rhône-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sols nus naturels;1.3.60;204619;OUI
+W0021;2000;NR94;94 - Corse;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sous les eaux;1.3.70;16961;OUI
+W0021;2000;METRO;FR métro - France métropolitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sous les eaux;1.3.70;928566;OUI
+W0021;2000;NR75;75 - Nouvelle-Aquitaine;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sous les eaux;1.3.70;138975;OUI
+W0021;2000;NR11;11 - Île-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sous les eaux;1.3.70;17864;OUI
+W0021;2000;NR32;32 - Hauts-de-France;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sous les eaux;1.3.70;32367;OUI
+W0021;2000;NR27;27 - Bourgogne-Franche-Comté;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sous les eaux;1.3.70;54677;OUI
+W0021;2000;NR44;44 - Grand Est;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sous les eaux;1.3.70;78055;OUI
+W0021;2000;FR;FR - France entière;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sous les eaux;1.3.70;-2;OUI
+W0021;2000;NR52;52 - Pays de la Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sous les eaux;1.3.70;80720;OUI
+W0021;2000;NR76;76 - Occitanie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sous les eaux;1.3.70;129381;OUI
+W0021;2000;NR53;53 - Bretagne;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sous les eaux;1.3.70;31400;OUI
+W0021;2000;NR84;84 - Auvergne-Rhône-Alpes;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sous les eaux;1.3.70;148402;OUI
+W0021;2000;NR24;24 - Centre-Val de Loire;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sous les eaux;1.3.70;71416;OUI
+W0021;2000;NR93;93 - Provence-Alpes-Côte d'Azur;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sous les eaux;1.3.70;103171;OUI
+W0021;2000;NR28;28 - Normandie;Groupe d'indicateurs;Surface;050.10;Occupation du territoire;Sous les eaux;1.3.70;25178;OUI
