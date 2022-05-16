@@ -1,17 +1,3 @@
-﻿source;target;flow_group;value
-Excrétats franciliens;Egouts;Egouts;55929
-Excrétats franciliens;Autres filières;Autres filières;3474
-Egouts;Pertes réseau;Rivière;1306
-Pertes réseau;Rivière;Rivière;1306
-Egouts;STEU;STEU;54623
-Autres filières;STEU;STEU;235
-Autres filières;Air;Aiir;272
-Autres filières;Incinérateurs;Incinérateurs;1981
-Autres filières;Agriculture;Agriculture;6
-Autres filières;Sous-sol;Sous-sol;980
-STEU;Air;Air;28981
-STEU;Boues;Boues;5175
-STEU;Rivière;Rivière;20701
-Boues;Incinérateurs;Incinérateurs;3105
-Boues;Agriculture;Agriculture;2070
-Incinérateurs;Air;Air;5086
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ae82910de80f3bb6bd54ff575f9f0b919ec96e3c237469474c7dd473c075c67
+size 620

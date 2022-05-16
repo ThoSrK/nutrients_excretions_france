@@ -1,21 +1,3 @@
-﻿Insee - Statistiques locales; ; ; ; 
-Référentiel géographique : France par région; ; ; ; 
-Code;Libellé;Taux de valorisation matière et organique des déchets ménagers et assimilés, 2017;Taux d'artificialisation des sols, 2018;Part des surfaces en agriculture biologique 2020
-01;Guadeloupe;26.1;14.5;2.9
-02;Martinique;24.3;17.1;3
-03;Guyane;13.7;0.1;11.4
-04;La Réunion;39.2;11.8;4.5
-06;Mayotte;1;9.5;0.4
-11;Île-de-France;31.9;21.8;6.3
-24;Centre-Val de Loire;46.4;4.4;4.3
-27;Bourgogne-Franche-Comté;51.1;4.3;9.1
-28;Normandie;47.4;6.2;6.3
-32;Hauts-de-France;47;10.1;2.5
-44;Grand Est;43.1;6;7
-52;Pays de la Loire;61.3;6.9;11.7
-53;Bretagne;61.8;7.3;9.5
-75;Nouvelle-Aquitaine;51.3;4.7;8.4
-76;Occitanie;47;4.2;17.7
-84;Auvergne-Rhône-Alpes;47.4;5.7;10.5
-93;Provence-Alpes-Côte d'Azur;34.5;7.2;32.4
-94;Corse;24;2.6;18.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:090db2c0f61f685d4339f51bea991754b8ce430fb67d31a77f882949fa165c5b
+size 825

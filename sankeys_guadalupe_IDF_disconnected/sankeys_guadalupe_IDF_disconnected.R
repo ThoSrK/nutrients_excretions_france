@@ -13,14 +13,13 @@ library(stringr)
 
 #https://r-graph-gallery.com/322-custom-colours-in-sankey-diagram.html
 
-#library(igraph)
 library(networkD3)
-
+library(htmlwidgets)
 
 # Total -------------------------------------------------------------------
 
-# Make a connection data frame
-links <- read.csv("/Users/thomasstarck/Desktop/Classeur1.csv", sep=";")
+# Make a connection data frame and checking in/out flows
+links <- read.csv("IDF_all.csv", sep=";")
 check <- full_join( #checking in/out in all nodes
   links %>% group_by(source) %>% summarise(in_flow = sum(value)) %>% rename(node = source),
   out_flow <- links %>% group_by(target) %>% summarise(out_flow = sum(value)) %>% rename(node = target), 
@@ -28,9 +27,6 @@ check <- full_join( #checking in/out in all nodes
   mutate(abs_diff = out_flow-in_flow, rel_diff = (out_flow-in_flow)/in_flow)
 check %>% filter(is.na(in_flow) == T) %>% select(out_flow) %>% sum() #total out
 check %>% filter(is.na(out_flow) == T) %>% select(in_flow) %>% sum() #total in
-
-
-
 # From these flows we need to create a node data frame: it lists every entities involved in the flow
 nodes <- data.frame(
   name=c(as.character(links$source), as.character(links$target)) %>% 
@@ -52,15 +48,14 @@ p <- sankeyNetwork(Links = links, Nodes = nodes, Source = "IDsource", Target = "
                    nodeWidth=10, fontSize=25, nodePadding=100,
                    width = 1200, sinksRight = T, margin = 0,
                    LinkGroup="flow_group", NodeGroup="group")
-p
 # save the widget
-saveWidget(p, file="IDF.html")
-library(htmlwidgets)
+saveWidget(p, file="IDF_all.html")
+
 
 # Deconnected -------------------------------------------------------------
 
 # Make a connection data frame
-links <- read.csv("/Users/thomasstarck/Desktop/Deconnected.csv", sep=";")
+links <- read.csv("IDF_disconnected.csv", sep=";")
 check <- full_join( #checking in/out in all nodes
   links %>% group_by(source) %>% summarise(in_flow = sum(value)) %>% rename(node = source),
   out_flow <- links %>% group_by(target) %>% summarise(out_flow = sum(value)) %>% rename(node = target), 
@@ -93,6 +88,6 @@ p <- sankeyNetwork(Links = links, Nodes = nodes, Source = "IDsource", Target = "
 p
 # save the widget
 
-saveWidget(p, file="deconnected.html")
-library(htmlwidgets)
+saveWidget(p, file="IDF_disconnected.html")
+
 

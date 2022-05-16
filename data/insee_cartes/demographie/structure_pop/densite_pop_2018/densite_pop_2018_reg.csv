@@ -1,21 +1,3 @@
-﻿Insee - Statistiques locales; ; 
-Référentiel géographique : France par région; ; 
-Code;Libellé;Densité de population (historique depuis 1876) 2018
-01;Guadeloupe;238
-02;Martinique;326.9
-03;Guyane;3.3
-04;La Réunion;341.9
-06;Mayotte;N/A
-11;Île-de-France;1016.7
-24;Centre-Val de Loire;65.7
-27;Bourgogne-Franche-Comté;58.8
-28;Normandie;111.3
-32;Hauts-de-France;188.8
-44;Grand Est;96.6
-52;Pays de la Loire;117.9
-53;Bretagne;122.6
-75;Nouvelle-Aquitaine;71.2
-76;Occitanie;80.9
-84;Auvergne-Rhône-Alpes;114.7
-93;Provence-Alpes-Côte d'Azur;160.9
-94;Corse;39
+version https://git-lfs.github.com/spec/v1
+oid sha256:19ac1f4d6dbe6a6555cbe3122cabb63282c79857180d6b6071766c8439387f9b
+size 560

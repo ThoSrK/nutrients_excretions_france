@@ -1,21 +1,3 @@
-﻿Insee - Statistiques locales; ; ; ; ; 
-Référentiel géographique : France par région; ; ; ; ; 
-Code;Libellé;Évol. annuelle moy. de la pop. due au solde apparent entrées/sorties 2013-2018;Évol. annuelle moy. de la population 2013 - 2019 (en %) 2019;Évol. annuelle moy. de la population 2013-2018;Évol. annuelle moy. de la pop. due au solde naturel 2013-2018
-01;Guadeloupe;-1.14;-0.8;-0.73;0.41
-02;Martinique;-1.1;-0.9;-0.89;0.22
-03;Guyane;0.08;2.4;2.49;2.41
-04;La Réunion;-0.62;0.5;0.49;1.12
-06;Mayotte;N/A;N/A;N/A;N/A
-11;Île-de-France;-0.46;0.4;0.42;0.88
-24;Centre-Val de Loire;-0.06;0;0.02;0.08
-27;Bourgogne-Franche-Comté;-0.09;-0.1;-0.09;0
-28;Normandie;-0.13;0;-0.01;0.12
-32;Hauts-de-France;-0.29;0;0.05;0.35
-44;Grand Est;-0.17;0;-0.01;0.16
-52;Pays de la Loire;0.4;0.7;0.65;0.25
-53;Bretagne;0.46;0.5;0.47;0.01
-75;Nouvelle-Aquitaine;0.55;0.5;0.46;-0.09
-76;Occitanie;0.62;0.7;0.7;0.08
-84;Auvergne-Rhône-Alpes;0.25;0.6;0.6;0.35
-93;Provence-Alpes-Côte d'Azur;0.2;0.4;0.4;0.2
-94;Corse;1.17;1;1.12;-0.05
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc70b5137634cf2fe0fc0c5f9465bb2a745d7c3c65e8aa940272020c33092f40
+size 1016

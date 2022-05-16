@@ -1,0 +1,1390 @@
+﻿NOM;ANNREF;FRANCE;FRDOM;REGION;DEP;G_0044_DIM1;G_0044_MOD_DIM1;G_0044_LIB_DIM1;G_0044_DIM2;G_0044_MOD_DIM2;G_0044_LIB_DIM2;VALEUR;QUALITE
+G_0044;2010;FR;............;............;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;1410;OUI
+G_0044;2010;FR;............;............;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1207790;OUI
+G_0044;2010;FR;............;............;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));54951390;OUI
+G_0044;2010;FR;............;............;............;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;79;OUI
+G_0044;2010;FR;............;............;............;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;7672;OUI
+G_0044;2010;FR;............;............;............;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));317500;OUI
+G_0044;2010;FR;............;............;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;417;OUI
+G_0044;2010;FR;............;............;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;59233;OUI
+G_0044;2010;FR;............;............;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));2932725;OUI
+G_0044;2010;FR;............;............;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;460;OUI
+G_0044;2010;FR;............;............;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;51671;OUI
+G_0044;2010;FR;............;............;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));2500500;OUI
+G_0044;2010;FR;............;............;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;263;OUI
+G_0044;2010;FR;............;............;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;9147;OUI
+G_0044;2010;FR;............;............;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));534985;OUI
+G_0044;2010;FR;............;............;............;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;569;OUI
+G_0044;2010;FR;............;............;............;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;914951;OUI
+G_0044;2010;FR;............;............;............;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));41126065;OUI
+G_0044;2010;FR;............;............;............;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;126;OUI
+G_0044;2010;FR;............;............;............;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;5166;OUI
+G_0044;2010;FR;............;............;............;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));269955;OUI
+G_0044;2010;FR;............;............;............;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;15;OUI
+G_0044;2010;FR;............;............;............;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;2892;OUI
+G_0044;2010;FR;............;............;............;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));109820;OUI
+G_0044;2010;FR;............;............;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;358;OUI
+G_0044;2010;FR;............;............;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;157058;OUI
+G_0044;2010;FR;............;............;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));7159840;OUI
+G_0044;2010;FR;DOM;............;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;DOM;............;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;DOM;............;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;DOM;............;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;DOM;............;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;16;OUI
+G_0044;2010;FR;DOM;............;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1840;OUI
+G_0044;2010;FR;DOM;............;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;DOM;............;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;DOM;............;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;DOM;R01;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;DOM;R01;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;DOM;R01;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;DOM;R01;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;DOM;R01;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;16;OUI
+G_0044;2010;FR;DOM;R01;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1840;OUI
+G_0044;2010;FR;DOM;R01;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;DOM;R01;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;DOM;R01;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;DOM;R01;971;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;DOM;R01;971;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;DOM;R01;971;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;DOM;R01;971;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;DOM;R01;971;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;16;OUI
+G_0044;2010;FR;DOM;R01;971;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1840;OUI
+G_0044;2010;FR;DOM;R01;971;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;DOM;R01;971;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;DOM;R01;971;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;............;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;1407;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1207763;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));54948285;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;79;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;7672;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));317500;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;414;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;59217;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));2930885;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;458;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;51660;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));2499235;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;263;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;9147;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));534985;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;569;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;914951;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));41126065;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;126;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;5166;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));269955;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;15;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;2892;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));109820;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;358;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;157058;OUI
+G_0044;2010;FR;METRO;............;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));7159840;OUI
+G_0044;2010;FR;METRO;R11;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R11;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R11;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R11;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R11;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R11;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R11;91;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R11;91;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R11;91;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R11;91;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R11;91;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R11;91;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R21;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R21;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R21;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R21;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R21;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R21;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R21;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R21;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R21;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R21;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R21;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;14;OUI
+G_0044;2010;FR;METRO;R21;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1440;OUI
+G_0044;2010;FR;METRO;R21;............;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R21;............;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R21;............;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R21;08;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R21;08;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R21;08;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R21;08;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R21;08;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R21;08;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R21;08;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R21;08;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R21;08;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R21;08;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R21;08;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R21;08;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R21;08;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R21;08;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R21;08;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R21;51;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R21;51;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R21;51;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R21;51;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R21;51;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R21;51;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R21;51;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R21;51;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R21;51;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R22;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;11;OUI
+G_0044;2010;FR;METRO;R22;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;3548;OUI
+G_0044;2010;FR;METRO;R22;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));272355;OUI
+G_0044;2010;FR;METRO;R22;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;6;OUI
+G_0044;2010;FR;METRO;R22;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;392;OUI
+G_0044;2010;FR;METRO;R22;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));24225;OUI
+G_0044;2010;FR;METRO;R22;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R22;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R22;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R22;............;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R22;............;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R22;............;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R22;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R22;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;182;OUI
+G_0044;2010;FR;METRO;R22;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));11040;OUI
+G_0044;2010;FR;METRO;R22;80;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;11;OUI
+G_0044;2010;FR;METRO;R22;80;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;3548;OUI
+G_0044;2010;FR;METRO;R22;80;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));272355;OUI
+G_0044;2010;FR;METRO;R22;80;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;6;OUI
+G_0044;2010;FR;METRO;R22;80;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;392;OUI
+G_0044;2010;FR;METRO;R22;80;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));24225;OUI
+G_0044;2010;FR;METRO;R22;80;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R22;80;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R22;80;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R22;80;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R22;80;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R22;80;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R22;80;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R22;80;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;182;OUI
+G_0044;2010;FR;METRO;R22;80;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));11040;OUI
+G_0044;2010;FR;METRO;R23;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R23;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R23;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R23;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R23;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R23;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R23;27;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R23;27;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R23;27;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R23;27;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R23;27;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R23;27;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R24;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R24;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R24;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R24;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R24;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R24;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R24;37;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R24;37;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R24;37;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R24;37;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R24;37;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R24;37;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R25;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;42;OUI
+G_0044;2010;FR;METRO;R25;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;14251;OUI
+G_0044;2010;FR;METRO;R25;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1126700;OUI
+G_0044;2010;FR;METRO;R25;............;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R25;............;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R25;............;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R25;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;8;OUI
+G_0044;2010;FR;METRO;R25;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;938;OUI
+G_0044;2010;FR;METRO;R25;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));69590;OUI
+G_0044;2010;FR;METRO;R25;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;20;OUI
+G_0044;2010;FR;METRO;R25;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1906;OUI
+G_0044;2010;FR;METRO;R25;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));131535;OUI
+G_0044;2010;FR;METRO;R25;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R25;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R25;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R25;............;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;9;OUI
+G_0044;2010;FR;METRO;R25;............;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;9372;OUI
+G_0044;2010;FR;METRO;R25;............;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));772040;OUI
+G_0044;2010;FR;METRO;R25;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;12;OUI
+G_0044;2010;FR;METRO;R25;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1527;OUI
+G_0044;2010;FR;METRO;R25;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));113390;OUI
+G_0044;2010;FR;METRO;R25;14;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;4;OUI
+G_0044;2010;FR;METRO;R25;14;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;122;OUI
+G_0044;2010;FR;METRO;R25;14;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));12660;OUI
+G_0044;2010;FR;METRO;R25;14;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R25;14;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R25;14;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R25;14;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R25;14;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R25;14;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R25;50;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;38;OUI
+G_0044;2010;FR;METRO;R25;50;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;14129;OUI
+G_0044;2010;FR;METRO;R25;50;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1114040;OUI
+G_0044;2010;FR;METRO;R25;50;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R25;50;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R25;50;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R25;50;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;8;OUI
+G_0044;2010;FR;METRO;R25;50;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;938;OUI
+G_0044;2010;FR;METRO;R25;50;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));69590;OUI
+G_0044;2010;FR;METRO;R25;50;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;20;OUI
+G_0044;2010;FR;METRO;R25;50;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1906;OUI
+G_0044;2010;FR;METRO;R25;50;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));131535;OUI
+G_0044;2010;FR;METRO;R25;50;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R25;50;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R25;50;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R25;50;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R25;50;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R25;50;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R25;50;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;12;OUI
+G_0044;2010;FR;METRO;R25;50;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1527;OUI
+G_0044;2010;FR;METRO;R25;50;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));113390;OUI
+G_0044;2010;FR;METRO;R31;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;6;OUI
+G_0044;2010;FR;METRO;R31;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;322;OUI
+G_0044;2010;FR;METRO;R31;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));21205;OUI
+G_0044;2010;FR;METRO;R31;............;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R31;............;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R31;............;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R31;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R31;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R31;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R31;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;5;OUI
+G_0044;2010;FR;METRO;R31;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;206;OUI
+G_0044;2010;FR;METRO;R31;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));13800;OUI
+G_0044;2010;FR;METRO;R31;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R31;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R31;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R31;59;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R31;59;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R31;59;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R31;59;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R31;59;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R31;59;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R31;59;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R31;59;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R31;59;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R31;59;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R31;59;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R31;59;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R31;62;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R31;62;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R31;62;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R31;62;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R31;62;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R31;62;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R31;62;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R31;62;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R31;62;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R41;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;5;OUI
+G_0044;2010;FR;METRO;R41;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;448;OUI
+G_0044;2010;FR;METRO;R41;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));24610;OUI
+G_0044;2010;FR;METRO;R41;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R41;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R41;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R41;............;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R41;............;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;265;OUI
+G_0044;2010;FR;METRO;R41;............;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));14200;OUI
+G_0044;2010;FR;METRO;R41;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R41;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R41;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R41;88;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;5;OUI
+G_0044;2010;FR;METRO;R41;88;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;448;OUI
+G_0044;2010;FR;METRO;R41;88;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));24610;OUI
+G_0044;2010;FR;METRO;R41;88;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R41;88;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R41;88;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R41;88;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R41;88;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;265;OUI
+G_0044;2010;FR;METRO;R41;88;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));14200;OUI
+G_0044;2010;FR;METRO;R41;88;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R41;88;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R41;88;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R42;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R42;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;92;OUI
+G_0044;2010;FR;METRO;R42;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));7330;OUI
+G_0044;2010;FR;METRO;R42;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R42;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R42;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R42;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R42;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R42;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R42;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R42;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R42;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R42;............;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R42;............;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R42;............;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R42;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R42;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R42;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R42;67;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R42;67;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;92;OUI
+G_0044;2010;FR;METRO;R42;67;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));7330;OUI
+G_0044;2010;FR;METRO;R42;67;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R42;67;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R42;67;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R42;67;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R42;67;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R42;67;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R42;67;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R42;67;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R42;67;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R42;67;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R42;67;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R42;67;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R42;67;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R42;67;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R42;67;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R43;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;78;OUI
+G_0044;2010;FR;METRO;R43;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;6650;OUI
+G_0044;2010;FR;METRO;R43;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));353790;OUI
+G_0044;2010;FR;METRO;R43;............;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;5;OUI
+G_0044;2010;FR;METRO;R43;............;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;213;OUI
+G_0044;2010;FR;METRO;R43;............;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));14095;OUI
+G_0044;2010;FR;METRO;R43;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;4;OUI
+G_0044;2010;FR;METRO;R43;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;93;OUI
+G_0044;2010;FR;METRO;R43;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));6090;OUI
+G_0044;2010;FR;METRO;R43;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;64;OUI
+G_0044;2010;FR;METRO;R43;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;5261;OUI
+G_0044;2010;FR;METRO;R43;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));272055;OUI
+G_0044;2010;FR;METRO;R43;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R43;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;66;OUI
+G_0044;2010;FR;METRO;R43;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));5775;OUI
+G_0044;2010;FR;METRO;R43;............;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R43;............;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R43;............;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R43;............;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R43;............;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R43;............;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R43;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;12;OUI
+G_0044;2010;FR;METRO;R43;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;987;OUI
+G_0044;2010;FR;METRO;R43;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));54225;OUI
+G_0044;2010;FR;METRO;R43;25;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;41;OUI
+G_0044;2010;FR;METRO;R43;25;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;3988;OUI
+G_0044;2010;FR;METRO;R43;25;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));206065;OUI
+G_0044;2010;FR;METRO;R43;25;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R43;25;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R43;25;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R43;25;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R43;25;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R43;25;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R43;25;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;37;OUI
+G_0044;2010;FR;METRO;R43;25;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;3242;OUI
+G_0044;2010;FR;METRO;R43;25;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));165125;OUI
+G_0044;2010;FR;METRO;R43;25;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R43;25;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R43;25;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R43;25;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R43;25;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R43;25;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R43;39;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R43;39;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R43;39;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R43;39;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R43;39;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R43;39;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R43;39;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R43;39;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R43;39;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R43;39;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;27;OUI
+G_0044;2010;FR;METRO;R43;39;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;2019;OUI
+G_0044;2010;FR;METRO;R43;39;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));106930;OUI
+G_0044;2010;FR;METRO;R43;39;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R43;39;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R43;39;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R43;39;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R43;39;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R43;39;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R43;39;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R43;39;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R43;39;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R43;39;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;6;OUI
+G_0044;2010;FR;METRO;R43;39;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;300;OUI
+G_0044;2010;FR;METRO;R43;39;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));15875;OUI
+G_0044;2010;FR;METRO;R43;90;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R43;90;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R43;90;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R43;90;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R43;90;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R43;90;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R52;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;14;OUI
+G_0044;2010;FR;METRO;R52;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;4041;OUI
+G_0044;2010;FR;METRO;R52;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));300785;OUI
+G_0044;2010;FR;METRO;R52;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R52;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R52;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R52;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;4;OUI
+G_0044;2010;FR;METRO;R52;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;671;OUI
+G_0044;2010;FR;METRO;R52;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));51130;OUI
+G_0044;2010;FR;METRO;R52;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;4;OUI
+G_0044;2010;FR;METRO;R52;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;58;OUI
+G_0044;2010;FR;METRO;R52;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));4455;OUI
+G_0044;2010;FR;METRO;R52;............;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R52;............;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R52;............;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R52;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;10;OUI
+G_0044;2010;FR;METRO;R52;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;3253;OUI
+G_0044;2010;FR;METRO;R52;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));240775;OUI
+G_0044;2010;FR;METRO;R52;44;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R52;44;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R52;44;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R52;44;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R52;44;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R52;44;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R52;49;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R52;49;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R52;49;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R52;49;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R52;49;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R52;49;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R52;85;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;11;OUI
+G_0044;2010;FR;METRO;R52;85;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;2568;OUI
+G_0044;2010;FR;METRO;R52;85;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));198695;OUI
+G_0044;2010;FR;METRO;R52;85;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R52;85;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R52;85;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R52;85;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;4;OUI
+G_0044;2010;FR;METRO;R52;85;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;671;OUI
+G_0044;2010;FR;METRO;R52;85;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));51130;OUI
+G_0044;2010;FR;METRO;R52;85;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;4;OUI
+G_0044;2010;FR;METRO;R52;85;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;58;OUI
+G_0044;2010;FR;METRO;R52;85;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));4455;OUI
+G_0044;2010;FR;METRO;R52;85;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R52;85;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R52;85;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R52;85;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;7;OUI
+G_0044;2010;FR;METRO;R52;85;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1780;OUI
+G_0044;2010;FR;METRO;R52;85;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));138685;OUI
+G_0044;2010;FR;METRO;R53;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R53;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R53;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R53;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R53;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R53;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R53;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R53;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;22;OUI
+G_0044;2010;FR;METRO;R53;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));2220;OUI
+G_0044;2010;FR;METRO;R53;............;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R53;............;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R53;............;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R53;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R53;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R53;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R53;35;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R53;35;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R53;35;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R53;35;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R53;35;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R53;35;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R53;35;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R53;35;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R53;35;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R53;35;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R53;35;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R53;35;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R53;35;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R53;35;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R53;35;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R53;56;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R53;56;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R53;56;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R53;56;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R53;56;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R53;56;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R54;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R54;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R54;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R54;............;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R54;............;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R54;............;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R54;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;4;OUI
+G_0044;2010;FR;METRO;R54;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;443;OUI
+G_0044;2010;FR;METRO;R54;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));33075;OUI
+G_0044;2010;FR;METRO;R54;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R54;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;144;OUI
+G_0044;2010;FR;METRO;R54;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));9275;OUI
+G_0044;2010;FR;METRO;R54;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R54;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R54;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R54;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R54;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R54;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R54;17;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R54;17;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R54;17;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R54;17;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R54;17;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R54;17;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R54;17;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;4;OUI
+G_0044;2010;FR;METRO;R54;17;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;443;OUI
+G_0044;2010;FR;METRO;R54;17;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));33075;OUI
+G_0044;2010;FR;METRO;R54;17;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R54;17;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R54;17;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R54;17;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R54;17;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R54;17;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R54;17;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R54;17;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R54;17;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R54;79;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R54;79;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R54;79;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R54;79;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R54;79;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R54;79;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R72;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;126;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;258358;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));13899910;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;4;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;273;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));22805;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;45;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;15583;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));836940;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;13;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;964;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));66635;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;42;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;3969;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));248990;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R72;............;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R72;............;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R72;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;63;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;28184;OUI
+G_0044;2010;FR;METRO;R72;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1493120;OUI
+G_0044;2010;FR;METRO;R72;24;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R72;24;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R72;24;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R72;24;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R72;24;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R72;24;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R72;24;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R72;24;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R72;24;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R72;24;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R72;24;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R72;24;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R72;33;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R72;33;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R72;33;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R72;33;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R72;33;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R72;33;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R72;40;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;6;OUI
+G_0044;2010;FR;METRO;R72;40;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;686;OUI
+G_0044;2010;FR;METRO;R72;40;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));68590;OUI
+G_0044;2010;FR;METRO;R72;40;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R72;40;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R72;40;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R72;40;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R72;40;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R72;40;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R72;40;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R72;40;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R72;40;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R72;47;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R72;47;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R72;47;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R72;47;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R72;47;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R72;47;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R72;47;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R72;47;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R72;47;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R72;47;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R72;47;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R72;47;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R72;64;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;116;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;256894;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));13773020;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R72;64;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R72;64;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R72;64;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;42;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;15380;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));818195;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;9;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;657;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));34940;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;36;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;3695;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));222340;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R72;64;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R72;64;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R72;64;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;63;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;28184;OUI
+G_0044;2010;FR;METRO;R72;64;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1493120;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;284;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;264940;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));12853045;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;12;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;796;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));28555;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;165;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;21423;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1048035;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;115;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;20249;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));978770;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;112;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;3162;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));162680;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;161;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;190418;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));9189125;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;41;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1808;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));96375;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;6;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;112;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));6740;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;50;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;26972;OUI
+G_0044;2010;FR;METRO;R73;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1342765;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;104;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;69398;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));2953300;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;70;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;9066;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));397740;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;28;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;2860;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));120150;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;50;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1143;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));50785;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;58;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;51836;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));2201940;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;4;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;71;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));4505;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;17;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;3907;OUI
+G_0044;2010;FR;METRO;R73;09;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));159020;OUI
+G_0044;2010;FR;METRO;R73;12;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;13;OUI
+G_0044;2010;FR;METRO;R73;12;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;2500;OUI
+G_0044;2010;FR;METRO;R73;12;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));123525;OUI
+G_0044;2010;FR;METRO;R73;12;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R73;12;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R73;12;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R73;12;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;7;OUI
+G_0044;2010;FR;METRO;R73;12;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;414;OUI
+G_0044;2010;FR;METRO;R73;12;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));19905;OUI
+G_0044;2010;FR;METRO;R73;12;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R73;12;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R73;12;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R73;12;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R73;12;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R73;12;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R73;12;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R73;12;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R73;12;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R73;12;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R73;12;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R73;12;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R73;31;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;42;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;23350;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1069160;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;17;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1053;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));51400;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;17;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;875;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));40450;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;8;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;56;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));2625;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;17;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;19089;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));867920;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R73;31;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R73;31;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R73;31;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;11;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;2065;OUI
+G_0044;2010;FR;METRO;R73;31;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));95170;OUI
+G_0044;2010;FR;METRO;R73;32;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R73;32;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;2061;OUI
+G_0044;2010;FR;METRO;R73;32;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));233965;OUI
+G_0044;2010;FR;METRO;R73;32;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R73;32;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R73;32;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R73;32;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R73;32;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R73;32;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R73;32;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R73;32;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R73;32;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R73;46;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;6;OUI
+G_0044;2010;FR;METRO;R73;46;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;2556;OUI
+G_0044;2010;FR;METRO;R73;46;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));120420;OUI
+G_0044;2010;FR;METRO;R73;46;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R73;46;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R73;46;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R73;46;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R73;46;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R73;46;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;113;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;164931;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));8345910;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;68;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;10844;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));575995;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;60;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;15137;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));747785;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;52;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1953;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));108120;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;77;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;114479;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));5747525;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;32;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1471;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));80180;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R73;65;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R73;65;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R73;65;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;20;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;20687;OUI
+G_0044;2010;FR;METRO;R73;65;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1074425;OUI
+G_0044;2010;FR;METRO;R73;81;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R73;81;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R73;81;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R73;81;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R73;81;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R73;81;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R73;81;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R73;81;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R73;81;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R73;81;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R73;81;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R73;81;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R73;82;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R73;82;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R73;82;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R73;82;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R73;82;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R73;82;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R82;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;244;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;142638;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));5723535;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;36;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;4680;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));168040;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;46;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;4153;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));167230;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;92;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;10509;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));430155;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;19;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;366;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));16730;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;85;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;109796;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));4418705;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;18;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;851;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));31610;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R82;............;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R82;............;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R82;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;56;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;12281;OUI
+G_0044;2010;FR;METRO;R82;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));490985;OUI
+G_0044;2010;FR;METRO;R82;01;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;24;OUI
+G_0044;2010;FR;METRO;R82;01;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;3655;OUI
+G_0044;2010;FR;METRO;R82;01;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));159370;OUI
+G_0044;2010;FR;METRO;R82;01;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R82;01;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R82;01;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R82;01;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;6;OUI
+G_0044;2010;FR;METRO;R82;01;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;211;OUI
+G_0044;2010;FR;METRO;R82;01;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));11955;OUI
+G_0044;2010;FR;METRO;R82;01;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;14;OUI
+G_0044;2010;FR;METRO;R82;01;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;2683;OUI
+G_0044;2010;FR;METRO;R82;01;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));116535;OUI
+G_0044;2010;FR;METRO;R82;01;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R82;01;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R82;01;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1410;OUI
+G_0044;2010;FR;METRO;R82;01;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R82;01;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R82;01;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R82;01;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;5;OUI
+G_0044;2010;FR;METRO;R82;01;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;550;OUI
+G_0044;2010;FR;METRO;R82;01;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));21650;OUI
+G_0044;2010;FR;METRO;R82;07;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R82;07;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R82;07;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R82;07;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R82;07;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R82;07;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R82;07;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R82;07;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R82;07;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R82;07;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R82;07;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R82;07;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R82;26;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;25;OUI
+G_0044;2010;FR;METRO;R82;26;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;20585;OUI
+G_0044;2010;FR;METRO;R82;26;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));798295;OUI
+G_0044;2010;FR;METRO;R82;26;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R82;26;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R82;26;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R82;26;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;7;OUI
+G_0044;2010;FR;METRO;R82;26;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1576;OUI
+G_0044;2010;FR;METRO;R82;26;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));66545;OUI
+G_0044;2010;FR;METRO;R82;26;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;4;OUI
+G_0044;2010;FR;METRO;R82;26;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;259;OUI
+G_0044;2010;FR;METRO;R82;26;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));11885;OUI
+G_0044;2010;FR;METRO;R82;26;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R82;26;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R82;26;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R82;26;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;16;OUI
+G_0044;2010;FR;METRO;R82;26;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;16418;OUI
+G_0044;2010;FR;METRO;R82;26;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));629365;OUI
+G_0044;2010;FR;METRO;R82;26;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R82;26;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R82;26;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;84;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;58009;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));2323355;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;5;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;209;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));7730;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;21;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1727;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));65305;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;25;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;2580;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));104190;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;7;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;177;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));6845;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;37;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;49051;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1973005;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;7;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;202;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));7455;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;26;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;4063;OUI
+G_0044;2010;FR;METRO;R82;38;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));158825;OUI
+G_0044;2010;FR;METRO;R82;42;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;5;OUI
+G_0044;2010;FR;METRO;R82;42;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;206;OUI
+G_0044;2010;FR;METRO;R82;42;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));8395;OUI
+G_0044;2010;FR;METRO;R82;42;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R82;42;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R82;42;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R82;42;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R82;42;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R82;42;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R82;42;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R82;42;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R82;42;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R82;42;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R82;42;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R82;42;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R82;69;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R82;69;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R82;69;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R82;69;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R82;69;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R82;69;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R82;73;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;69;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;48789;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1985025;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;22;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;4061;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));143785;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;7;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;514;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));18350;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;30;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;2935;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));113455;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R82;73;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R82;73;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R82;73;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;25;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;38797;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1601885;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;6;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;321;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));11685;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R82;73;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R82;73;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R82;73;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;8;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;2124;OUI
+G_0044;2010;FR;METRO;R82;73;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));93160;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;33;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;8204;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));331495;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;6;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;285;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));9600;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;16;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1884;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));76850;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R82;74;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R82;74;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R82;74;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;13;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1470;OUI
+G_0044;2010;FR;METRO;R82;74;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));57820;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;103;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;23544;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1152865;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;4;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;35;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1995;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));125085;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;42;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;2228;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));110555;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;5;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;65;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));3890;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;8;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;12104;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));543430;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R83;............;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R83;............;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R83;............;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R83;............;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R83;............;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R83;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;35;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;6157;OUI
+G_0044;2010;FR;METRO;R83;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));319825;OUI
+G_0044;2010;FR;METRO;R83;15;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;44;OUI
+G_0044;2010;FR;METRO;R83;15;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;4612;OUI
+G_0044;2010;FR;METRO;R83;15;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));247975;OUI
+G_0044;2010;FR;METRO;R83;15;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R83;15;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R83;15;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R83;15;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;21;OUI
+G_0044;2010;FR;METRO;R83;15;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1584;OUI
+G_0044;2010;FR;METRO;R83;15;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));101330;OUI
+G_0044;2010;FR;METRO;R83;15;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;22;OUI
+G_0044;2010;FR;METRO;R83;15;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1541;OUI
+G_0044;2010;FR;METRO;R83;15;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));71845;OUI
+G_0044;2010;FR;METRO;R83;15;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R83;15;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R83;15;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R83;15;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R83;15;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R83;15;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R83;15;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;13;OUI
+G_0044;2010;FR;METRO;R83;15;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;755;OUI
+G_0044;2010;FR;METRO;R83;15;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));38480;OUI
+G_0044;2010;FR;METRO;R83;43;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;4;OUI
+G_0044;2010;FR;METRO;R83;43;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;382;OUI
+G_0044;2010;FR;METRO;R83;43;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));20515;OUI
+G_0044;2010;FR;METRO;R83;43;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R83;43;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R83;43;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R83;43;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R83;43;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R83;43;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R83;43;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R83;43;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R83;43;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R83;43;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R83;43;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R83;43;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R83;43;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R83;43;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R83;43;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R83;63;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;55;OUI
+G_0044;2010;FR;METRO;R83;63;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;18550;OUI
+G_0044;2010;FR;METRO;R83;63;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));884375;OUI
+G_0044;2010;FR;METRO;R83;63;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R83;63;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R83;63;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R83;63;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R83;63;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R83;63;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R83;63;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R83;63;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R83;63;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R83;63;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R83;63;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R83;63;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R83;63;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;8;OUI
+G_0044;2010;FR;METRO;R83;63;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;12104;OUI
+G_0044;2010;FR;METRO;R83;63;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));543430;OUI
+G_0044;2010;FR;METRO;R83;63;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R83;63;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R83;63;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R83;63;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;22;OUI
+G_0044;2010;FR;METRO;R83;63;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;5402;OUI
+G_0044;2010;FR;METRO;R83;63;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));281345;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;114;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;49544;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));2047785;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R91;............;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R91;............;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R91;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;47;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;5839;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));275630;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;25;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;2183;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));104185;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;20;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;604;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));31530;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;31;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;27966;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1050900;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;5;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;305;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));12390;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R91;............;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R91;............;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R91;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;44;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;12538;OUI
+G_0044;2010;FR;METRO;R91;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));567945;OUI
+G_0044;2010;FR;METRO;R91;11;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;20;OUI
+G_0044;2010;FR;METRO;R91;11;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;5341;OUI
+G_0044;2010;FR;METRO;R91;11;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));240890;OUI
+G_0044;2010;FR;METRO;R91;11;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;18;OUI
+G_0044;2010;FR;METRO;R91;11;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;3041;OUI
+G_0044;2010;FR;METRO;R91;11;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));136050;OUI
+G_0044;2010;FR;METRO;R91;11;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;6;OUI
+G_0044;2010;FR;METRO;R91;11;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;290;OUI
+G_0044;2010;FR;METRO;R91;11;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));11965;OUI
+G_0044;2010;FR;METRO;R91;11;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R91;11;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;44;OUI
+G_0044;2010;FR;METRO;R91;11;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1875;OUI
+G_0044;2010;FR;METRO;R91;11;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R91;11;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R91;11;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R91;11;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R91;11;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R91;11;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R91;11;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R91;11;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R91;11;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R91;30;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;6;OUI
+G_0044;2010;FR;METRO;R91;30;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;15428;OUI
+G_0044;2010;FR;METRO;R91;30;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));584900;OUI
+G_0044;2010;FR;METRO;R91;30;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R91;30;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R91;30;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R91;30;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;5;OUI
+G_0044;2010;FR;METRO;R91;30;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;14220;OUI
+G_0044;2010;FR;METRO;R91;30;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));541000;OUI
+G_0044;2010;FR;METRO;R91;30;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R91;30;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R91;30;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R91;30;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R91;30;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R91;30;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R91;34;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R91;34;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1807;OUI
+G_0044;2010;FR;METRO;R91;34;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));76280;OUI
+G_0044;2010;FR;METRO;R91;34;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R91;34;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R91;34;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R91;34;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R91;34;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R91;34;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R91;34;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R91;34;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R91;34;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R91;34;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R91;34;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R91;34;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R91;48;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;16;OUI
+G_0044;2010;FR;METRO;R91;48;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;8029;OUI
+G_0044;2010;FR;METRO;R91;48;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));282975;OUI
+G_0044;2010;FR;METRO;R91;48;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R91;48;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R91;48;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R91;48;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R91;48;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R91;48;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R91;48;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R91;48;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;26;OUI
+G_0044;2010;FR;METRO;R91;48;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));640;OUI
+G_0044;2010;FR;METRO;R91;48;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;8;OUI
+G_0044;2010;FR;METRO;R91;48;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;7551;OUI
+G_0044;2010;FR;METRO;R91;48;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));261185;OUI
+G_0044;2010;FR;METRO;R91;48;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R91;48;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R91;48;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R91;48;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R91;48;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R91;48;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R91;66;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;69;OUI
+G_0044;2010;FR;METRO;R91;66;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;18939;OUI
+G_0044;2010;FR;METRO;R91;66;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));862740;OUI
+G_0044;2010;FR;METRO;R91;66;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R91;66;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R91;66;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R91;66;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;23;OUI
+G_0044;2010;FR;METRO;R91;66;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;2502;OUI
+G_0044;2010;FR;METRO;R91;66;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));117710;OUI
+G_0044;2010;FR;METRO;R91;66;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;19;OUI
+G_0044;2010;FR;METRO;R91;66;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1893;OUI
+G_0044;2010;FR;METRO;R91;66;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));92220;OUI
+G_0044;2010;FR;METRO;R91;66;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;12;OUI
+G_0044;2010;FR;METRO;R91;66;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;524;OUI
+G_0044;2010;FR;METRO;R91;66;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));28535;OUI
+G_0044;2010;FR;METRO;R91;66;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;11;OUI
+G_0044;2010;FR;METRO;R91;66;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;3021;OUI
+G_0044;2010;FR;METRO;R91;66;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));111385;OUI
+G_0044;2010;FR;METRO;R91;66;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R91;66;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R91;66;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R91;66;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R91;66;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R91;66;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R91;66;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;39;OUI
+G_0044;2010;FR;METRO;R91;66;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;10890;OUI
+G_0044;2010;FR;METRO;R91;66;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));507415;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;332;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;429430;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));16403165;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;12;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;929;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));39345;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;48;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;7222;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));277215;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;48;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;6399;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));274025;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;26;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;397;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));23915;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;213;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;350203;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));13417125;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;46;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1454;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));66845;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R93;............;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R93;............;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R93;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;57;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;60824;OUI
+G_0044;2010;FR;METRO;R93;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));2254625;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;109;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;133285;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));4980770;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R93;04;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R93;04;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R93;04;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;14;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1525;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));55890;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;11;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;2025;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));79885;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;69;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;98053;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));3620555;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;15;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;254;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));14110;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;22;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;31394;OUI
+G_0044;2010;FR;METRO;R93;04;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));1209225;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;167;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;188739;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));7199395;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;8;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;815;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));32780;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;30;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;4684;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));184325;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;31;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;3469;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));147340;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;12;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;119;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));5470;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;103;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;156580;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));5984820;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;19;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;491;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));19950;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;28;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;22581;OUI
+G_0044;2010;FR;METRO;R93;05;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));824710;OUI
+G_0044;2010;FR;METRO;R93;06;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;18;OUI
+G_0044;2010;FR;METRO;R93;06;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;24364;OUI
+G_0044;2010;FR;METRO;R93;06;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));855485;OUI
+G_0044;2010;FR;METRO;R93;06;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R93;06;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R93;06;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R93;06;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R93;06;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R93;06;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R93;06;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R93;06;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;285;OUI
+G_0044;2010;FR;METRO;R93;06;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));9000;OUI
+G_0044;2010;FR;METRO;R93;06;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R93;06;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R93;06;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R93;06;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;13;OUI
+G_0044;2010;FR;METRO;R93;06;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;19950;OUI
+G_0044;2010;FR;METRO;R93;06;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));729250;OUI
+G_0044;2010;FR;METRO;R93;06;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;6;OUI
+G_0044;2010;FR;METRO;R93;06;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;244;OUI
+G_0044;2010;FR;METRO;R93;06;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));9810;OUI
+G_0044;2010;FR;METRO;R93;06;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R93;06;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R93;06;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R93;06;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R93;06;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R93;06;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R93;13;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;19;OUI
+G_0044;2010;FR;METRO;R93;13;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;63713;OUI
+G_0044;2010;FR;METRO;R93;13;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));2423355;OUI
+G_0044;2010;FR;METRO;R93;13;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R93;13;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R93;13;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R93;13;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;16;OUI
+G_0044;2010;FR;METRO;R93;13;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;59760;OUI
+G_0044;2010;FR;METRO;R93;13;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));2276900;OUI
+G_0044;2010;FR;METRO;R93;13;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R93;13;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R93;13;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R93;13;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R93;13;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;3868;OUI
+G_0044;2010;FR;METRO;R93;13;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));142880;OUI
+G_0044;2010;FR;METRO;R93;83;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;15;OUI
+G_0044;2010;FR;METRO;R93;83;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;13907;OUI
+G_0044;2010;FR;METRO;R93;83;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));747110;OUI
+G_0044;2010;FR;METRO;R93;83;Cheptel;002;Vaches laitières;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R93;83;Cheptel;002;Vaches laitières;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R93;83;Cheptel;002;Vaches laitières;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R93;83;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R93;83;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R93;83;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R93;83;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R93;83;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;620;OUI
+G_0044;2010;FR;METRO;R93;83;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));37800;OUI
+G_0044;2010;FR;METRO;R93;83;Cheptel;005;Equidés;Indicateur;001;Nombre de structures collectives;4;OUI
+G_0044;2010;FR;METRO;R93;83;Cheptel;005;Equidés;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;184;OUI
+G_0044;2010;FR;METRO;R93;83;Cheptel;005;Equidés;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));14885;OUI
+G_0044;2010;FR;METRO;R93;83;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R93;83;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R93;83;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R93;83;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;3;OUI
+G_0044;2010;FR;METRO;R93;83;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;365;OUI
+G_0044;2010;FR;METRO;R93;83;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));19275;OUI
+G_0044;2010;FR;METRO;R93;84;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;4;OUI
+G_0044;2010;FR;METRO;R93;84;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;5422;OUI
+G_0044;2010;FR;METRO;R93;84;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));197050;OUI
+G_0044;2010;FR;METRO;R93;84;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R93;84;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R93;84;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R93;84;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R93;84;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R93;84;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R93;84;Cheptel;007;Caprins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R93;84;Cheptel;007;Caprins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R93;84;Cheptel;007;Caprins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R93;84;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R93;84;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R93;84;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R93;84;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R93;84;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R93;84;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R94;............;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;16;OUI
+G_0044;2010;FR;METRO;R94;............;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;5480;OUI
+G_0044;2010;FR;METRO;R94;............;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));387485;OUI
+G_0044;2010;FR;METRO;R94;............;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R94;............;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R94;............;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R94;............;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R94;............;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R94;............;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R94;............;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R94;............;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R94;............;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R94;............;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R94;............;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R94;............;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R94;............;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;8;OUI
+G_0044;2010;FR;METRO;R94;............;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;3169;OUI
+G_0044;2010;FR;METRO;R94;............;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));210760;OUI
+G_0044;2010;FR;METRO;R94;2A;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;11;OUI
+G_0044;2010;FR;METRO;R94;2A;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;3863;OUI
+G_0044;2010;FR;METRO;R94;2A;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));235880;OUI
+G_0044;2010;FR;METRO;R94;2A;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R94;2A;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R94;2A;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R94;2A;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R94;2A;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R94;2A;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R94;2A;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;OUI
+G_0044;2010;FR;METRO;R94;2A;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;OUI
+G_0044;2010;FR;METRO;R94;2A;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;OUI
+G_0044;2010;FR;METRO;R94;2B;Cheptel;001;Ensemble des structures collectives;Indicateur;001;Nombre de structures collectives;5;OUI
+G_0044;2010;FR;METRO;R94;2B;Cheptel;001;Ensemble des structures collectives;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;1617;OUI
+G_0044;2010;FR;METRO;R94;2B;Cheptel;001;Ensemble des structures collectives;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));151605;OUI
+G_0044;2010;FR;METRO;R94;2B;Cheptel;003;Vaches nourrices;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R94;2B;Cheptel;003;Vaches nourrices;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R94;2B;Cheptel;003;Vaches nourrices;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R94;2B;Cheptel;004;Autres bovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R94;2B;Cheptel;004;Autres bovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R94;2B;Cheptel;004;Autres bovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R94;2B;Cheptel;006;Ovins;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R94;2B;Cheptel;006;Ovins;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R94;2B;Cheptel;006;Ovins;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R94;2B;Cheptel;008;Autres herbivores;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R94;2B;Cheptel;008;Autres herbivores;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R94;2B;Cheptel;008;Autres herbivores;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON
+G_0044;2010;FR;METRO;R94;2B;Cheptel;009;UGB;Indicateur;001;Nombre de structures collectives;;NON
+G_0044;2010;FR;METRO;R94;2B;Cheptel;009;UGB;Indicateur;002;Nombre d'animaux ou d'UGB déclarés;;NON
+G_0044;2010;FR;METRO;R94;2B;Cheptel;009;UGB;Indicateur;003;Cumul de durée de pâturage pondérée par le nombre d'animaux (unité : mois x (tête + UGB));;NON

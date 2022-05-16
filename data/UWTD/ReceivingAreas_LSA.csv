@@ -1,10 +1,3 @@
-﻿rca61DateDesignation,rcaAbsenceRisk,rcaBeginLife,rcaCode,rcaEndLife,rcaEnvDom,rcaHydraulic,rcaHydrology,rcaHyperlink,rcalsaRemarks,rcaMorphology,rcaName,rcaZtype,ReportNetEnvelopeFileId,repCode
-19971001,1,,ISLS001,,WATER,0,0,,,0,Faxafloi (Capital aerea) vidtaki,UWWTDLSA,48882,IS2018
-19941227,1,,ISLS003,,WATER,0,0,,The less sensitive area is beging delineated,0,Hafnarfjordur vidtaki,UWWTDLSA,48882,IS2018
-20091219,1,,ISLS008,,WATER,0,0,,,0,Akranes vidtaki,UWWTDLSA,48882,IS2018
-20150926,1,,ISLS002,,WATER,0,0,,,0,"Akureyri, innri Eyjafjordur vidtaki",UWWTDLSA,48882,IS2018
-20050128,1,,ISLS014,,WATER,0,0,,,0,"Dalvik, vidtaki",UWWTDLSA,48882,IS2018
-19940517,1,,ISLS017,,WATER,0,0,,,0,"Husavik, Skjalfandafloi vidtaki",UWWTDLSA,48882,IS2018
-20051215,1,20080213,NORCA16,,WATER,0,1,,,1,Kystlinje Lindesnes - Grense Jakobselv,UWWTDLSA,49055,NO_UWWTD_2018
-20150713,1,20150714,PTLS01A,,WATER,1,1,,National legal act on designation/review of receiving areas (LSA): Decreto-Lei n.º 133/2015 de 13 de julho,1,Cabo da Roca/Estoril,UWWTDLSA,49295,PT_2018
-20150713,1,20150714,PTLS08A,,WATER,1,1,,National legal act on designation/review of receiving areas (LSA): Decreto-Lei n.º 133/2015 de 13 de julho,1,Ilha da Madeira,UWWTDLSA,49295,PT_2018
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bae49bba686edadf02ad7c0de1a4eeab2a2c65a0a7ab592fa4376aebee7d4c3
+size 1248
