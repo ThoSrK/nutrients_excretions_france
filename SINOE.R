@@ -3,7 +3,8 @@
 #+ déchets occasionnels en déchetterie
 library(lubridate)
 #OK tonnages DMA et déchetteries ----------------------------------------------------------------
-file_dma <- read.csv('ADEME_data/sinoe/tonnage/tonnage-dma-par-type-de-dechet.csv')
+path <- "data/ADEME_data/sinoe/"
+file_dma <- read.csv(paste(path, "tonnage/tonnage-dma-par-type-de-dechet.csv", sep = ""))
 dma <- file_dma %>% select(
   Year = ANNEE, RG = C_REGION, DEP = C_DEPT, 
   DECHET = L_TYP_REG_DECHET, TON = TONNAGE_DMA_T) 
@@ -11,7 +12,7 @@ dma <- file_dma %>% select(
 #!!!! OMR à mettre coeff ~0.3 pour garder que putrescible !!!!
 #dma
 ggsave(
-  "dechets/dma.pdf",  height = 7, width = 8,
+  "graphs/dechets/dma.pdf",  height = 7, width = 8,
   plot = 
     plot_grid(
       #graph évolution en france depuis 2009 des 3 types
@@ -42,12 +43,12 @@ ggsave(
       nrow = 2))
 
 #déchetterie
-file_dechetterie <- read.csv('ADEME_data/sinoe/tonnage/tonnage-decheterie-par-type-dechet-par-dept.csv')
+file_dechetterie <- read.csv(paste(path, "tonnage/tonnage-decheterie-par-type-dechet-par-dept.csv", sep = ""))
 dechetterie <- file_dechetterie %>% select(
   Year = ANNEE, RG = C_REGION, DEP = C_DEPT, 
   DECHET = L_TYP_REG_DECHET, TON = TONNAGE_DECH)
 ggsave(
-  "dechets/dechetterie.pdf", height = 7, width = 8,
+  "graphs/dechets/dechetterie.pdf", height = 7, width = 8,
   plot = plot_grid(
     #évolution déchets verts en déchetterie depuis 2009
     dechetterie %>% mutate(Year = ymd(Year, truncated = 2L)) %>%
@@ -70,7 +71,7 @@ ggsave(
 
 #density (on departments) of OMR and déchets verts et biodéchets
 ggsave(
-  "dechets/density_dma_OMR_dechets_verts_et_biodechets.pdf",
+  "graphs/dechets/density_dma_OMR_dechets_verts_et_biodechets.pdf",
   plot = 
     dma %>% filter(DECHET %in% c("Ordures ménagères résiduelles", "Déchets verts et biodéchets")) %>%
     ggplot()+ geom_density(aes(TON/10^3, colour = as.factor(Year))) +
@@ -80,14 +81,14 @@ ggsave(
 
 
 #OK type collecte DMA -------------------------------------------------------
-file_dma_type_collecte <- read.csv('ADEME_data/sinoe/destination_repartition/repartition-dma-collectes-par-type-de-collecte.csv')
+file_dma_type_collecte <- read.csv(paste(path, "destination_repartition/repartition-dma-collectes-par-type-de-collecte.csv", sep = ""))
 type_collecte <- file_dma_type_collecte %>% select(
   Year = ANNEE, RG = C_REGION, DEP = C_DEPT, 
   TYP_COLLECTE, 
   TONNAGE_DMA_T_HG, TONNAGE_DMA_T)
 
 #DMA par type collecte Hors Gravats
-ggsave("dechets/dma_type_collecte_hors_gravat.pdf", height = 7, width = 8,
+ggsave("graphs/dechets/dma_type_collecte_hors_gravat.pdf", height = 7, width = 8,
        plot = 
          plot_grid(
            #carte 3 types par département en 2017
@@ -112,7 +113,7 @@ ggsave("dechets/dma_type_collecte_hors_gravat.pdf", height = 7, width = 8,
        )
 
 #DMA par type collecte Avec Gravats
-ggsave("dechets/dma_type_collecte_avec_gravat.pdf", height = 7, width = 8,
+ggsave("graphs/dechets/dma_type_collecte_avec_gravat.pdf", height = 7, width = 8,
        plot = 
          plot_grid(
            #carte 3 types par département en 2017
@@ -138,7 +139,7 @@ ggsave("dechets/dma_type_collecte_avec_gravat.pdf", height = 7, width = 8,
 
 #denisty (on departments) of dma by type de collecte
 ggsave(
-  "dechets/density_dma_collecte.pdf",
+  "graphs/dechets/density_dma_collecte.pdf",
   plot = 
     type_collecte %>% 
     ggplot()+ geom_density(aes(TONNAGE_DMA_T_HG/10^3, colour = as.factor(Year))) +
@@ -167,14 +168,14 @@ ggsave(
 
 #OK performance collecte OMA -----------------------------------------------------
 #performance-collecte-omr-2017.csv (chiffres clés) inutile, car carte déjà générée ci-dessous 
-file_oma_collecte <- read.csv('ADEME_data/sinoe/performance_collecte/performances-collecte-oma-par-type-dechet-par-dept.csv')
+file_oma_collecte <- read.csv(paste(path, "performance_collecte/performances-collecte-oma-par-type-dechet-par-dept.csv", sep = ""))
 oma_collecte <- file_oma_collecte %>% select(
   Year = ANNEE, RG = C_REGION, DEP = C_DEPT, 
   DECHET = L_TYP_REG_DECHET, 
   TON = TONNAGE_OMA_T, POP = POPULATION, kg_per_cap = RATIO_OMA)
 
 ggsave(
-  "dechets/oma.pdf", width = 10, height = 7, 
+  "graphs/dechets/oma.pdf", width = 10, height = 7, 
   plot = 
     plot_grid(
       plot_grid(
@@ -234,7 +235,7 @@ ggsave(
 
 #density (on departments) of dma by type de collecte
 ggsave(
-  "dechets/density_OMA_OMR_dechets_alimentaires.pdf",
+  "graphs/dechets/density_OMA_OMR_dechets_alimentaires.pdf",
   plot = 
     oma_collecte %>% 
     filter(DECHET %in% c("Ordures ménagères résiduelles", "Déchets de produits alimentaires")) %>%
@@ -258,7 +259,7 @@ ggplot() +
 
 
 # destination et répartition ----------------------------------------------
-file_oma_destination <- read.csv('ADEME_data/sinoe/destination_repartition/destination-oma-par-type-de-traitement.csv')
+file_oma_collecte <- read.csv(paste(path, "destination_repartition/destination-oma-par-type-de-traitement.csv", sep = ""))
 oma_destination <- file_oma_destination %>% select(
   Year = ANNEE, RG = C_REGION, DEP = C_DEPT, 
   DECHET = L_TYP_REG_DECHET, TRAITEMENT = L_TYP_REG_SERVICE,

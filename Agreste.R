@@ -201,29 +201,31 @@ plot_grid(nrow = 2, # not same y axis
   )
 
 #évolution temporelle ensemble par type d'animaux
-SAA_livestock_nb %>% filter(RG == "...") %>% 
+g <- SAA_livestock_nb %>% filter(RG == "...") %>% 
   group_by(Year, simple_name) %>% summarise(tN_excr = sum(tN_excr)) %>%
-  ggplot() + geom_area(aes(Year, tN_excr/10^3, fill = simple_name)) + ylab("ktN excreted")
-
+  ggplot() + geom_area(aes(Year, tN_excr/10^3, fill = simple_name)) + ylab("ktN excreted") +
+  xlim(2016, 2020)
+ggsave("graphs/excretion/N_temporal.pdf", g, w=8, h=4)
 #excrétions spatiales par types d'animaux
-ggplot(MAP_DEP) + labs(fill = "ktN") + 
+g <- ggplot(MAP_DEP) + labs(fill = "ktN") + 
   geom_sf(aes(fill = tN_excr/10^3), color = "black", size = 0.2) + 
   coord_sf(datum = NA, expand = FALSE) +  # enlever l'affichage des coordonnés et de la grille
   ggtitle("Excretions animales") +  scale_fill_gradientn(colours = c("white", "orange","red")) +
   theme(panel.background = element_blank(), plot.title = element_text(hjust = 0.5, size = 16)) +
   facet_wrap(vars(simple_name))
+ggsave("graphs/excretion/N_spatial_species.pdf", g, w=10, h=8)
 #au DEP 75 species name = NA (ainsi que les valeurs numériques)
 #voir comment régler ça
 
 #excretions spatiales totales
-MAP_DEP %>% group_by(DEP) %>%
+g <- MAP_DEP %>% group_by(DEP) %>%
   summarise(tN_excr = sum(tN_excr)) %>%
   ggplot() + labs(fill = "ktN") + 
   geom_sf(aes(fill = tN_excr/10^3), color = "black", size = 0.2) + 
   coord_sf(datum = NA, expand = FALSE) +  # enlever l'affichage des coordonnés et de la grille
   ggtitle("Excretions animales totales") +  scale_fill_gradientn(colours = c("white", "orange","red")) +
   theme(panel.background = element_blank(), plot.title = element_text(hjust = 0.5, size = 16)) 
-
+ggsave("graphs/excretion/N_spatial.pdf", g, w=10, h=8)
 #par la définition adoptée de LU (=85kgN), carte identiqueà kgN
 
 

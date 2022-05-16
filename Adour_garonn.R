@@ -76,22 +76,24 @@ ggplot(data_PT) + geom_point(aes(PORDO, POENT)) + scale_x_log10() + scale_y_log1
 #pollution entrante vs rendement : motif bizarre pour faibles flux
 ggplot(data_PT) + geom_point(aes(POENT, rendement)) + ylim(0,1) + scale_x_log10() 
 #distribution des rendements sur toutes les stations
-ggplot(data_PT) + 
+g <- ggplot(data_PT) + 
   geom_density(aes(rendement, color = "no weight")) +   xlim(0,1) +
   geom_density(aes(rendement, weight = POENT/sum(POENT), color = "P in weight"))  +
   geom_vline(aes(xintercept = mean(rendement), color = "no weight"), linetype = "dashed") +
   geom_vline(aes(xintercept = weighted.mean(rendement, POENT), color = "P in weight"), linetype = "dashed")
+ggsave("graphs/Adour_Garonne/P_yield.pdf", g, w=6, h=4)
 mean(data_PT$rendement, na.rm = T) #rendement moyen non pondéré
 weighted.mean(data_PT$rendement, data_PT$POENT, nar.rm = T) #rendement moyen pondéré par P entrant
 #moyenne de 45% vs 70%
 #distribution rendement par type de traitement, non pondéré par la charge entrante
-ggplot(data_PT) + 
+g <- ggplot(data_PT) + 
   geom_density(aes(rendement, color = "no weight")) +   xlim(0,1) +
   geom_density(aes(rendement, weight = POENT/sum(POENT), color = "P in weight"))  +
   facet_wrap(vars(traitement_principal), scales = "free")
+ggsave("graphs/Adour_Garonne/P_yield_treatment.pdf", g, w=12, h=8)
 total_P_in <-  sum(data_PT$POENT)
 total_obs <- nrow(data_PT)
-data_PT %>% group_by(traitement_principal) %>% summarise(
+temp <- data_PT %>% group_by(traitement_principal) %>% summarise(
   mean_no_weight = mean(rendement)*100,
   mean_P_in_weight = weighted.mean(rendement, POENT)*100,
   nb_observation = n(), 
@@ -99,6 +101,7 @@ data_PT %>% group_by(traitement_principal) %>% summarise(
   P_in = sum(POENT),
   percent_of_total_P = sum(POENT)/total_P_in*100) %>%
   arrange(P_in)
+
 #environ 5-10 points de pourcentage de différence entre weighted et non weighted mean
 #sauf Secondaire bio (Ntk) qui représente 80% des obs et 50% de la charge entrante, là passe de 40% à 60%
 
@@ -110,22 +113,24 @@ ggplot(data_NGL) + geom_point(aes(PORDO, POENT)) + scale_x_log10() + scale_y_log
 #pollution entrante vs rendement : contrairement à P pas de motif bizarre
 ggplot(data_NGL) + geom_point(aes(POENT, rendement)) + ylim(0,1) + scale_x_log10() 
 #distribution des rendements sur toutes les stations
-ggplot(data_NGL) + 
+g <- ggplot(data_NGL) + 
   geom_density(aes(rendement, color = "no weight")) +   xlim(0,1) +
   geom_density(aes(rendement, weight = POENT/sum(POENT), color = "N in weight"))  +
   geom_vline(aes(xintercept = mean(rendement), color = "no weight"), linetype = "dashed") +
   geom_vline(aes(xintercept = weighted.mean(rendement, POENT), color = "N in weight"), linetype = "dashed")
+ggsave("graphs/Adour_Garonne/N_yield.pdf", g, w=6, h=4)
 mean(data_NGL$rendement, na.rm = T) #rendement moyen non pondéré
 weighted.mean(data_NGL$rendement, data_NGL$POENT, nar.rm = T) #rendement moyen pondéré par N entrant
 #moyenne passe de 40 à 60%  (mais quasi identique à 62% si on exclut les rendements 0 et 1)
 #distribution rendement par type de traitement, non pondéré par la charge entrante
-ggplot(data_NGL) + 
+g <- ggplot(data_NGL) + 
   geom_density(aes(rendement, color = "no weight")) +   xlim(0,1) +
   geom_density(aes(rendement, weight = POENT/sum(POENT), color = "N in weight"))  +
   facet_wrap(vars(traitement_principal), scales = "free")
+ggsave("graphs/Adour_Garonne/N_yield_treatment.pdf", g, w=12, h=8)
 total_N_in <-  sum(data_NGL$POENT)
 total_obs <- nrow(data_NGL)
-data_NGL %>% group_by(traitement_principal) %>% summarise(
+temp <- data_NGL %>% group_by(traitement_principal) %>% summarise(
   mean_no_weight = mean(rendement)*100,
   mean_N_in_weight = weighted.mean(rendement, POENT)*100,
   nb_observation = n(), 

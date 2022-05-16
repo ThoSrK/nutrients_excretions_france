@@ -35,13 +35,13 @@ fra_2 <- readRDS(paste(path, "gadm36_FRA_2_sf.rds", sep =""))#départements (dep
 fra_3 <- readRDS(paste(path, "gadm36_FRA_3_sf.rds", sep =""))#arrondissement (districts)
 fra_4 <- readRDS(paste(path, "gadm36_FRA_4_sf.rds", sep =""))#cantons (cantons)
 fra_5 <- readRDS(paste(path, "gadm36_FRA_5_sf.rds", sep ="")) %>% rename(NAME = NAME_5)#commune simple (commune)
-fra_5_bis <- st_read("data/georef-france-commune/georef-france-commune-millesime.shp") #il va falloir enlever dom tom
+fra_5_bis <- sf::st_read("data/maps/georef-france-commune-millesime.shp") #il va falloir enlever dom tom
 
-st_crs(fra_0) #projection “long/lat” (système non projeté, mieux d'utiliser un système projeté)
+sf::st_crs(fra_0) #projection “long/lat” (système non projeté, mieux d'utiliser un système projeté)
 list(fra_0, fra_1, fra_2, fra_3, fra_4, fra_5, fra_5_bis) %>% # Mofifier le système de coordonnées vers "WGS 84 / Pseudo-Mercator"
   purrr::map(.f = st_transform, crs = 3857) %>%
   setNames(nm = c("fra_0", "fra_1", "fra_2", "fra_3", "fra_4", "fra_5", "fra_5_bis"))
-list2env(envir = .GlobalEnv)
+
 
 #plots france maps
 plot(st_geometry(fra_0)) 
