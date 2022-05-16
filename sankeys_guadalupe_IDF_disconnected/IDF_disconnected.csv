@@ -1,0 +1,21 @@
+﻿source;target;flow_group;value
+Excrétats hors égouts;ANC;ANC;1315
+Excrétats hors égouts;Couches enfants;Couches enfants;1093
+Excrétats hors égouts;Couches adultes;Couches adultes;888
+Excrétats hors égouts;Toilettes embarquées;Toilettes embarquées;144
+Excrétats hors égouts;Toilettes chimiques;Toilettes chimiques;28
+Excrétats hors égouts;Toilettes sèches ;Toilettes sèches ;6
+ANC;STEU;STEU;63
+ANC;Air;Air;272
+ANC;Sous-Sol;Sous-Sol;980
+Couches enfants;Incinérateurs;Incinérateurs;1093
+Couches adultes;Incinérateurs;Incinérateurs;888
+Incinérateurs;Air;Air;1994
+Toilettes embarquées;STEU;STEU;144
+Toilettes chimiques;STEU;STEU;28
+Toilettes sèches ;Agriculture;Agriculture;6
+STEU;Air;Air;124
+STEU;Boues;Boues;22
+STEU;Rivière;Rivière;89
+Boues;Agriculture;Agriculture;9
+Boues;Incinérateurs;Incinérateurs;13
