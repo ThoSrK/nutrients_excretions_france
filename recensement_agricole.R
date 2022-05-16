@@ -13,7 +13,8 @@ library(stringr)
 
 
 # RA crops (recensement agricole 1970-2010) -------------------------------
-file_RA_crops <- read.csv("recensement_agricole/crops/FDS_G_1013_2010.txt", sep = ";")
+path <- "data/Agreste/recensement_agricole/"
+file_RA_crops <- read.csv(paste(path, "crops/FDS_G_1013_2010.txt", sep=""), sep = ";")
 #possibilité de charger depuis 1970 mais prends du temps
 # file_RA_crops <- bind_rows(
 #   read.csv("recensement_agricole/crops/FDS_G_1013_2010.txt", sep = ";"),
@@ -50,11 +51,11 @@ RA_crops_COM <- RA_crops %>% filter(RG != "............", DEP != "............",
 
 
 #RA livestock recensement agricole (only 2010 for communes) ----------------------------------------------------
-file_RA_livestock <- read.csv("Agreste/recensement_agricole/livestock/FDS_G_2141_2010.csv", sep = ";")
+file_RA_livestock <- read.csv(paste(path, "livestock/by_commune/FDS_G_2141_2010.csv", sep=""), sep = ";")
 RA_livestock <- file_RA_livestock %>% 
   dplyr::select(
     Year = ANNREF, #il n'y a que l'année 2010 en fait
-    FRDOM, DEP, COM, RG = REGION,
+    FRDOM, RG = REGION, DEP, COM,
     FARM_SIZE = G_2141_LIB_DIM1, 
     LIVESTOCK_TYPE = G_2141_LIB_DIM2,
     UNITE = G_2141_LIB_DIM3,
@@ -63,7 +64,15 @@ RA_livestock <- RA_livestock %>%
   filter(
     FARM_SIZE == "Ensemble des exploitations (hors pacages collectifs)", #pas de filtre sur la taille des exploitations
     FRDOM == "METRO", #garder que métropole
-    LIVESTOCK_TYPE %in% c("Total Bovins", "Total Equidés", "Total Caprins", "Total Ovins", "Total Porcins", "Volailles" )) %>%
+    LIVESTOCK_TYPE %in% c(
+      "Total Bovins", "Vaches laitières", "Vaches allaitantes",
+      "Total Equidés", 
+      "Total Caprins", "Chèvres",
+      "Total Ovins", "Brebis laitières", "Brebis nourrices",
+      "Total Porcins", "Truies reproductrices de 50 kg ou plus",
+      "Volailles"),
+    UNITE == "Cheptel correspondant (têtes)", #je ne veux pas en UGB
+    COM != "............") %>%
   #possibilité d'affiner les catégories de livestock
   mutate(
     LIVESTOCK_TYPE = case_when(#obligé de supprimer les espaces pour les futurs titres de colonnes
@@ -73,7 +82,14 @@ RA_livestock <- RA_livestock %>%
       LIVESTOCK_TYPE == "Total Ovins" ~ "Total_Ovins",
       LIVESTOCK_TYPE == "Total Porcins" ~ "Total_Porcins",
       LIVESTOCK_TYPE == "Volailles" ~ "Volailles")) %>%
-  dplyr::select(-Year, -FRDOM)
+  dplyr::select(-Year, -FRDOM, -FARM_SIZE, -UNITE)
+
+#vérifier qu'en groupant par région et dep on obtient même résultat qu'eux au global
+test <- RA_livestock %>% spread(LIVESTOCK_TYPE, VALUE, fill = NA)
+#departmental
+test <- RA_livestock %>% group_by(RG, DEP, LIVESTOCK_TYPE) %>% summarise(VALUE = sum(VALUE, na.rm = T))
+#regional
+test <- RA_livestock %>% group_by(RG, LIVESTOCK_TYPE) %>% summarise(VALUE = sum(VALUE, na.rm = T))
 
 #Effectifs en UGBTA : possibilité d'avoir nb de têtes ou autre UGB
 RA_livestock_UGB<- RA_livestock %>% filter(UNITE == "Unité Gros Bétail Tous aliments  (UGBTA)")
