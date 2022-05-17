@@ -55,7 +55,7 @@ file_SAA_nb_cattle_pig <- list.files( #read and merge csv of all years
   path = paste(path, "nb_livestock/", sep = ""),
   pattern = "*csv", full.names = T) %>% lapply(read.csv, sep = ";") %>% bind_rows
 file_SAA_nb_cattle_pig <- file_SAA_nb_cattle_pig %>% #rename coloumns to merge with other animals
-  rename(DIM1 = SAANR_6_DIM1, MOD_DIM1 = SAANR_6_MOD_DIM1, LIB_DIM1 = SAANR_6_LIB_DIM1,
+  dplyr::rename(DIM1 = SAANR_6_DIM1, MOD_DIM1 = SAANR_6_MOD_DIM1, LIB_DIM1 = SAANR_6_LIB_DIM1,
          DIM3 = SAANR_6_DIM3, MOD_DIM3 = SAANR_6_MOD_DIM3, LIB_DIM3 = SAANR_6_LIB_DIM3,
          DIM4 = SAANR_6_DIM4, MOD_DIM4 = SAANR_6_MOD_DIM4, LIB_DIM4 = SAANR_6_LIB_DIM4) %>%
   filter(LIB_DIM3 != "dont brebis-mères laitières" ) %>%  #enlève sous-catégorie inutile
@@ -78,7 +78,7 @@ file_SAA_nb_horses <- list.files( #read and merge csv of all years
 #quand REGION == "", DEP == "..."
 #donc ce qu'on veut c'est remplacer REGION par DEP quand REGION == "..." ou ""
 file_SAA_nb_horses <- file_SAA_nb_horses %>%
-  rename(DIM1 = SAANR_7_DIM1, MOD_DIM1 = SAANR_7_MOD_DIM1, LIB_DIM1 = SAANR_7_LIB_DIM1,
+  dplyr::rename(DIM1 = SAANR_7_DIM1, MOD_DIM1 = SAANR_7_MOD_DIM1, LIB_DIM1 = SAANR_7_LIB_DIM1,
          DIM3 = SAANR_7_DIM3, MOD_DIM3 = SAANR_7_MOD_DIM3, LIB_DIM3 = SAANR_7_LIB_DIM3,
          DIM4 = SAANR_7_DIM4, MOD_DIM4 = SAANR_7_MOD_DIM4, LIB_DIM4 = SAANR_7_LIB_DIM4) %>%
   filter(
@@ -100,7 +100,7 @@ file_SAA_nb_poultry_rabbit <- list.files( #read and merge csv of all years
 #quand REGION == "", DEP == "..." et les "NR." : à changer
 #donc ce qu'on veut c'est remplacer REGION par DEP quand REGION == ""
 file_SAA_nb_poultry_rabbit <- file_SAA_nb_poultry_rabbit %>%
-  rename(DIM1 = SAANR_8_DIM1, MOD_DIM1 = SAANR_8_MOD_DIM1, LIB_DIM1 = SAANR_8_LIB_DIM1,
+  dplyr::rename(DIM1 = SAANR_8_DIM1, MOD_DIM1 = SAANR_8_MOD_DIM1, LIB_DIM1 = SAANR_8_LIB_DIM1,
          DIM3 = SAANR_8_DIM3, MOD_DIM3 = SAANR_8_MOD_DIM3, LIB_DIM3 = SAANR_8_LIB_DIM3,
          DIM4 = SAANR_8_DIM4, MOD_DIM4 = SAANR_8_MOD_DIM4, LIB_DIM4 = SAANR_8_LIB_DIM4) %>%
   mutate(VALEUR = VALEUR*1000) %>%#car effectif reporté par 1000 têtes
