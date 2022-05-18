@@ -1,24 +1,23 @@
-library(ggplot2)
-#library(plyr)
-library(dplyr)
-library(cowplot)
-library(tidyverse)
-library(lattice)
-library(effects)
-library(boot)
-library(labelled)
-library(questionr)
 library(tidyr)
-library(stringr)
-#attention conflit entre le "select" de dplyr et celui de raster
+library(dplyr)
+library(ggplot2) #for ggplot graphs
+library(cowplot) #for plot_grid()
+#library(tidyverse) #to read excel ?
+#library(lattice) #pour graphiques temporels, je n'utilise pas
+#library(effects) #for linear models I guess
+#library(boot) #bootstrap
+#library(labelled) #pas utilisés je crois
+#library(questionr) #pas utilisé je crois
+library(stringr) #to manipulate strings
+
 
 #A FAIRE : VOIR SI LES AUTRES FACONS DE CALCULER LES MOYENNES DE RENDEMENTS CHANGENT BEAUCOUP DE CHOSES
-
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 # Load and clean data -----------------------------------------------------
 steu <- read.csv("data/STEU/Adour_Garonne/donnees_rejets_collectivites_2020/listeObj.csv", sep = ";")
 rejets <- read.csv("data/STEU/Adour_Garonne/donnees_rejets_collectivites_2020/listeDataIndicateurs.csv", sep = ";")
 rejets <-  rejets %>% filter(code_rj !="0564520V0011") %>% # la sation 0564520V0011 est en double !!!! avec des valeurs différentes
-  mutate(valeur = rowMeans(.[7:18], na.rm(T))) %>% #on fait la moyenne annuelle
+  mutate(valeur = rowMeans(.[7:18], na.rm = T)) %>% #on fait la moyenne annuelle
   #attention ici je prend la moyenne des rendements, chaque mois a le même poids. Pas forcément pertinent ?
   #on peut aussi faire sum(in)/sum(out)
   #ou weighted.meand(in/out, weight = in) donne plus de poids aux jours à fort débit
@@ -30,6 +29,92 @@ rejets <-  rejets %>% filter(code_rj !="0564520V0011") %>% # la sation 0564520V0
   select(-valeur_y, -type_rj) %>% #colonnes inutiles
   mutate_all(~ifelse(is.nan(.), NA, .)) #on remplace les NAN issus de la moyenne par des na
 all_data <- full_join(rejets, steu, by = "code_rj")
+
+
+
+# ratio N/P ---------------------------------------------------------------
+path <- "data/STEU/Adour_Garonne/"
+all_rejets <- bind_rows(
+  read.csv(paste(path,"donnees_rejets_collectivites_2010/listeDataIndicateurs.csv", sep=""), sep=";"),
+  read.csv(paste(path,"donnees_rejets_collectivites_2011/listeDataIndicateurs.csv", sep=""), sep=";"),
+  read.csv(paste(path,"donnees_rejets_collectivites_2012/listeDataIndicateurs.csv", sep=""), sep=";"),
+  read.csv(paste(path,"donnees_rejets_collectivites_2013/listeDataIndicateurs.csv", sep=""), sep=";"),
+  read.csv(paste(path,"donnees_rejets_collectivites_2014/listeDataIndicateurs.csv", sep=""), sep=";"),
+  read.csv(paste(path,"donnees_rejets_collectivites_2015/listeDataIndicateurs.csv", sep=""), sep=";"),
+  read.csv(paste(path,"donnees_rejets_collectivites_2016/listeDataIndicateurs.csv", sep=""), sep=";"),
+  read.csv(paste(path,"donnees_rejets_collectivites_2017/listeDataIndicateurs.csv", sep=""), sep=";"),
+  read.csv(paste(path,"donnees_rejets_collectivites_2018/listeDataIndicateurs.csv", sep=""), sep=";"),
+  read.csv(paste(path,"donnees_rejets_collectivites_2019/listeDataIndicateurs.csv", sep=""), sep=";"),
+  read.csv(paste(path,"donnees_rejets_collectivites_2020/listeDataIndicateurs.csv", sep=""), sep=";"))
+
+all_rejets_before_2010 <- list.files( #read and merge csv of all years
+  path = paste(path, "donnees_rejets_collectivites_2000_2009/", sep = ""),
+  pattern = "listeDataIndicateurs_*", full.names = T) %>% lapply(read.csv, sep = ";") %>% bind_rows
+
+all_rejets <- bind_rows(all_rejets, all_rejets_before_2010)
+
+temp <-  all_rejets %>% 
+  # filter(
+  #   code_rj !="0564520V0011" & code_rj !="0519028V0011" &
+  #   code_rj !="0519069V0021" & code_rj !="0509047V0041" &
+  #   code_rj !="0532290V0021" & code_rj !="0531512V0011" &
+  #   code_rj !="0519176V0021" & code_rj !="0516028V0051" &
+  #   code_rj !="0565138V0031" & code_rj !="0511080V0011") %>% # la sation 0564520V0011 est en double !!!! avec des valeurs différentes
+  mutate(valeur = rowMeans(.[7:18], na.rm = T)) %>% #on fait la moyenne annuelle
+  #attention ici je prend la moyenne des rendements, chaque mois a le même poids. Pas forcément pertinent ?
+  #on peut aussi faire sum(in)/sum(out)
+  #ou weighted.meand(in/out, weight = in) donne plus de poids aux jours à fort débit
+  #donc à essayer pour voir ce que ça change
+  select(-valeur_01, -valeur_02, -valeur_03, -valeur_04, -valeur_05, -valeur_06, #on enlève valeurs mensuelles
+         -valeur_07, -valeur_08, -valeur_09, -valeur_10, -valeur_11, -valeur_12)
+temp <- temp %>%
+  mutate(valeur = case_when(
+    is.na(valeur_y) == F ~ valeur_y, T~valeur)) %>% #on met les valeurs de boue avec les autres
+  select(-valeur_y, -type_rj) %>% #colonnes inutiles
+  mutate_all(~ifelse(is.nan(.), NA, .)) %>% #on remplace les NAN issus de la moyenne par des na
+  filter(is.na(valeur)==F)
+
+#voir celles qui font doublon, puis les enlever
+doublons <- temp %>% count(annee, code_rj, parametre, indicateur) %>% filter(n != 1) #les identifier
+temp <- anti_join(temp, doublons, by=c("annee","code_rj","parametre","indicateur")) #les retrier du fichier principal
+
+#mettre en colonne les indicateurs (permet aussi de voir si le retrait des doublons a bien marché)
+temp <- temp %>%
+  spread(key = parametre, value = valeur)
+group_by(annee, indicateur) %>%
+  summarise(NGL = sum(NGL, na.rm = T), PT = sum(PT, na.rm = T))
+
+
+#ratio entrant temporel
+g <- temp %>% filter(indicateur %in% c("POENT", "POSOR")) %>%
+  mutate(indicateur = case_when(
+    indicateur == "POENT" ~ "entrée", 
+    indicateur == "POSOR" ~ "sortie")) %>%
+  group_by(annee, indicateur) %>% 
+  summarise(PT=sum(PT, na.rm=T), NGL=sum(NGL, na.rm=T)) %>% 
+  mutate(ratio = PT/NGL) %>%
+ggplot() + geom_line(aes(annee, ratio, color=indicateur)) + ylim(0, NA) + ylab("P total / N total")
+ggsave("graphs/Adour_Garonne/ratio.pdf", g, w=6, h=4)
+
+#rendement global temporel
+g <- temp %>% filter(indicateur %in% c("POENT", "POSOR")) %>% select(code_rj, annee, indicateur, NGL, PT) %>%
+  gather(key = pollution, value = valeur, NGL:PT) %>% spread(key = indicateur, value = valeur) %>%
+  group_by(annee, pollution) %>% summarise(
+    POENT = sum(POENT, na.rm = T),
+    POSOR = sum(POSOR, na.rm = T)) %>%
+  mutate(yield = (1-POSOR/POENT)*100) %>%
+  ggplot() + geom_line(aes(annee, yield, colour = pollution)) + ylim(0,100) + 
+  ylab("rendement global sur les stations d'Adour-Garonne")
+ggsave("graphs/Adour_Garonne/rendement_temporel.pdf", g, w=6, h=4)
+
+#voir l'évolution temporelle du nb de données rapportées. POSOR et POENT sont les + rapportées
+as.data.frame(table(temp  %>% select(annee, indicateur))) %>%
+  ggplot() + geom_point(aes(annee, Freq, colour = indicateur)) + ylim(0, NA)
+as.data.frame(table(temp  %>% filter(indicateur %in% c("POENT", "POSOR")) %>% select(annee, indicateur))) %>%
+  ggplot() + geom_point(aes(annee, Freq, colour = indicateur)) + ylim(0, NA)
+
+
+# yield -------------------------------------------------------------------
 
 #phosphore
 data_PT <- all_data %>% filter(parametre == "PT") %>% #4456 obs

@@ -54,7 +54,7 @@ RA_crops_DEP <- RA_crops %>% filter(RG != "............", DEP != "............",
 RA_crops_COM <- RA_crops %>% filter(RG != "............", DEP != "............", COM != "............")
 
 
-#RA livestock recensement agricole (only 2010 for communes) ----------------------------------------------------
+#RA livestock communes ----------------------------------------------------
 file_RA_livestock <- read.csv(paste(path, "livestock/by_commune/FDS_G_2141_2010.csv", sep=""), sep = ";")
 RA_livestock <- file_RA_livestock %>% 
   dplyr::select(
@@ -185,57 +185,11 @@ g <- RA_livestock %>% group_by(INSEE_REG) %>% summarise(
   theme(panel.background = element_blank(), plot.title = element_text(hjust = 0.5, size = 16))
 ggsave("test.pdf", g, w=10, h=8)
 
+# RA livestock canton -----------------------------------------------------
+file_RA_livestock <- read.csv(paste(path, "livestock/by_canton/FDS_RA_3053_2010.csv", sep=""), sep = ";")
 
 
-#Check heads total matching subtotals ----------------------------------------
-check <- file_RA_livestock %>% 
-  dplyr::select(
-    Year = ANNREF, #il n'y a que l'année 2010 en fait
-    FRDOM, INSEE_REG = REGION, INSEE_DEP = DEP, INSEE_COM = COM,
-    FARM_SIZE = G_2141_LIB_DIM1, 
-    LIVESTOCK_TYPE = G_2141_LIB_DIM2,
-    UNITE = G_2141_LIB_DIM3,
-    VALUE = VALEUR) %>%
-  dplyr::filter(
-    FARM_SIZE == "Ensemble des exploitations (hors pacages collectifs)", #pas de filtre sur la taille des exploitations
-    FRDOM == "METRO", #garder que métropole
-    LIVESTOCK_TYPE %in% c(
-      "Total Bovins",
-      "Total Equidés", 
-      "Total Caprins", 
-      "Total Ovins", 
-      "Total Porcins",
-      "Volailles"),
-    UNITE == "Cheptel correspondant (têtes)") %>% #je veux que garder effectifs
-  dplyr::select(-Year, -FRDOM, -FARM_SIZE)
-  # mutate(VALUE = case_when( #replacing NAs with 0 to be able to sum
-  #   is.na(VALUE) == T ~ 0, T ~ VALUE))
-#france
-temp1 <- check %>% filter(INSEE_REG == "............")
-temp2 <- check %>% filter(INSEE_COM != "............") %>%
-  group_by(LIVESTOCK_TYPE) %>% 
-  summarise(VALUE = sum(VALUE, na.rm=T))
-test <- full_join(temp1, temp2, by=c("LIVESTOCK_TYPE"))
-ggplot(test) + geom_col(aes(x = LIVESTOCK_TYPE, y=VALUE.x/VALUE.y)) +
-  ylab("vrai total / total calculé")
-#REG
-temp1 <- check %>% filter(INSEE_REG != "............", INSEE_DEP == "............")
-temp2 <- check %>% filter(INSEE_COM != "............") %>%
-  group_by(INSEE_REG, LIVESTOCK_TYPE) %>% 
-  summarise(VALUE = sum(VALUE, na.rm=T))
-test <- full_join(temp1, temp2, by=c("INSEE_REG","LIVESTOCK_TYPE"))
-ggplot(test) + geom_point(aes(x = VALUE.x, y=VALUE.y)) +
-  ylab("total calculé") + xlab("vrai total") + facet_wrap(vars(LIVESTOCK_TYPE), scales="free") +
-  geom_abline(slope=1, intercept=0)
-#DEP
-temp1 <- check %>% filter(INSEE_DEP != "............", INSEE_COM == "............")
-temp2 <- check %>% filter(INSEE_COM != "............") %>%
-  group_by(INSEE_DEP, LIVESTOCK_TYPE) %>% 
-  summarise(VALUE = sum(VALUE, na.rm=T))
-test <- full_join(temp1, temp2, by=c("INSEE_DEP","LIVESTOCK_TYPE"))
-ggplot(test) + geom_point(aes(x = VALUE.x, y=VALUE.y)) +
-  ylab("total calculé") + xlab("vrai total") + facet_wrap(vars(LIVESTOCK_TYPE), scales="free") +
-  geom_abline(slope=1, intercept=0)
+
 
 
 
